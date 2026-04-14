@@ -1,0 +1,442 @@
+[
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "8-12 Eylül",
+    "ünite": "12.1.1. DÜZGÜN ÇEMBERSEL HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "a) Periyot, frekans, çizgisel hız ve açısal hız, merkezcil ivme kavramları verilir.\nb) Öğrencilerin düzgün çembersel harekette çizgisel hız vektörünü çember üzerinde iki farklı noktada çizerek merkezcil ivmenin şiddetini bulmaları ve yönünü göstermeleri sağlanır. Çizgisel ivme kavramına girilmez.\n\n\nDeney yaparak veya simülasyonlarla merkezcil kuvvetin bağlı olduğu değişkenler arasındaki ilişkinin belirlenmesi sağlanır. Matematiksel model verilir. Matematiksel hesaplamalar yapılır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 2,
+    "ay": "",
+    "hafta_tarihi": "15-19 Eylül",
+    "ünite": "12.1.1. DÜZGÜN ÇEMBERSEL HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "a) Yatay ve düşey düzlemde düzgün çembersel hareket yapan cisimlere ait serbest cisim diyagramlarının çizilmesi sağlanır.\nb) Düzgün çembersel harekette konum, hız ve ivme hesaplamaları yapılır. Hesaplamalarda trigonometrik fonksiyonlara girilmez.\n\n\nVirajlarda emniyetli dönüş için hız sınırına uymanın önemi vurgulanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "22-26 Eylül",
+    "ünite": "12.1.2. DÖNEREK ÖTELEME HAREKETİ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin, noktasal kütlelerden meydana gelen sistemlerin eylemsizlik momentlerini hesaplamaları sağlanır.\nb) Öğrencilerin, farklı geometrik şekillere sahip (çubuk, halka, disk, silindir ve küre) katı cisimlerin eylemsizlik momentleri ile ilgili hesaplamalar yapması sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4. Hafta:\n 29 Eylül-3 Ekim",
+    "ünite": "12.1.3. AÇISAL MOMENTUM",
+    "konu": "",
+    "öğrenme çıktıları": "Açısal momentumun atomik boyutta da fiziksel bir nicelik olduğu belirtilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 5,
+    "ay": "",
+    "hafta_tarihi": "5. Hafta:\n 6-110 Ekim",
+    "ünite": "12.1.3. AÇISAL MOMENTUM",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin, açısal momentumu, eylemsizlik momenti ve açısal hız kavramlarını kullanarak elde etmeleri sağlanır.\nb) Öğrencilerin torku, eylemsizlik momenti ve açısal ivme kavramlarını kullanarak elde etmeleri sağlanır.\n\n\nÖğrencilerin, açısal momentumun korunumu ile ilgili problem çözmeleri sağlanır.\n\nTopaç ve jiroskop hareketi ile ilgili matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 6,
+    "ay": "",
+    "hafta_tarihi": "13-17 Ekim",
+    "ünite": "12.1.4. KÜTLE ÇEKİM KUVVETİ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Kütle çekim kuvvetine değinilir. Matematiksel model verilir. Matematiksel hesaplamalar yapılır.\nb) Yapay uydular, ay ve gezegenlerinin hareketleri açıklanır.\n\n\na) Öğrencilerin yerçekimi ivmesini; dünyanın yarıçapı ve kütlesi cinsinden ifade etmeleri sağlanır.\nb) Öğrencilerin homojen bir kürenin içinde, yüzeyinde ve dışındaki çekim alanını gösteren kuvvet çizgilerini çizmeleri sağlanır.\nc) Her kütlenin bir kütle çekim alanı oluşturduğu vurgulanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 7,
+    "ay": "",
+    "hafta_tarihi": "20-24 Ekim",
+    "ünite": "12.1.4. KÜTLE ÇEKİM KUVVETİ\n\n\n12.1.5. KEPLER KANUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "Bağlanma ve kurtulma enerjisi kavramları üzerinde durulur.\n\n\n\n Galileo Galilei, Ali Kuşçu ve Uluğ Bey’in gök cisimleri ve gök cisimlerinin hareketleri ile ilgili çalışmalarına yer verilir.\n\n\n\nÖğrencilerin tasarımlarında iletişim uydularını da kullanabilecekleri vurgulanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 8,
+    "ay": "",
+    "hafta_tarihi": "8. Hafta:\n 27 Ekim-31 Ekim",
+    "ünite": "12.2.1. BASİT HARMONİK HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "a) Basit harmonik harekete günlük hayattan örnekler verilir.\nb) Yay sarkacı ve basit sarkaç için uzanım, genlik, periyot, frekans, geri çağırıcı kuvvet ve denge noktası kavramları harmonik hareket örnekleri ile açıklanır.\nc) Uzanım, genlik, periyot, frekans ilişkisi ile ilgili matematiksel hesaplamalar yapılır.\nç) Basit harmonik hareket ile ilgili fonksiyonların türevlerine ve işlemlerine girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 9,
+    "ay": "",
+    "hafta_tarihi": "3-7 Kasım",
+    "ünite": "12.2.1. BASİT HARMONİK HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "a) Basit harmonik harekete günlük hayattan örnekler verilir.\nb) Yay sarkacı ve basit sarkaç için uzanım, genlik, periyot, frekans, geri çağırıcı kuvvet ve denge noktası kavramları harmonik hareket örnekleri ile açıklanır.\nc) Uzanım, genlik, periyot, frekans ilişkisi ile ilgili matematiksel hesaplamalar yapılır.\nç) Basit harmonik hareket ile ilgili fonksiyonların türevlerine ve işlemlerine girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 10,
+    "ay": "",
+    "hafta_tarihi": "17-21 Kasım",
+    "ünite": "12.2.1. BASİT HARMONİK HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak konum-zaman grafiğini çizmeleri ve yorumlamaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 11,
+    "ay": "",
+    "hafta_tarihi": "24-28 Kasım",
+    "ünite": "12.2.1. BASİT HARMONİK HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "Öğrencilerin deney yaparak veya simülasyonlarla periyoda etki eden değişkenleri belirlemeleri sağlanır. Periyodun matematiksel modeli verilir.\n\n\n\na) Paralel ve seri bağlı yaylarda eş değer yay sabiti hesaplamalarının yapılması sağlanır.\nb) Esnek yayların hareketi tek boyut ile sınırlandırılır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 12,
+    "ay": "",
+    "hafta_tarihi": "1-5 Aralık",
+    "ünite": "12.2.1. BASİT HARMONİK HAREKET",
+    "konu": "",
+    "öğrenme çıktıları": "Öğrencilerin, sönümlü basit harmonik hareketi deney ve/veya simülasyonlarla gözlemlemeleri ve nitel olarak açıklamaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 13,
+    "ay": "",
+    "hafta_tarihi": "8-12 Aralık",
+    "ünite": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "Öğrencilerin deney yaparak veya simülasyonlar kullanarak elde ettikleri verilerden yararlanarak yorum yapmaları sağlanır.\n\n\n\na) Öğrencilerin girişim desenini deney yaparak veya simülasyonlar kullanarak çizmeleri sağlanır.\nb) Öğrencilerin, su dalgalarında girişim olayını kullanarak yapıcı (katar) ve yıkıcı (düğüm) noktaların yol farkını karşılaştırmaları sağlanır.\nc) Öğrencilerin, belli bir noktada yapıcı ve yıkıcı girişimlere yol açan dalgaların frekanslarını veya dalga boylarını belirlemeleri sağlanır.\n\nFaz farkıyla ilgili matematiksel hesaplamalar yapılmaz.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 14,
+    "ay": "",
+    "hafta_tarihi": "15-19 Aralık",
+    "ünite": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin, Young deneyini yaparak veya simülasyonlar kullanarak girişim desenini çizmeleri sağlanır.\nb) Öğrencilerin, simülasyonlarla ışık dalgalarında dalga boyu ve yarık genişliği arasındaki ilişkiyi incelemeleri sağlanır.\nc) Öğrencilerin, çift yarıkta girişim ile ilgili matematiksel modelleri elde etmeleri sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 15,
+    "ay": "",
+    "hafta_tarihi": "22-26 Aralık",
+    "ünite": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin kırınım desenini deney yaparak veya simülasyonlar kullanarak çizmeleri sağlanır.\nb) Öğrencilerin, simülasyonlarla ışık dalgalarında dalga boyu ve yarık genişliği arasındaki ilişkiyi incelemeleri sağlanır.\nc) Öğrencilerin, tek yarıkta kırınım ile ilgili matematiksel modelleri elde etmeleri sağlanır.\n ç) İnce zarlarda girişim, hava kaması ve çözme gücü konularına girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 16,
+    "ay": "",
+    "hafta_tarihi": "16. Hafta:\n 29 Aralık-2 Ocak",
+    "ünite": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "Örneklerin günlük hayattan seçilmesine özen gösterilir. Matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 17,
+    "ay": "",
+    "hafta_tarihi": "5-9 Ocak",
+    "ünite": "12.3.2. ELEKTROMANYETİK DALGALAR",
+    "konu": "",
+    "öğrenme çıktıları": "Maxwell’in elektromanyetik teorinin kurucusu olduğu vurgulanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 18,
+    "ay": "",
+    "hafta_tarihi": "13-16 Ocak",
+    "ünite": "12.4.1. ATOM KAVRAMININ TARİHSEL GELİŞİMİ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Bohr atom teorisi haricindeki diğer teoriler, ayrıntılara girilmeden tarihsel gelişim süreci içinde verilir.\nb) Atom teorilerinin birbirleriyle ilişkili olarak geliştirildiği vurgulanmalıdır.\nc) Bohr atom teorisinde; atom yarıçapı, enerji seviyeleri, uyarılma, iyonlaşma ve ışıma kavramları vurgulanır. Matematiksel hesaplamalara girilmez.\nç) Milikan yağ damlası, Thomson’ın e/m tayini, Rutherford saçılması deneyleri ile sınırlı kalınır. Bu deneylerle ilgili matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 19,
+    "ay": "",
+    "hafta_tarihi": "2-6 Şubat",
+    "ünite": "12.4.1. ATOM KAVRAMININ TARİHSEL GELİŞİMİ",
+    "konu": "",
+    "öğrenme çıktıları": "Atomların birbirleriyle, elektronla, fotonla ve ısıyla uyarılma şartlarının tartışılması sağlanır.\n\n\na) Heisenberg Belirsizlik İlkesi, kuantum sayıları, olasılık dalgası ve Schrödinger dalga denklemine değinilir.\nb) Matematiksel hesaplamalara girilmez.\nc) Feza Gürsey, Asım Orhan Barut ve Behram N. Kurşunoğlu'nun atom fiziği konusunda çalışmalar yaptığı vurgulanır.\n\na) Stern-Gerlach deneyinin sonuçlarının incelenmesi sağlanarak elektron spini kavramı üzerinde durulur.\nb) Öğrencilerin sis odası deneyini araştırmaları ve üzerinde tartışmaları sağlanır.\nc) Matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 20,
+    "ay": "",
+    "hafta_tarihi": "19-13 Şubat",
+    "ünite": "12.4.2. BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+    "konu": "",
+    "öğrenme çıktıları": "a) Evrenin oluşumu ve geleceğiyle ilgili farklı teorilerin de olduğu vurgulanır.\nb) Öğrencilerin büyük patlama teorisini destekleyen bilimsel çalışmaları araştırmaları ve araştırma sonuçlarını rapor olarak sunmaları sağlanır.\nc) Hubble Yasası’na değinilir. Matematiksel modeli verilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 21,
+    "ay": "",
+    "hafta_tarihi": "16-20 Şubat",
+    "ünite": "12.4.2. BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin atom altı parçacıkları standart model çerçevesinde tanımlamaları sağlanır.\nb) Korunum yasaları ile ilgili matematiksel hesaplamalara girilmez.\nc) Dört temel kuvvetin açıklanması sağlanır.\nç) Abdus Salam, Sheldon Lee Glashow ve Steven Weinberg’in Nobel ödülünü elektromanyetik ve zayıf kuvvetin birleşik bir kuvvet görünümünde olduğunu keşfetmeleri üzerine aldıkları vurgulanır.\n\nÖğrencilerin, atom altı parçacıklar arasındaki etkileşim kuvvetini açıklamaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 22,
+    "ay": "",
+    "hafta_tarihi": "23-27 Şubat",
+    "ünite": "12.4.2. BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+    "konu": "",
+    "öğrenme çıktıları": "a) Atom altı parçacıklardan başlayarak madde oluşumunun modelle açıklanması sağlanır.\nb) Higgs bozonuna kısaca değinilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 23,
+    "ay": "",
+    "hafta_tarihi": "2-6 Mart",
+    "ünite": "12.4.3. RADYOAKTİVİTE",
+    "konu": "",
+    "öğrenme çıktıları": "a) Radyoaktif madde, radyoaktivite, radyoaktif ışıma kavramları üzerinde durulur.\nb) Bazı atom çekirdeklerinin çeşitli yollarla ışıma yapabileceği vurgulanır.\nc) Marie Curie ve Wilhelm Conrad Röntgen’in radyoaktivite konusunda yaptığı çalışmalara yer verilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 24,
+    "ay": "",
+    "hafta_tarihi": "9-13 Mart",
+    "ünite": "12.4.3. RADYOAKTİVİTE",
+    "konu": "",
+    "öğrenme çıktıları": "a) Alfa, beta, gama ışınımları dışındaki bozunma türlerine girilmez.\nb) Enerjideki değişim açıklanırken matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 25,
+    "ay": "",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "12.4.3. RADYOAKTİVİTE",
+    "konu": "",
+    "öğrenme çıktıları": "a) Nükleer enerji ile çalışan sistemler hakkında araştırma yapılması sağlanır.\nb) Nükleer reaktörlerin bilime, teknolojiye, ülke ekonomisine ve çevreye etkileri üzerinde durulur.\nc) Atom bombasının yıkıcı etkileri tarihî gerçekler üzerinden açıklanarak nükleer silahsızlanmanın dünya barışı açısından önemi üzerinde durulur.\n\n\n\na) Yaşam alanlarında var olan radyasyon kaynakları, radyasyondan korunma yolları ve radyasyon güvenliğinin araştırılması ve bilgilerin paylaşılması sağlanır.\nb) İyonlaştırıcı radyasyona değinilerek kullanıldığı alanlardan ve biyolojik etkilerinden bahsedilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 26,
+    "ay": "",
+    "hafta_tarihi": "26. Hafta:\n 30 Mart - 3 Nisan",
+    "ünite": "12.5.1. ÖZEL GÖRELİLİK",
+    "konu": "",
+    "öğrenme çıktıları": "a) Deneyin yapılış aşamaları üzerinde durulur.\nb) Deneyin farklı bilim insanları tarafından farklı koşullarda çok kez tekrarlanmış olmasının nedeni üzerinde durulur. Bilimsel çalışmalarda sabırlı ve kararlı olmanın önemi vurgulanır.\nc) Matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 27,
+    "ay": "",
+    "hafta_tarihi": "6-10 Nisan",
+    "ünite": "12.5.1. ÖZEL GÖRELİLİK",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin özel görelilik ile ilgili “düşünce deneylerini” tartışmaları sağlanır.\nb) Öğrencilerin klasik ve göreli durumlar için eş zamanlılık kavramlarını tartışmaları sağlanır.\nc) Özel görelilikte matematiksel hesaplamalara girilmez.\n\n\nMatematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 28,
+    "ay": "",
+    "hafta_tarihi": "14-17 Nisan",
+    "ünite": "12.5.2. KUANTUM FİZİĞİNE GİRİŞ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Planck hipotezi açıklanır.\nb) Dalga boyu-ışıma şiddeti grafiğinden hareketle klasik yaklaşımla modern yaklaşımın çelişkisi ve bu çelişkinin kuantum fiziğinin doğuşuna etkisi vurgulanır.\nc) Siyah cisim ışıması ile ilgili matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 29,
+    "ay": "",
+    "hafta_tarihi": "20-24 Nisan",
+    "ünite": "12.5.3. FOTOELEKTRİK OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "a) Hertz’in çalışmaları üzerinde durulur.\nb) Einstein’ın fotoelektrik denklemi üzerinde durulur.\nc) Öğrencilerin simülasyonlar yardımıyla fotoelektrik olaya etki eden değişkenleri gözlemlemeleri ve yorumlamaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 30,
+    "ay": "",
+    "hafta_tarihi": "30. Hafta:\n 27 Nisan-1 Mayıs",
+    "ünite": "12.5.3. FOTOELEKTRİK OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "12.5.3.3. Farklı metaller için maksimum kinetik enerji-frekans grafiğini çizer.\n\n\n12.5.3.4. Fotoelektronların sahip olduğu maksimum kinetik enerji, durdurma gerilimi ve metalin eşik enerjisi arasındaki matematiksel ilişkiyi açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 31,
+    "ay": "",
+    "hafta_tarihi": "4-8 Mayıs",
+    "ünite": "12.5.3. FOTOELEKTRİK OLAYI",
+    "konu": "",
+    "öğrenme çıktıları": "Fotoelektrik olayın günlük hayattaki olumlu (musluklarda hijyenin sağlanması gibi) ve olumsuz (sahte güneş gözlüklerinin kullanımı gibi) etkileri üzerinde durulur.\n\n\nTasarım yapılmadan önce fotoelektrik olayın teknolojideki uygulama alanlarının araştırılması sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 32,
+    "ay": "",
+    "hafta_tarihi": "11-15 Mayıs",
+    "ünite": "12.5.4. COMPTON SAÇILMASI VE DE BROGLİE DALGA BOYU",
+    "konu": "",
+    "öğrenme çıktıları": "Öğrencilerin model veya simülasyonlar kullanarak Compton saçılmasını açıklamaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 33,
+    "ay": "",
+    "hafta_tarihi": "18-22 Mayıs",
+    "ünite": "12.5.4. COMPTON SAÇILMASI VE DE BROGLİE DALGA BOYU",
+    "konu": "",
+    "öğrenme çıktıları": "Işığın tanecik, dalga, hem tanecik hem de dalga doğası ile açıklanan olaylar vurgulanır.\n\n\na) De Broglie bağıntısı verilir.\nb) Matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 34,
+    "ay": "",
+    "hafta_tarihi": "25-29 Mayıs",
+    "ünite": "12.6.1. GÖRÜNTÜLEME TEKNOLOJİLERİ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Öğrencilerin röntgen, MR, PET, tomografi, ultrason, radarlar, sonar, termal kameralar ile ilgili araştırmalar yaparak bu teknolojilerin oluşturulmasında fiziğin rolünü sorgulamaları sağlanır.\nb) Görüntüleme cihazlarının (röntgen, MR, PET, tomografi, ultrason, radarlar, sonar, termal kameralar) çalışma ilkelerine kısaca değinilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 35,
+    "ay": "",
+    "hafta_tarihi": "1-5 Haziran",
+    "ünite": "12.6.2. YARI İLETKEN TEKNOLOJİSİ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Diyot ve transistörlerin işlevi verilir, çeşitlerine girilmez.\nb) Öğrencilerin kumun bir elektronik devre elemanı hâline gelme sürecini araştırmaları ve paylaşmaları sağlanır.\na) Yapı elemanlarının özelliklerinin detaylarına girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "8-12 Haziran",
+    "ünite": "12.6.2. YARI İLETKEN TEKNOLOJİSİ",
+    "konu": "",
+    "öğrenme çıktıları": "a) Yapı elemanlarının özelliklerinin detaylarına girilmez.\nb) Güneş pillerinin günümüzdeki ve gelecekteki yerinin tartışılması sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 37,
+    "ay": "",
+    "hafta_tarihi": "15-19 Haziran",
+    "ünite": "12.6.3. SÜPER İLETKENLER\n\n12.6.4. NANOTEKNOLOJİ\n\n12.6.5. LASER IŞINLARI",
+    "konu": "",
+    "öğrenme çıktıları": "Hızlı trenlerin ve parçacık hızlandırıcılarının çalışma ilkeleri üzerinde durulur.\n\na) Fizik bilimi ile nanobilim ve nanoteknolojinin ilişkisi üzerinde durulur.\nb) Fonksiyonel ve doğal nanoyapılara sahip sistemlere örnekler verilir.\nMalzemelerin nano boyutlara indirilmesi durumunda yeni özellikler kazandıkları vurgulanır.\nNanomalzemelerin bilim ve teknolojinin gelişimine etkisi vurgulanır.\n\na) Simülasyonlar ve videolar yardımıyla LASER ışınının oluşumunun incelenmesi sağlanır.\nb) Matematiksel hesaplamalara girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  }
+]

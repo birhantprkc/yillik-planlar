@@ -1,0 +1,442 @@
+[
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "8-12 Eylül",
+    "ünite": "12.1.1. İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+    "konu": "",
+    "öğrenme çıktıları": "a. Yükseltgenme ve indirgenme kavramları üzerinde durulur.\nb. Redoks tepkimeleri denkleştirilerek yaygın yükseltgenler (O2, KMnO4, H2SO4, HNO3, H2O2) ve indirgenler (H2, SO2) tanıtılır.\nc. İyonik redoks tepkimelerinin denkleştirilmesine girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 2,
+    "ay": "",
+    "hafta_tarihi": "15-19 Eylül",
+    "ünite": "12.1.1. İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+    "konu": "",
+    "öğrenme çıktıları": "a. İndirgen-yükseltgen arasındaki elektron alışverişinin doğrudan temas dışında bir yolla mümkün olup olmayacağının üzerinde durulur.\nb. Elektrik enerjisi ile redoks tepkimesinin istemlilik/istemsizlik durumu ilişkilendirilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "22-26 Eylül",
+    "ünite": "12.1.2. Elektrotlar ve Elektrokimyasal Hücreler",
+    "konu": "",
+    "öğrenme çıktıları": "a. Katot ve anot kavramları, indirgenme-yükseltgenme ile ilişkilendirilerek ele alınır.\nb. Elektrot, yarı-hücre ve hücre kavramları üzerinde durulur.\nc. İnert elektrotların hangi durumlarda gerekli olduğu belirtilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4. Hafta:\n 29 Eylül-3 Ekim",
+    "ünite": "12.1.2.Elektrotlar ve Elektrokimyasal Hücreler",
+    "konu": "",
+    "öğrenme çıktıları": "ç. Pillerde tuz köprüsünün işlevi açıklanır.\nd. Zn/Cu elektrokimyasal pili deneyi yaptırılır; bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılarak da açıklanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 5,
+    "ay": "",
+    "hafta_tarihi": "6-10 Ekim",
+    "ünite": "12.1.3. Elektrot Potansiyelleri",
+    "konu": "",
+    "öğrenme çıktıları": "a. Standart yarı hücre indirgenme potansiyelleri, standart hidrojen yarı hücresi ile ilişkilendirilir.\nb. Metallerin aktiflik sırası üzerinde durulur.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 6,
+    "ay": "",
+    "hafta_tarihi": "13-17 Ekim",
+    "ünite": "12.1.3. Elektrot Potansiyelleri",
+    "konu": "",
+    "öğrenme çıktıları": "c. İki ayrı yarı hücre arasındaki istemli redoks tepkimesinin, standart indirgenme potansiyelleri ile ilişkilendirilmesi sağlanır.\nç. Standart olmayan koşullarda elektrot potansiyellerinin hesaplanmasına yönelik çalışmalara yer verilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 7,
+    "ay": "",
+    "hafta_tarihi": "20-24 Ekim",
+    "ünite": "12.1.4. Kimyasallardan Elektrik Üretimi",
+    "konu": "",
+    "öğrenme çıktıları": "12.1.4.1. Standart koşullarda galvanik pillerin voltajını ve kullanım ömrünü örnekler vererek açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 8,
+    "ay": "",
+    "hafta_tarihi": "8. Hafta:\n 27 Ekim-31 Ekim",
+    "ünite": "12.1.4. Kimyasallardan Elektrik Üretimi",
+    "konu": "",
+    "öğrenme çıktıları": "12.1.4.2.  Öğrencilerin lityum iyon pilleri ve güncel kullanım alanlarını açıklayan bir poster hazırlamaları ve sınıfta sunmaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 9,
+    "ay": "",
+    "hafta_tarihi": "3-7 Kasım",
+    "ünite": "12.1.5. Elektroliz",
+    "konu": "",
+    "öğrenme çıktıları": "a. 1 mol elektronun toplam yükü üzerinden elektrik yükü-kütle ilişkisi kurulması sağlanır.\nb. Yük birimi Coulomb (C) tanımlanır.\nc. Faraday bağıntısı açıklanarak bu bağıntının kullanıldığı hesaplamalar yapılır.\nç. Öğrencilerin Faraday bağıntısını elektronik tablolama programı kullanarak kurgulamaları, değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır.\nd. Kaplama deneyi yaptırılır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 10,
+    "ay": "",
+    "hafta_tarihi": "17-21 Kasım",
+    "ünite": "12.1.5. Elektroliz",
+    "konu": "",
+    "öğrenme çıktıları": "Suyun elektrolizi ile hidrojen ve oksijen eldesi deneyi yaptırılır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 11,
+    "ay": "",
+    "hafta_tarihi": "24-28 Kasım",
+    "ünite": "12.1.6. Korozyon",
+    "konu": "",
+    "öğrenme çıktıları": "a. Korozyon kavramı açıklanır.\nb. Korozyondan koruma süreci metallerin aktiflik sırası ile ilişkilendirilir; kurban elektrot kavramı üzerinde durulur.\nc. Kurban elektrotun kullanım alanlarına örnekler verilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 12,
+    "ay": "",
+    "hafta_tarihi": "1-5 Aralık",
+    "ünite": "12.2.1. Anorganik ve Organik Bileşikler",
+    "konu": "",
+    "öğrenme çıktıları": "a. Organik bileşik kavramının tarihsel gelişimi açıklanır.\nb. Anorganik ve organik bileşiklerin özellikleri vurgulanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 13,
+    "ay": "",
+    "hafta_tarihi": "8-12 Aralık",
+    "ünite": "12.2.2. Basit Formül ve Molekül Formülü",
+    "konu": "",
+    "öğrenme çıktıları": "12.2.2.1. Organik bileşiklerin basit ve molekül formüllerinin bulunması ile ilgili hesaplamalar yapar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 14,
+    "ay": "",
+    "hafta_tarihi": "15-19 Aralık",
+    "ünite": "12.2.3. Doğada Karbon",
+    "konu": "",
+    "öğrenme çıktıları": "a. Karbon elementinin çok sayıda bileşik oluşturma özelliği ile bağ yapma özelliği arasında ilişki kurulur.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 15,
+    "ay": "",
+    "hafta_tarihi": "22-26 Aralık",
+    "ünite": "12.2.3. Doğada Karbon",
+    "konu": "",
+    "öğrenme çıktıları": "b. Elmas ve grafitin incelenmesi sağlanarak fulleren, nanotüp ve grafenin yapıları ve önemleri üzerinde durulur.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 16,
+    "ay": "",
+    "hafta_tarihi": "16. Hafta:\n 29 Aralık-2 Ocak",
+    "ünite": "12.2.4. Lewis Formülleri",
+    "konu": "",
+    "öğrenme çıktıları": "Oktetin aşıldığı moleküller kapsam dışıdır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 17,
+    "ay": "",
+    "hafta_tarihi": "5-9 Ocak",
+    "ünite": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "konu": "",
+    "öğrenme çıktıları": "12.2.5.1. Tek, çift ve üçlü bağların oluşumunu hibrit ve atom orbitalleri temelinde açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 18,
+    "ay": "",
+    "hafta_tarihi": "12-16 Ocak",
+    "ünite": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "konu": "",
+    "öğrenme çıktıları": "a. Hibritleşme ve VSEPR (Değerlik Katmanı Elektron Çifti İtmesi) yaklaşımı üzerinde durulur.\n2. periyot elementlerinin hidrojenle yaptığı bileşikler dışındakiler verilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 19,
+    "ay": "",
+    "hafta_tarihi": "2-6 Şubat",
+    "ünite": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "konu": "",
+    "öğrenme çıktıları": "b. Öğrencilerin hibritleşme ve VSEPR yaklaşımı konusunda bilişim teknolojilerinden yararlanarak (animasyon, simülasyon, video vb.) molekül modelleri yapmaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 20,
+    "ay": "",
+    "hafta_tarihi": "9-13 Şubat",
+    "ünite": "12.3.1. Hidrokarbonlar",
+    "konu": "",
+    "öğrenme çıktıları": "12.3.1.2.                                                                                       \na. Yanma ve halojenlerle yer değiştirme özellikleri üzerinde durulur.\nb. Yapısal izomerlik ve çeşitleri üzerinde durulur.\nc. Alkanların yakıtlarda [(LPG, benzin, motorin (dizel), fuel oil, katran ve asfalt ürünlerinin bileşenleri)] kullanıldığı, hekzanın ise çözücü olarak kullanıldığı vurgulanır.\nç. Benzinlerde oktan sayısı hakkında okuma parçası verilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 21,
+    "ay": "",
+    "hafta_tarihi": "16-20 Şubat",
+    "ünite": "12.3.1. Hidrokarbonlar",
+    "konu": "",
+    "öğrenme çıktıları": "a. Cis- trans izomerlik işlenir ve top çubuk modeli ile gösterilmesi sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 22,
+    "ay": "",
+    "hafta_tarihi": "23-27 Şubat",
+    "ünite": "12.3.1. Hidrokarbonlar",
+    "konu": "",
+    "öğrenme çıktıları": "b. Alkenlerin kullanım alanı olarak alkil halojenür ve alkoller için ham madde oldukları vurgulanır.\nc. Alkenlerin gıda endüstrisindeki kullanımları ve polimerleşme özellikleri hakkında bilgi verilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 23,
+    "ay": "",
+    "hafta_tarihi": "2-6 Mart",
+    "ünite": "12.3.1. Hidrokarbonlar",
+    "konu": "",
+    "öğrenme çıktıları": "Asetilenin üretimi, kullanım alanları, katılma özellikleri ve birincil patlayıcı tuzları üzerinde durulur. Diğer alkin örneklerine girilmez.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 24,
+    "ay": "",
+    "hafta_tarihi": "9-13 Mart",
+    "ünite": "12.3.1. Hidrokarbonlar",
+    "konu": "",
+    "öğrenme çıktıları": "Benzen, naftalin, anilin, toluen ve fenol bileşikleri tanıtılarak yapıları ve kullanım alanlarını açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 25,
+    "ay": "",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "12.3.2. Fonksiyonel Gruplar",
+    "konu": "",
+    "öğrenme çıktıları": "Alkil gruplarına hidroksi-, alkoksi-, halo-, karbonil-, karboksil-, amino-, nitro-, fenil- grupları bağlanınca oluşan bileşikler genel olarak tanıtılır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 26,
+    "ay": "",
+    "hafta_tarihi": "26. Hafta:\n 30 Mart - 3 Nisan",
+    "ünite": "12.3.3. Alkoller",
+    "konu": "",
+    "öğrenme çıktıları": "a. Etanolün fermantasyon yöntemi ile elde edilişi açıklanır.\nb. Etanolün alkil halojenürlerden ve alkenlerden elde edilişi üzerinde durulur.\nc. Alkollerin, hidroksil sayısına ve alfa karbonundaki alkil sayısına göre sınıflandırılması sağlanır.\nç. 1-4 karbonlu mono alkoller, etandiol (glikol) ve propantriol (gliserin) tanıtılır.\nd. Metanolün zehirli özellikleri vurgulanır.\ne. Etanolün sağlık alanında kullanımına vurgu yapılır.\nf. Etanolün biyoyakıt işlevi gördüğü ve çözücü olarak kullanıldığı belirtilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 27,
+    "ay": "",
+    "hafta_tarihi": "6-10 Nisan",
+    "ünite": "12.3.4. Eterler",
+    "konu": "",
+    "öğrenme çıktıları": "a. Asimetrik-simetrik eter ayrımı yapılır.\nb. Eterlerin çözücü özelliklerine vurgu yapılır.\nc. Fonksiyonel grup izomerliği açıklanarak eterlerin alkollerle izomerliğine değinilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 28,
+    "ay": "",
+    "hafta_tarihi": "13-17 Nisan",
+    "ünite": "12.3.5. Karbonil Bileşikleri",
+    "konu": "",
+    "öğrenme çıktıları": "a. Aldehit ve ketonları ayırt edecek düzeyde yapısal ilişki kurularak indirgenme-yükseltgenme özelliklerinin karşılaştırılması sağlanır.\nb. Aldehitlere örnek olarak formaldehit, asetaldehit ve benzaldehit; ketonlara örnek olarak aseton verilir.\nc. Aldehit ve ketonların fonksiyonel grup izomerliklerine değinilir.\nç. Aldehit ve ketonların gıda ve kozmetik sanayinde nasıl kullanıldıkları üzerinde durulur.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 29,
+    "ay": "",
+    "hafta_tarihi": "20-24 Nisan",
+    "ünite": "12.3.6. Karboksilik Asitler",
+    "konu": "",
+    "öğrenme çıktıları": "a. Formik asit, asetik asit, salisilik asit, ftalik asit, sitrik asit, malik asit, folik asit ve benzoik asit tanıtılır. Düz zincirli monokarboksilli asitlerin dışındakilerin formüllerine girilmez.\nb. Doymuş ve doymamış yağ asitleri tanıtılır.\nc. Yağ asidi tuzlarının sabun olarak kullanımına değinilir.\nç. Benzoik asidin ve benzoatların gıda koruyucu maddesi olarak kullanıldığı belirtilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 30,
+    "ay": "",
+    "hafta_tarihi": "30. Hafta:\n 27 Nisan-1 Mayıs",
+    "ünite": "12.3.7. Esterler",
+    "konu": "",
+    "öğrenme çıktıları": "a. Esterleşme tepkimesine örnek verilir.\nb. Esterlerin yer aldığı doğal maddelere örnek olarak lanolin, balmumu ve balsam verilir.\nc. Esterlerin çözücü olarak kullanımlarına ilişkin örnekler verilir.\nç. Karboksilik asit ve esterlerin fonksiyonel grup izomerliklerine değinilir.\nd. Sabun eldesi deneyi yaptırılır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 31,
+    "ay": "",
+    "hafta_tarihi": "4-8 Mayıs",
+    "ünite": "12.4.1. Fosil Yakıtlar",
+    "konu": "",
+    "öğrenme çıktıları": "a. Fosil yakıtlar ve bu yakıtların oluşumu bilişim teknolojilerinden (animasyon, simülasyon, video vb.) yararlanılarak açıklanır.\nb. Fosil yakıtları bilinçsizce tüketmenin bireye, topluma ve çevreye verdiği zararlara değinilir.\nc. Öğrencilerin fosil yakıtların çevreye zararlı etkilerini araştırmaları ve elde ettikleri bilgilerden yararlanarak bunların çevreye zararlı etkilerini azaltmaya yönelik çözüm önerileri hakkında tartışmaları sağlanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 32,
+    "ay": "",
+    "hafta_tarihi": "11-15 Mayıs",
+    "ünite": "12.4.2. Alternatif Enerji Kaynakları",
+    "konu": "",
+    "öğrenme çıktıları": "a. Güneş, rüzgâr, hidrojen, jeotermal ve biyokütle enerji kaynaklarına değinilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 33,
+    "ay": "",
+    "hafta_tarihi": "18-22 Mayıs",
+    "ünite": "12.4.2. Alternatif Enerji Kaynakları",
+    "konu": "",
+    "öğrenme çıktıları": "b. Bor mineralinden hidrojen eldesinin ülkemizin kalkınması için önemi vurgulanır.\nc. Turhan Nejat Veziroğlu’nun kısa özgeçmişi ve hidrojenin yakıt olarak kullanılması üzerine yaptığı çalışmalara okuma parçası olarak yer verilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 34,
+    "ay": "",
+    "hafta_tarihi": "25-29 Mayıs",
+    "ünite": "12.4.2. Alternatif Enerji Kaynakları",
+    "konu": "",
+    "öğrenme çıktıları": "12.4.2.2. Nükleer enerjiyi bilim, toplum, teknoloji, çevre ve ekonomi açısından değerlendirir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 35,
+    "ay": "",
+    "hafta_tarihi": "1-5 Haziran",
+    "ünite": "12.4.3. Sürdürülebilirlik",
+    "konu": "",
+    "öğrenme çıktıları": "Enerji, polimer, kâğıt ve metal sektörlerinin sürdürülebilir yaşam üzerindeki etkilerine değinilir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "8-12 Haziran",
+    "ünite": "12.4.4. Nanoteknoloji",
+    "konu": "",
+    "öğrenme çıktıları": "Nanoteknoloji kavramı örnekler üzerinde açıklanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 37,
+    "ay": "",
+    "hafta_tarihi": "15-19 Haziran",
+    "ünite": "12.4.4. Nanoteknoloji",
+    "konu": "",
+    "öğrenme çıktıları": "Nanoteknoloji kavramı örnekler üzerinde açıklanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  }
+]

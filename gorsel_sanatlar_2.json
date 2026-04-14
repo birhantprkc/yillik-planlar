@@ -1,0 +1,42 @@
+[
+  {
+    "hafta": 22,
+    "ay": "",
+    "hafta_tarihi": "22",
+    "ünite": "1",
+    "konu": "",
+    "öğrenme çıktıları": "10",
+    "süreç bileşenleri": "",
+    "ders_saati": "22"
+  },
+  {
+    "hafta": 10,
+    "ay": "",
+    "hafta_tarihi": "10",
+    "ünite": "2",
+    "konu": "",
+    "öğrenme çıktıları": "5",
+    "süreç bileşenleri": "",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4",
+    "ünite": "3",
+    "konu": "",
+    "öğrenme çıktıları": "2",
+    "süreç bileşenleri": "",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "36",
+    "ünite": "TOPLAM",
+    "konu": "",
+    "öğrenme çıktıları": "17",
+    "süreç bileşenleri": "",
+    "ders_saati": "36"
+  }
+]

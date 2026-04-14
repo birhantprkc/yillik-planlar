@@ -1,0 +1,432 @@
+[
+  {
+    "hafta": 1,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "8-14 Eylül",
+    "ünite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+    "konu": "Fizik Bilimi",
+    "öğrenme çıktıları": "FİZ.9.1.1. Fizik biliminin tanımına yönelik tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Fizik biliminin diğer disiplinlerle arasındaki ilişkileri belirler. b) Fizik bilimini belirlediği ilişkilerden yararlanarak tanımlar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "15-21 Eylül",
+    "ünite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+    "konu": "Fizik Biliminin Alt Dalları",
+    "öğrenme çıktıları": "FİZ.9.1.2. Fizik biliminin alt dallarını sınıflandırabilme",
+    "süreç bileşenleri": "a) Fizik biliminin alt dallarının niteliklerini belirler. b) Fizik biliminin alt dallarını niteliklerine göre gruplandırır. c) Fizik biliminin alt dallarını çalışma alanlarıyla ilişkilendirerek etiketler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 3,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "22-28 Eylül",
+    "ünite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+    "konu": "Fizik Bilimine Yön Verenler",
+    "öğrenme çıktıları": "FİZ.9.1.3. Fizik bilimine katkıda bulunmuş bilim insanlarının deneyimlerini yansıtabilme",
+    "süreç bileşenleri": "a) Fizik bilimine katkıda bulunmuş bilim insanlarının bilime bakış açılarını, çalışma biçimlerini ve çalışmalarının bilime etkilerini inceler. b) Fizik bilimine katkıda bulunmuş bilim insanlarının bilime bakış açıları, çalışma biçimleri ve çalışmalarının bilime etkileri hakkında deneyimlerine dayalı çıkarım yapar. c) Fizik bilimine katkıda bulunmuş bilim insanlarının bilime bakış açıları, çalışma biçimleri ve çalışmalarının bilime etkileri hakkında ulaşılan çıkarımları değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 4,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "4. Hafta:  29 Eylül-5 Ekim",
+    "ünite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+    "konu": "Fizik Bilimi İle İlgili Kariyer Keşfi",
+    "öğrenme çıktıları": "FİZ.9.1.4. Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili kariyer olanaklarını sorgulayabilme",
+    "süreç bileşenleri": "a) Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili çalışmalara ve mesleklere yönelik merak ettiği konuları belirler. b) Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili çalışmalara ve mesleklere yönelik sorular sorar. c) Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili çalışmalar ve meslekler hakkında bilgi toplar. ç) Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili çalışmalara ve mesleklere yönelik topladığı bilgilerin doğru olup olmadığını değerlendirir. d) Fizik biliminin çalışma alanlarından yararlanan meslekler hakkında çıkarım yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 5,
+    "ay": "EKİM",
+    "hafta_tarihi": "6-12 Ekim",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Temel ve Türetilmiş Nicelikler",
+    "öğrenme çıktıları": "FİZ.9.2.1. SI birim sisteminde birimleri verilen temel ve türetilmiş nicelikleri sınıflandırabilme",
+    "süreç bileşenleri": "a) Birimleri SI birim sisteminde verilen temel ve türetilmiş niceliklerin niteliklerini tanımlar. b) Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri niteliklerine göre gruplandırır. c) Birimleri SI birim sisteminde verilen nicelikleri temel ve türetilmiş nicelikler olarak adlandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 6,
+    "ay": "EKİM",
+    "hafta_tarihi": "13-19 Ekim",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Skaler ve Vektörel Nicelikler",
+    "öğrenme çıktıları": "FİZ.9.2.2. Skaler ve vektörel nicelikleri karşılaştırabilme",
+    "süreç bileşenleri": "a) Skaler ve vektörel niceliklerin özelliklerini belirler. b) Skaler ve vektörel niceliklerin benzerliklerini listeler. c) Skaler ve vektörel niceliklerin farklılıklarını listeler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 7,
+    "ay": "EKİM",
+    "hafta_tarihi": "20-26 Ekim",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Vektörler",
+    "öğrenme çıktıları": "FİZ.9.2.3. Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerine yönelik bilimsel çıkarım yapabilme",
+    "süreç bileşenleri": "a) Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerini tanımlar. b) Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklükleri ile ilgili verileri toplayarak kaydeder. c) Verileri yorumlayarak eşit vektör, zıt vektör ve reel sayıyla çarpılmış vektörlere ilişkin değerlendirmeler yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "EKİM",
+    "hafta_tarihi": "2",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "FİZ.9.2.4. Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi  ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme",
+    "öğrenme çıktıları": "a) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemini inceleyerek toplama yöntemlerinde kullanılan örüntüleri bulur.  b) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin genelleme yapar.",
+    "süreç bileşenleri": "a) Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerini tanımlar. b) Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklükleri ile ilgili verileri toplayarak kaydeder. c) Verileri yorumlayarak eşit vektör, zıt vektör ve reel sayıyla çarpılmış vektörlere ilişkin değerlendirmeler yapar.",
+    "ders_saati": "KUVVET VE HAREKET"
+  },
+  {
+    "hafta": 9,
+    "ay": "KASIM",
+    "hafta_tarihi": "3-9 Kasım",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Vektörler",
+    "öğrenme çıktıları": "FİZ.9.2.4. Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemini inceleyerek toplama yöntemlerinde kullanılan örüntüleri bulur. b) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin genelleme yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 1,
+    "ay": "KASIM",
+    "hafta_tarihi": "10-16 Kasım",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Vektörler",
+    "öğrenme çıktıları": "FİZ.9.2.4. Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemini inceleyerek toplama yöntemlerinde kullanılan örüntüleri bulur. b) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin genelleme yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 10,
+    "ay": "KASIM",
+    "hafta_tarihi": "17-23 Kasım",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Vektörler",
+    "öğrenme çıktıları": "FİZ.9.2.4. Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemini inceleyerek toplama yöntemlerinde kullanılan örüntüleri bulur. b) Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin genelleme yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 11,
+    "ay": "KASIM",
+    "hafta_tarihi": "24-30 Kasım",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Doğadaki Temel Kuvvetler",
+    "öğrenme çıktıları": "FİZ.9.2.5. Doğadaki temel kuvvetleri karşılaştırabilme",
+    "süreç bileşenleri": "a) Doğadaki temel kuvvetlere ilişkin özellikleri belirler. b) Doğadaki temel kuvvetlere ilişkin benzerlikleri listeler. c) Doğadaki temel kuvvetlere ilişkin farklılıkları listeler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 12,
+    "ay": "ARALIK",
+    "hafta_tarihi": "1-7 Aralık",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Hareket ve Hareket Türleri",
+    "öğrenme çıktıları": "FİZ.9.2.6. Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Hareketin temel kavramlarına yönelik örnekleri gözlemleyerek görseller arasındaki benzerlikleri bulur. b) Hareketin temel kavramlarına ilişkin genellemeler yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 13,
+    "ay": "ARALIK",
+    "hafta_tarihi": "8-14 Aralık",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Hareket ve Hareket Türleri",
+    "öğrenme çıktıları": "FİZ.9.2.6. Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Hareketin temel kavramlarına yönelik örnekleri gözlemleyerek görseller arasındaki benzerlikleri bulur. b) Hareketin temel kavramlarına ilişkin genellemeler yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 14,
+    "ay": "ARALIK",
+    "hafta_tarihi": "15-21 Aralık",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Hareket ve Hareket Türleri",
+    "öğrenme çıktıları": "FİZ.9.2.6. Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Hareketin temel kavramlarına yönelik örnekleri gözlemleyerek görseller arasındaki benzerlikleri bulur. b) Hareketin temel kavramlarına ilişkin genellemeler yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 15,
+    "ay": "ARALIK",
+    "hafta_tarihi": "22-28 Aralık",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Hareket ve Hareket Türleri",
+    "öğrenme çıktıları": "FİZ.9.2.7. Hareket türlerini sınıflandırabilme",
+    "süreç bileşenleri": "a) Hareket türlerinin niteliklerini belirler. b) Hareket türlerini ortak özelliklerine göre gruplandırır. c) Hareket türlerine göre oluşturduğu grupları adlandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 16,
+    "ay": "OCAK",
+    "hafta_tarihi": "16. Hafta:  29 Aralık-2 Ocak",
+    "ünite": "KUVVET VE HAREKET",
+    "konu": "Hareket ve Hareket Türleri",
+    "öğrenme çıktıları": "FİZ.9.2.7. Hareket türlerini sınıflandırabilme",
+    "süreç bileşenleri": "a) Hareket türlerinin niteliklerini belirler.  b) Hareket türlerini ortak özelliklerine göre gruplandırır.  c) Hareket türlerine göre oluşturduğu grupları adlandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 17,
+    "ay": "OCAK",
+    "hafta_tarihi": "5-11 Ocak",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Basınç",
+    "öğrenme çıktıları": "FİZ.9.3.1. Basınca yönelik çıkarımlarda bulunabilme",
+    "süreç bileşenleri": "a) Basınca etki eden etmenleri tanımlar. b) Basınç ile ilgili topladığı verileri kaydeder. c) Basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak basınca ilişkin çıkarımlar yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 18,
+    "ay": "OCAK",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Basınç",
+    "öğrenme çıktıları": "FİZ.9.3.1. Basınca yönelik çıkarımlarda bulunabilme",
+    "süreç bileşenleri": "a) Basınca etki eden etmenleri tanımlar. b) Basınç ile ilgili topladığı verileri kaydeder. c) Basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak basınca ilişkin çıkarımlar yapar.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 18,
+    "ay": "YARIYIL TATİLİ: 19 Ocak – 1 Şubat 2026",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Basınç",
+    "öğrenme çıktıları": "FİZ.9.3.1. Basınca yönelik çıkarımlarda bulunabilme",
+    "süreç bileşenleri": "a) Basınca etki eden etmenleri tanımlar. b) Basınç ile ilgili topladığı verileri kaydeder. c) Basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak basınca ilişkin çıkarımlar yapar.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 19,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "2-8 Şubat",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Sıvılarda Basınç",
+    "öğrenme çıktıları": "FİZ.9.3.2. Durgun sıvılarda basınca yönelik çıkarımlarda bulunabilme",
+    "süreç bileşenleri": "a) Durgun sıvılarda basınca etki eden etmenleri tanımlar. b) Durgun sıvılarda basınç ile ilgili topladığı verileri kaydeder. c) Durgun sıvılarda basınç ile ilgili topladığı verilerden ulaştığı matematiksel modeli kullanarak durgun sıvılarda basınca ilişkin çıkarımlar yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 20,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "9-15 Şubat",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Sıvılarda Basınç",
+    "öğrenme çıktıları": "FİZ.9.3.3. Sıvılarda basıncın kullanıldığı günlük hayat örneklerine ilişkin sorgulama yapabilme",
+    "süreç bileşenleri": "a) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konuyu belirler. b) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili sorular sorar. c) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu hakkında bilgi toplar. ç) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir. d) Günlük hayatta sıvılarda basıncın kullanılmasına ilişkin merak ettiği konu ile ilgili topladığı bilgiler üzerinden çıkarımda bulunur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 21,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "16-22 Şubat",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Açık Hava Basıncı",
+    "öğrenme çıktıları": "FİZ.9.3.4. Açık hava basıncına ilişkin çıkarım yapabilme",
+    "süreç bileşenleri": "a) Sıvı basıncına ilişkin bilgilerinden yararlanarak açık hava basıncına yönelik hipotez kurar. b) Sıvı basıncıyla açık hava basıncı arasındaki ilişkileri listeler. c) Sıvı basıncıyla açık hava basıncını karşılaştırır. ç) Açık hava basıncına ilişkin önermeler sunar. d) Açık hava basıncına ilişkin bilgilerini farklı durumlarda değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 22,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "22. Hafta: 23 Şubat-1 Mart",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Açık Hava Basıncı",
+    "öğrenme çıktıları": "FİZ.9.3.4. Açık hava basıncına ilişkin çıkarım yapabilme",
+    "süreç bileşenleri": "a) Sıvı basıncına ilişkin bilgilerinden yararlanarak açık hava basıncına yönelik hipotez kurar. b) Sıvı basıncıyla açık hava basıncı arasındaki ilişkileri listeler. c) Sıvı basıncıyla açık hava basıncını karşılaştırır. ç) Açık hava basıncına ilişkin önermeler sunar. d) Açık hava basıncına ilişkin bilgilerini farklı durumlarda değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 23,
+    "ay": "MART",
+    "hafta_tarihi": "2-8 Mart",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Kaldırma Kuvveti",
+    "öğrenme çıktıları": "FİZ.9.3.5. Kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik deney yapabilme",
+    "süreç bileşenleri": "a) Kaldırma kuvveti ile kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik bir deney tasarlar. b) Kaldırma kuvveti ile ilgili deney düzeneğinden veri toplayarak kaldırma kuvvetinin bağlı olduğu değişkenleri analiz eder.",
+    "ders_saati": "22"
+  },
+  {
+    "hafta": 24,
+    "ay": "MART",
+    "hafta_tarihi": "9-15 Mart",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Kaldırma Kuvveti",
+    "öğrenme çıktıları": "FİZ.9.3.6. Kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye yönelik çıkarım yapabilme",
+    "süreç bileşenleri": "a) Kaldırma kuvveti ile yer değiştiren sıvının ağırlığı arasındaki ilişkiye dair hipotez kurar. b) Kaldırma kuvveti ile ilgili yaptığı deneyden elde ettiği verileri kullanarak matematiksel modeli bulur. c) Kaldırma kuvveti ve sıvı basıncına ait matematiksel modelleri karşılaştırır. ç) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair önermede bulunur. d) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair değerlendirme yapar.",
+    "ders_saati": "22"
+  },
+  {
+    "hafta": 2,
+    "ay": "MART",
+    "hafta_tarihi": "16-22 Mart",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Kaldırma Kuvveti",
+    "öğrenme çıktıları": "FİZ.9.3.6. Kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye yönelik çıkarım yapabilme",
+    "süreç bileşenleri": "a) Kaldırma kuvveti ile yer değiştiren sıvının ağırlığı arasındaki ilişkiye dair hipotez kurar. b) Kaldırma kuvveti ile ilgili yaptığı deneyden elde ettiği verileri kullanarak matematiksel modeli bulur. c) Kaldırma kuvveti ve sıvı basıncına ait matematiksel modelleri karşılaştırır. ç) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair önermede bulunur. d) Kaldırma kuvveti ve sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye dair değerlendirme yapar.",
+    "ders_saati": "22"
+  },
+  {
+    "hafta": 25,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Bernoulli İlkesi",
+    "öğrenme çıktıları": "FİZ.9.3.7. Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Akışkanların sürati ile basıncı arasındaki ilişkiyi gözlemleyerek aralarındaki ilişkiyi tespit eder. b) Akışkanın sürati ile basıncı arasındaki ilişkiyi günlük hayat örnekleri üzerinden geneller.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 26,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "26. Hafta:  30 Mart-5 Nisan",
+    "ünite": "AKIŞKANLAR",
+    "konu": "Bernoulli İlkesi",
+    "öğrenme çıktıları": "FİZ.9.3.7. Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Akışkanların sürati ile basıncı arasındaki ilişkiyi gözlemleyerek aralarındaki ilişkiyi tespit eder. b) Akışkanın sürati ile basıncı arasındaki ilişkiyi günlük hayat örnekleri üzerinden geneller.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 27,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "6-12 Nisan",
+    "ünite": "ENERJİ",
+    "konu": "İç Enerji, Isı ve Sıcaklık Arasındaki İlişki",
+    "öğrenme çıktıları": "FİZ.9.4.1. İç enerjinin ısı ve sıcaklık ile arasındaki ilişki hakkında tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Isı, sıcaklık ve iç enerji ile ilgili görselleri inceler. b) İç enerjinin ısı ve sıcaklık ile ilişkisini bulur. c) İç enerjinin ısı ve sıcaklık ile arasındaki ilişkiyi geneller.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 28,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "13-19 Nisan",
+    "ünite": "ENERJİ",
+    "konu": "Isı, Öz Isı, Isı Sığası ve Sıcaklık Farkı Arasındaki İlişki",
+    "öğrenme çıktıları": "FİZ.9.4.2. Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modele ilişkin tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki ilişkiyi deney yoluyla keşfederek matematiksel modeline ulaşır. b) Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modeli farklı durumlar için hesaplamalar yaparak geneller.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 29,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "20-26 Nisan",
+    "ünite": "ENERJİ",
+    "konu": "Isı, Öz Isı, Isı Sığası ve Sıcaklık Farkı Arasındaki İlişki",
+    "öğrenme çıktıları": "FİZ.9.4.2. Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modele ilişkin tümevarımsal akıl yürütebilme",
+    "süreç bileşenleri": "a) Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki ilişkiyi deney yoluyla keşfederek matematiksel modeline ulaşır. b) Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modeli farklı durumlar için hesaplamalar yaparak geneller.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 30,
+    "ay": "MAYIS",
+    "hafta_tarihi": "30. Hafta: 27 Nisan-3 Mayıs",
+    "ünite": "ENERJİ",
+    "konu": "Hâl Değişimi",
+    "öğrenme çıktıları": "FİZ.9.4.3. Hâl değiştirme sıcaklığında bulunan saf bir maddenin hâl değiştirmesi için alınan veya verilen ısı miktarının bağlı olduğu değişkenler hakkında bilimsel çıkarım yapabilme",
+    "süreç bileşenleri": "a) Hâl değişimini etkileyen nitelikleri tespit eder. b) Hâl değişimini etkileyen niteliklerle ilgili veri toplayıp kaydeder. c) Saf maddelerde hâl değişimini etkileyen nitelikler ile ilgili topladığı verileri yorumlayarak matematiksel model aracılığıyla değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 31,
+    "ay": "MAYIS",
+    "hafta_tarihi": "4-10 Mayıs",
+    "ünite": "ENERJİ",
+    "konu": "Hâl Değişimi",
+    "öğrenme çıktıları": "FİZ.9.4.3. Hâl değiştirme sıcaklığında bulunan saf bir maddenin hâl değiştirmesi için alınan veya verilen ısı miktarının bağlı olduğu değişkenler hakkında bilimsel çıkarım yapabilme",
+    "süreç bileşenleri": "a) Hâl değişimini etkileyen nitelikleri tespit eder. b) Hâl değişimini etkileyen niteliklerle ilgili veri toplayıp kaydeder. c) Saf maddelerde hâl değişimini etkileyen nitelikler ile ilgili topladığı verileri yorumlayarak matematiksel model aracılığıyla değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 32,
+    "ay": "MAYIS",
+    "hafta_tarihi": "11-17 Mayıs",
+    "ünite": "ENERJİ",
+    "konu": "Isıl Denge",
+    "öğrenme çıktıları": "FİZ.9.4.4. Isıl denge durumu hakkında bilimsel gözlem yapabilme",
+    "süreç bileşenleri": "a) Isıl dengede olma durumu ile ilgili nitelikleri tanımlar. b) Farklı sıcaklıktaki maddelerin ısıl dengeye ulaşma sürecine ilişkin veri toplayarak kaydeder. c) Isıl dengeye ulaşma süreci ile ilgili elde ettiği verileri açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 33,
+    "ay": "MAYIS",
+    "hafta_tarihi": "18-24 Mayıs",
+    "ünite": "ENERJİ",
+    "konu": "Isı Aktarım Yolları",
+    "öğrenme çıktıları": "FİZ.9.4.5. Isı aktarım yollarını sınıflayabilme",
+    "süreç bileşenleri": "a) Isı aktarım yollarının niteliklerini belirler. b) Niteliklerine göre ısı aktarım yollarını benzerlik ve farklılıklarına göre ayrıştırır. c) Isı aktarım yollarını benzerliklerine göre gruplandırır. ç) Gruplandırdığı ısı aktarım yollarını adlandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 34,
+    "ay": "MAYIS",
+    "hafta_tarihi": "25-29 Mayıs",
+    "ünite": "ENERJİ",
+    "konu": "Isı Aktarım Yolları",
+    "öğrenme çıktıları": "FİZ.9.4.5. Isı aktarım yollarını sınıflayabilme",
+    "süreç bileşenleri": "a) Isı aktarım yollarının niteliklerini belirler. b) Niteliklerine göre ısı aktarım yollarını benzerlik ve farklılıklarına göre ayrıştırır. c) Isı aktarım yollarını benzerliklerine göre gruplandırır. ç) Gruplandırdığı ısı aktarım yollarını adlandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 35,
+    "ay": "MAYIS",
+    "hafta_tarihi": "1-5 Haziran",
+    "ünite": "ENERJİ",
+    "konu": "Isı İletim Hızı",
+    "öğrenme çıktıları": "FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını  etkileyen etmenlere yönelik yansıtma yapabilme",
+    "süreç bileşenleri": "a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir.  b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.  c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 36,
+    "ay": "MAYIS",
+    "hafta_tarihi": "8-12 Haziran",
+    "ünite": "ENERJİ",
+    "konu": "Isı İletim Hızı",
+    "öğrenme çıktıları": "FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını  etkileyen etmenlere yönelik yansıtma yapabilme",
+    "süreç bileşenleri": "a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir.  b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.  c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 37,
+    "ay": "MAYIS",
+    "hafta_tarihi": "15-21 Haziran",
+    "ünite": "ENERJİ",
+    "konu": "Isı İletim Hızı",
+    "öğrenme çıktıları": "FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını  etkileyen etmenlere yönelik yansıtma yapabilme",
+    "süreç bileşenleri": "a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir.  b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.  c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlendirir.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 38,
+    "ay": "MAYIS",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "ENERJİ",
+    "konu": "Isı İletim Hızı",
+    "öğrenme çıktıları": "FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını  etkileyen etmenlere yönelik yansıtma yapabilme",
+    "süreç bileşenleri": "a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir.  b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.  c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlendirir.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "FARKLILAŞTIRMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "ENERJİ",
+    "konu": "Isı İletim Hızı",
+    "öğrenme çıktıları": "FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını  etkileyen etmenlere yönelik yansıtma yapabilme",
+    "süreç bileşenleri": "a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir.  b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.  c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlendirir.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "OKUL TEMELLİ PLANLAMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "ENERJİ",
+    "konu": "Isı İletim Hızı",
+    "öğrenme çıktıları": "FİZ.9.4.6. Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını  etkileyen etmenlere yönelik yansıtma yapabilme",
+    "süreç bileşenleri": "a) Katı maddelerde ısı iletim hızı ile ilgili deneyimlerini gözden geçirir.  b) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarım yapar.  c) Katı maddelerde ısı iletim hızını etkileyen etmenlere ilişkin çıkarımlarını değerlendirir.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  }
+]

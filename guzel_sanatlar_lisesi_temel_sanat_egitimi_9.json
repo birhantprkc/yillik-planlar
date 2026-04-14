@@ -1,0 +1,432 @@
+[
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "08-14 Eylül",
+    "ünite": "1.1. Sanatın Temel Kavramları",
+    "konu": "",
+    "öğrenme çıktıları": "1.1.1. Sanat kavramını tanımlar. 1.1.2. Sanatın önemi ve gerekliliğini açıklar. 1.1.3. Sanatçı kavramını tanımlar. 1.1.4. Sanat eserini tanımlar",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 2,
+    "ay": "",
+    "hafta_tarihi": "15-21 Eylül",
+    "ünite": "1.1. Sanatın Temel Kavramları 1.2. Sanat Eğitiminin Gerekliliği 1.3. Sanat Alanları",
+    "konu": "",
+    "öğrenme çıktıları": "1.1.5. Tasarım kavramını tanımlar. 1.2.1. Sanat eğitiminin önemini açıklar. 1.2.2. Temel sanat eğitiminde kullanılan araç gereçleri ifade eder. 1.3.1. Sanat türlerini açıklar",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "22-28 Eylül",
+    "ünite": "2.1. Nokta-Çizgi",
+    "konu": "",
+    "öğrenme çıktıları": "2.1.1. Nokta kavramını tanımlar. 2.1.2. Noktanın özelliklerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4. hafta  29 Eylül-05 Ekim",
+    "ünite": "2.1. Nokta-Çizgi",
+    "konu": "",
+    "öğrenme çıktıları": "2.1.3. Tasarımda noktanın çeşitli etkilerini açıklar. 2.1.4. Yüzey düzenlemelerinde noktayı kullanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 5,
+    "ay": "",
+    "hafta_tarihi": "06-12 Ekim",
+    "ünite": "2.1. Nokta-Çizgi",
+    "konu": "",
+    "öğrenme çıktıları": "2.1.5. Çizgi kavramını tanımlar. 2.1.6. Tasarımda çizginin çeşitli etkilerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 6,
+    "ay": "",
+    "hafta_tarihi": "13-19 Ekim",
+    "ünite": "2.1. Nokta-Çizgi",
+    "konu": "",
+    "öğrenme çıktıları": "2.1.7. Çizgi çeşitlerini örneklerle açıklar. 2.1.8. Yüzey düzenlemelerinde çizgiyi kullanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 7,
+    "ay": "",
+    "hafta_tarihi": "20-26 Ekim",
+    "ünite": "2.2. Leke",
+    "konu": "",
+    "öğrenme çıktıları": "2.2.1. Leke kavramını tanımlar. 2.2.2. Tasarımda leke etkisini örneklerle açıklar. 2.2.3. Lekeyi nokta ve çizgilerle yüzey üzerine uygular. 2.2.4. Çalışmalarında açık-orta-koyu leke değerlerini kullanır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 8,
+    "ay": "",
+    "hafta_tarihi": "8. hafta  27 Ekim-02 Kasım",
+    "ünite": "2.3. Doku",
+    "konu": "",
+    "öğrenme çıktıları": "2.3.1. Doku kavramını tanımlar. 2.3.2. Tasarımda doku etkisini örneklerle açıklar. 2.3.3. Nesnelerin kendine özgü dokulara sahip olduğunu açıklar. 2.3.4. Çalışmalarında çizgi ve leke kullanarak dokuyla ilgili uygulamalar yapar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 9,
+    "ay": "",
+    "hafta_tarihi": "03-09 Kasım",
+    "ünite": "2.4. Biçim ve Form",
+    "konu": "",
+    "öğrenme çıktıları": "2.4.1. Biçim ve form kavramlarını tanımlar. 2.4.2. Biçim ve formun özeliklerini açıklar. 2.4.3. Işık-gölgenin form oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 10,
+    "ay": "",
+    "hafta_tarihi": "10-16 Kasım",
+    "ünite": "2.4. Biçim ve Form",
+    "konu": "",
+    "öğrenme çıktıları": "2.4.1. Biçim ve form kavramlarını tanımlar. 2.4.2. Biçim ve formun özeliklerini açıklar. 2.4.3. Işık-gölgenin form oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 11,
+    "ay": "",
+    "hafta_tarihi": "17-23 Kasım",
+    "ünite": "2.5. Oran-Orantı",
+    "konu": "",
+    "öğrenme çıktıları": "2.5.1. Tasarımda oran-orantının özelliklerini açıklar. 2.5.2. Formun hem kendi bütünlüğünde hem de diğer formlarla karşılaştırıldığında ölçü olarak farklılıklar içerdiğini tespit eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 12,
+    "ay": "",
+    "hafta_tarihi": "24-30 Kasım",
+    "ünite": "2.5. Oran-Orantı",
+    "konu": "",
+    "öğrenme çıktıları": "2.5.2. Formun hem kendi bütünlüğünde hem de diğer formlarla karşılaştırıldığında ölçü olarak farklılıklar içerdiğini tespit eder. 2.5.3. Formların oranlarına dikkat ederek uygulamalar yapar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 13,
+    "ay": "",
+    "hafta_tarihi": "01-07 Aralık",
+    "ünite": "3.1. Mekân",
+    "konu": "",
+    "öğrenme çıktıları": "3.1.1. Mekân kavramını tanımlar. 3.1.2. Mekân çeşitlerini açıklar. 3.1.3. Her varlığın bir mekânda bulunduğunu açıklar. 3.1.4. Çalışmalarında mekân-nesne ilişkisini uygular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 14,
+    "ay": "",
+    "hafta_tarihi": "08-14 Aralık",
+    "ünite": "3.2. Mas ve Espas",
+    "konu": "",
+    "öğrenme çıktıları": "3.2.1. Mas kavramını tanımlar. 3.2.2. Espas kavramını tanımlar. 3.2.3. Mas-espasın özelliklerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 15,
+    "ay": "",
+    "hafta_tarihi": "15-21 Aralık",
+    "ünite": "3.2. Mas ve Espas",
+    "konu": "",
+    "öğrenme çıktıları": "3.2.4. Doğadaki mas-espas ilişkisini açıklar. 3.2.5. Çalışmalarında mas ve espası uygular",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 16,
+    "ay": "",
+    "hafta_tarihi": "22-28 Aralık",
+    "ünite": "3.3. Perspektif",
+    "konu": "",
+    "öğrenme çıktıları": "3.3.1. Perspektif kavramını tanımlar. 3.3.2. Doğadaki derinlik etkisinin oluşumunu açıklar. 3.3.3. Perspektif çeşitlerini ayırt eder. 3.3.4. Çalışmalarında leke değerlerini kullanarak hava perspektifini uygular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 17,
+    "ay": "",
+    "hafta_tarihi": "17. hafta  29 Aralık-04 Ocak",
+    "ünite": "4.1. Rengin Oluşumu",
+    "konu": "",
+    "öğrenme çıktıları": "4.1.1. Rengin oluşumunda ışığın etkisini açıklar. 4.1.2. Işık renkleri ile pigment renklerini ayırt eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 18,
+    "ay": "",
+    "hafta_tarihi": "05-11 Ocak",
+    "ünite": "4.2. Renk Grupları",
+    "konu": "",
+    "öğrenme çıktıları": "4.2.1. Ana ve ara renkleri ayırt eder. 4.2.2. Sıcak ve soğuk renkleri ayırt eder. 4.2.3. Zıt ve tamamlayıcı renkleri ayırt eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 19,
+    "ay": "",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "4.2. Renk Grupları",
+    "konu": "",
+    "öğrenme çıktıları": "4.2.4. Renk çemberinin ana, ara, sıcak, soğuk, zıt ve tamamlayıcı renklerle oluştuğunu tespit eder. 4.2.5. Renk çemberini uygular. 4.2.6. Renkte ton kavramını açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 20,
+    "ay": "",
+    "hafta_tarihi": "19-25 Ocak",
+    "ünite": "4.2. Renk Grupları",
+    "konu": "",
+    "öğrenme çıktıları": "4.2.4. Renk çemberinin ana, ara, sıcak, soğuk, zıt ve tamamlayıcı renklerle oluştuğunu tespit eder. 4.2.5. Renk çemberini uygular. 4.2.6. Renkte ton kavramını açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 21,
+    "ay": "",
+    "hafta_tarihi": "21. hafta  26 Ocak-01 Şubat",
+    "ünite": "4.2. Renk Grupları",
+    "konu": "",
+    "öğrenme çıktıları": "4.2.4. Renk çemberinin ana, ara, sıcak, soğuk, zıt ve tamamlayıcı renklerle oluştuğunu tespit eder. 4.2.5. Renk çemberini uygular. 4.2.6. Renkte ton kavramını açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 22,
+    "ay": "",
+    "hafta_tarihi": "02-08 Şubat",
+    "ünite": "4.2. Renk Grupları 4.3. Nötr Renkler",
+    "konu": "",
+    "öğrenme çıktıları": "4.2.7. Renk skalası kavramını açıklar. 4.3.1. Nötr rengi açıklar. 4.3.2. Çalışmasında nötr renk skalasını uygular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 23,
+    "ay": "",
+    "hafta_tarihi": "09-15 Şubat",
+    "ünite": "4.4. Rengin Kroması-Değeri-Armonisi",
+    "konu": "",
+    "öğrenme çıktıları": "4.4.1. Rengin yoğunluğunu açıklar. 4.4.2. Çalışmasında renklerin siyah ve beyaz ile karışımından elde edilen değerlerini uygular",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 24,
+    "ay": "",
+    "hafta_tarihi": "16-22 Şubat",
+    "ünite": "4.4. Rengin Kroması-Değeri-Armonisi",
+    "konu": "",
+    "öğrenme çıktıları": "4.4.3. Valör kavramını açıklar. 4.4.4. Bir rengin diğer renklerle karışımıyla elde edilen değerleri çalışmalarında uygular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 25,
+    "ay": "",
+    "hafta_tarihi": "25. hafta  23 Şubat-01 Mart",
+    "ünite": "4.4. Rengin Kroması-Değeri-Armonisi",
+    "konu": "",
+    "öğrenme çıktıları": "4.4.5. Renk armonisinin oluşumunu açıklar. 4.4.6. Renk armonisinin çeşitlerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 26,
+    "ay": "",
+    "hafta_tarihi": "02-08 Mart",
+    "ünite": "4.4. Rengin Kroması-Değeri-Armonisi",
+    "konu": "",
+    "öğrenme çıktıları": "4.4.7. Doğada ve sanat eserlerindeki renk armonisini tespit eder. 4.4.8. Çalışmalarında renk armonilerini uygular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 27,
+    "ay": "",
+    "hafta_tarihi": "09-15 Mart",
+    "ünite": "5.1. Kompozisyon",
+    "konu": "",
+    "öğrenme çıktıları": "5.1.1. Kompozisyon kavramını tanımlar",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 28,
+    "ay": "",
+    "hafta_tarihi": "16-22 Mart",
+    "ünite": "5.1. Kompozisyon",
+    "konu": "",
+    "öğrenme çıktıları": "5.1.1. Kompozisyon kavramını tanımlar",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 29,
+    "ay": "",
+    "hafta_tarihi": "23-29 Mart",
+    "ünite": "5.2. Sanatın İlkeleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.2.1. Sanatın ilkelerini açıklar. 5.2.2. Kompozisyonda ögelerin harekete ve yön oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 30,
+    "ay": "",
+    "hafta_tarihi": "30. hafta  30 Mart-05 Nisan",
+    "ünite": "5.2. Sanatın İlkeleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.2.3. Çalışmalarında yön ve hareket ilkelerini uygular. 5.2.4. Kompozisyonda ögelerin ritim oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 31,
+    "ay": "",
+    "hafta_tarihi": "06-12 Nisan",
+    "ünite": "5.2. Sanatın İlkeleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.2.5. Çalışmalarında ritim ilkesini uygular. 5.2.6. Kompozisyonda ögelerin zıtlık ve birlik oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 32,
+    "ay": "",
+    "hafta_tarihi": "13-19 Nisan",
+    "ünite": "5.2. Sanatın İlkeleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.2.7. Çalışmalarında zıtlık ve birlik ilkelerini uygular. 5.2.8. Kompozisyonda ögelerin denge oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 33,
+    "ay": "",
+    "hafta_tarihi": "20-26 Nisan",
+    "ünite": "5.2. Sanatın İlkeleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.2.9. Çalışmalarında denge ilkesini uygular. 5.2.10. Kompozisyonda ögelerin vurgu ve hiyerarşi oluşumuna etkisini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 34,
+    "ay": "",
+    "hafta_tarihi": "34. hafta  27 Nisan-03 Mayıs",
+    "ünite": "5.2. Sanatın İlkeleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.2.11. Çalışmalarında vurgu ve hiyerarşi ilkelerini uygular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 35,
+    "ay": "",
+    "hafta_tarihi": "04-10 Mayıs",
+    "ünite": "5.3. Kompozisyon Çeşitleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.3.1. Kompozisyon çeşitlerini örneklerle açıklar",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "11-17 Mayıs",
+    "ünite": "5.3. Kompozisyon Çeşitleri",
+    "konu": "",
+    "öğrenme çıktıları": "5.3.2. Kompozisyon bilgisinden yararlanarak özgün kompozisyonlar yapar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 37,
+    "ay": "",
+    "hafta_tarihi": "18-24 Mayıs",
+    "ünite": "6.1. Üç Boyutlu Sanat",
+    "konu": "",
+    "öğrenme çıktıları": "6.1.1. İki boyutlu sanatı tanımlar. 6.1.2. Üç boyutlu sanatı tanımlar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "25-31 Mayıs",
+    "ünite": "BAYRAM TATİLİ",
+    "konu": "",
+    "öğrenme çıktıları": "BAYRAM TATİLİ",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 39,
+    "ay": "",
+    "hafta_tarihi": "01-07 Haziran",
+    "ünite": "6.1. Üç Boyutlu Sanat",
+    "konu": "",
+    "öğrenme çıktıları": "6.1.3. İki boyutlu ve üç boyutlu sanat arasındaki farkı ayırt eder. 6.1.4. Üç boyutlu sanatın özelliklerini ve çeşitlerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 40,
+    "ay": "",
+    "hafta_tarihi": "08-14 Haziran",
+    "ünite": "6.1. Üç Boyutlu Sanat",
+    "konu": "",
+    "öğrenme çıktıları": "6.1.5. Üç boyutlu birim yapar. 6.1.6. Birim tekrarı ile üç boyutlu çalışır",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 41,
+    "ay": "",
+    "hafta_tarihi": "15-21 Haziran",
+    "ünite": "6.1. Üç Boyutlu Sanat",
+    "konu": "",
+    "öğrenme çıktıları": "6.1.7. Üç boyutlu uygulamalar yapar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 42,
+    "ay": "",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "SERBEST ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SERBEST ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  },
+  {
+    "hafta": 2025,
+    "ay": "",
+    "hafta_tarihi": "2025/2026 Eğitim-Öğretim Yılı Sonu",
+    "ünite": "SERBEST ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SERBEST ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "4 saat"
+  }
+]

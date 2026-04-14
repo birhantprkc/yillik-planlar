@@ -1,0 +1,432 @@
+[
+  {
+    "hafta": 1,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "8-14 Eylül",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh ve Fıkıh Usulü",
+    "öğrenme çıktıları": "FKH.10.1.1. Fıkıh ve fıkıh usulü ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "a) Fıkıh ve fıkıh usulünü incelemek için gerekli dinî kaynakları tespit eder.  b) Fıkıh ve fıkıh usulü ile ilgili kaynakları özelliklerine göre sınıflandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "15-21 Eylül",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh ve Fıkıh Usulü",
+    "öğrenme çıktıları": "FKH.10.1.1. Fıkıh ve fıkıh usulü ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "c) Seçilen kaynaklardan fıkıh ve fıkıh usulü ile ilgili bilgileri bulur.  ç) Ulaşılan bilgiler ışığında fıkıh ve fıkıh usulü ile ilgili kaynakları karşılaştırır.  d) Ulaşılan bilgiler ışığında fıkıh ve fıkıh usulü ile ilgili kaynakları değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 3,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "22-28 Eylül",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh İlminin Temel İlkeleri",
+    "öğrenme çıktıları": "FKH.10.1.2. Fıkıh ilminin temel ilkeleri ile ilgili argümanları irdeleyebilme",
+    "süreç bileşenleri": "a) Fıkıh ilminin temel ilkeleri ile ilgili argümanları tespit eder.  b) Fıkıh ilminin temel ilkeleri ile ilgili argümanları karşılaştırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 4,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "4. Hafta:  29 Eylül-5 Ekim",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh İlminin Temel İlkeleri",
+    "öğrenme çıktıları": "FKH.10.1.2. Fıkıh ilminin temel ilkeleri ile ilgili argümanları irdeleyebilme",
+    "süreç bileşenleri": "c) Fıkıh ilminin temel ilkeleri ile ilgili argümanları temel dinî bilgi kaynaklarını ölçüt alarak inceler.  ç) Fıkıh ilminin temel ilkeleri ile ilgili tercih edilebilir argümanları gerekçeleriyle belirler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 5,
+    "ay": "EKİM",
+    "hafta_tarihi": "6-12 Ekim",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh Tarihi",
+    "öğrenme çıktıları": "FKH.10.1.3. Fıkıh ilminin tarihi ile ilgili zamanı algılayabilme ve kronolojik düşünebilme",
+    "süreç bileşenleri": "a) Fıkıh ilminin tarihî dönemlerini karşılaştırır.  b) Fıkıh ilminin tarihî dönemleriyle ilgili zaman kavramlarını hesaplayarak dönüştürür.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 6,
+    "ay": "EKİM",
+    "hafta_tarihi": "13-19 Ekim",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh Tarihi",
+    "öğrenme çıktıları": "FKH.10.1.3. Fıkıh ilminin tarihi ile ilgili zamanı algılayabilme ve kronolojik düşünebilme",
+    "süreç bileşenleri": "c) Fıkıh ilminin tarihî dönemlerini kronolojik olarak sıralar.  ç) Fıkıh ilminin tarihî dönemlerini değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 7,
+    "ay": "EKİM",
+    "hafta_tarihi": "20-26 Ekim",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "Fıkıh Tarihi",
+    "öğrenme çıktıları": "FKH.10.1.4. Fıkhi mezheplerin oluşumundan sonraki gelişmeleri özetleyebilme",
+    "süreç bileşenleri": "a) Fıkhi mezheplerin oluşumundan sonraki gelişmeleri çözümler.  b) Fıkhi mezheplerin oluşumundan sonraki gelişmeleri sınıflandırır.  c) Fıkhi mezheplerin oluşumundan sonraki gelişmeleri yorumlar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "EKİM",
+    "hafta_tarihi": "2",
+    "ünite": "1.FIKIH İLMİ VE TARİHİ",
+    "konu": "FKH.10.2.1. Fıkhi hükümlerle ilgili dinî kavramları ayırt edebilme",
+    "öğrenme çıktıları": "a) Fıkhi hükümlerle ilgili dinî kavramları tespit eder. b) Belirlenen kavramların fıkıh usulündeki yeri ve önemini araştırır.",
+    "süreç bileşenleri": "\\Bilgi haritası,  \\Anlam çözümleme tablosu,  \\ Kavram haritası,  \\ Eşleştirme soruları",
+    "ders_saati": "2.FIKHİ HÜKÜMLER VE DELİLLERİ"
+  },
+  {
+    "hafta": 9,
+    "ay": "KASIM",
+    "hafta_tarihi": "3-9 Kasım",
+    "ünite": "2.FIKHİ HÜKÜMLER VE DELİLLERİ",
+    "konu": "Fıkhi Hükümler",
+    "öğrenme çıktıları": "FKH.10.2.1. Fıkhi hükümlerle ilgili dinî kavramları ayırt edebilme",
+    "süreç bileşenleri": "c) Fıkhi hükümlerle ilgili kavramları ilişkili olduğu alana göre etiketler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 1,
+    "ay": "KASIM",
+    "hafta_tarihi": "10-16 Kasım",
+    "ünite": "2.FIKHİ HÜKÜMLER VE DELİLLERİ",
+    "konu": "Fıkhi Hükümler",
+    "öğrenme çıktıları": "FKH.10.2.1. Fıkhi hükümlerle ilgili dinî kavramları ayırt edebilme",
+    "süreç bileşenleri": "c) Fıkhi hükümlerle ilgili kavramları ilişkili olduğu alana göre etiketler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 10,
+    "ay": "KASIM",
+    "hafta_tarihi": "17-23 Kasım",
+    "ünite": "2.FIKHİ HÜKÜMLER VE DELİLLERİ",
+    "konu": "Fıkhi Hükümlerin Delilleri ve Yöntemleri",
+    "öğrenme çıktıları": "FKH.10.2.2. Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili dinî kavramları bağlamına uygun kullanabilme",
+    "süreç bileşenleri": "a) Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili kavramları fark eder. b) Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili kavramlar arasında ilişki kurar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 11,
+    "ay": "KASIM",
+    "hafta_tarihi": "24-30 Kasım",
+    "ünite": "2.FIKHİ HÜKÜMLER VE DELİLLERİ",
+    "konu": "Fıkhi Hükümlerin Delilleri ve Yöntemleri",
+    "öğrenme çıktıları": "FKH.10.2.2. Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili dinî kavramları bağlamına uygun kullanabilme",
+    "süreç bileşenleri": "c) Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili kavramların benzerliklerini ve farklılıklarını açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 12,
+    "ay": "ARALIK",
+    "hafta_tarihi": "1-7 Aralık",
+    "ünite": "2.FIKHİ HÜKÜMLER VE DELİLLERİ",
+    "konu": "Fıkhi Hükümlerin Delilleri ve Yöntemleri",
+    "öğrenme çıktıları": "FKH.10.2.2. Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili dinî kavramları bağlamına uygun kullanabilme",
+    "süreç bileşenleri": "ç) Fıkhi hükümlerin delilleri ve yöntemleri ile ilgili kavramlara sözlü ve yazılı iletişimde bağlamına uygun olarak yer verir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 13,
+    "ay": "ARALIK",
+    "hafta_tarihi": "8-14 Aralık",
+    "ünite": "3. İBADETLER",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "a) Namazın kılınışının süreç ve kurallarını açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 14,
+    "ay": "ARALIK",
+    "hafta_tarihi": "15-21 Aralık",
+    "ünite": "3. İBADETLER",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "b) Namazın kılınışı için ön hazırlık yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 15,
+    "ay": "ARALIK",
+    "hafta_tarihi": "22-28 Aralık",
+    "ünite": "3. İBADETLER",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "c) Namazı usulüne uygun biçimde icra eder.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 16,
+    "ay": "OCAK",
+    "hafta_tarihi": "16. Hafta:  29 Aralık-2 Ocak",
+    "ünite": "3. İBADETLER",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "ç) Namazın kılınışının süreçlerini değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 17,
+    "ay": "OCAK",
+    "hafta_tarihi": "5-11 Ocak",
+    "ünite": "OKUL TEMELLİ PLANLAMA\\",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "ç) Namazın kılınışının süreçlerini değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 18,
+    "ay": "OCAK",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "OKUL TEMELLİ PLANLAMA\\",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "ç) Namazın kılınışının süreçlerini değerlendirir.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 18,
+    "ay": "YARIYIL TATİLİ: 19 Ocak – 1 Şubat 2026",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "OKUL TEMELLİ PLANLAMA\\",
+    "konu": "Namaz",
+    "öğrenme çıktıları": "FKH.10.3.1. Namaz ibadetini usulüne uygun olarak tatbik edebilme",
+    "süreç bileşenleri": "ç) Namazın kılınışının süreçlerini değerlendirir.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 19,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "2-8 Şubat",
+    "ünite": "3. İBADETLER",
+    "konu": "Oruç",
+    "öğrenme çıktıları": "FKH.10.3.2. Oruç ile ilgili deneyimlerini yansıtabilme",
+    "süreç bileşenleri": "a) Oruç ile ilgili deneyimlerini gözden geçirir. b) Oruç ile ilgili deneyimlerine dayalı çıkarım yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 20,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "9-15 Şubat",
+    "ünite": "3. İBADETLER",
+    "konu": "Oruç",
+    "öğrenme çıktıları": "FKH.10.3.2. Oruç ile ilgili deneyimlerini yansıtabilme",
+    "süreç bileşenleri": "c) Oruç ile ilgili ulaştığı çıkarımları değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 21,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "16-22 Şubat",
+    "ünite": "3. İBADETLER",
+    "konu": "Zekât",
+    "öğrenme çıktıları": "FKH.10.3.3. Zekâtın hükümlerini sentezleyebilme",
+    "süreç bileşenleri": "a) Zekât ile ilgili hükümleri tespit eder. b) Zekâtın hükümleri ile zekâtın bireysel ve toplumsal faydalarını ilişkilendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 22,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "22. Hafta: 23 Şubat-1 Mart",
+    "ünite": "3. İBADETLER",
+    "konu": "Zekât",
+    "öğrenme çıktıları": "FKH.10.3.3. Zekâtın hükümlerini sentezleyebilme",
+    "süreç bileşenleri": "c) Zekâtın bireysel ve toplumsal faydaları hakkında özgün bir içerik oluşturur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 23,
+    "ay": "MART",
+    "hafta_tarihi": "2-8 Mart",
+    "ünite": "3. İBADETLER",
+    "konu": "Hac",
+    "öğrenme çıktıları": "FKH.10.3.4. Haccın hükümleri ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "a) Haccın hükümlerini incelemek için gerekli dinî kaynakları tespit eder. b) Haccın hükümleri ile ilgili dinî kaynakları özelliklerine göre sınıflandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 24,
+    "ay": "MART",
+    "hafta_tarihi": "9-15 Mart",
+    "ünite": "3. İBADETLER",
+    "konu": "Hac",
+    "öğrenme çıktıları": "FKH.10.3.4. Haccın hükümleri ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "c) Seçilen dinî kaynaklardan haccın hükümleri ile ilgili bilgileri bulur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "MART",
+    "hafta_tarihi": "16-22 Mart",
+    "ünite": "3. İBADETLER",
+    "konu": "Hac",
+    "öğrenme çıktıları": "FKH.10.3.4. Haccın hükümleri ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "c) Seçilen dinî kaynaklardan haccın hükümleri ile ilgili bilgileri bulur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 25,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "3. İBADETLER",
+    "konu": "Hac",
+    "öğrenme çıktıları": "FKH.10.3.4. Haccın hükümleri ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "ç) Ulaşılan bilgiler ışığında haccın hükümleri ile ilgili seçtiği dinî kaynakları karşılaştırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 26,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "26. Hafta:  30 Mart-5 Nisan",
+    "ünite": "3. İBADETLER",
+    "konu": "Hac",
+    "öğrenme çıktıları": "FKH.10.3.4. Haccın hükümleri ile ilgili kaynak kullanımını yönetebilme",
+    "süreç bileşenleri": "d) Ulaşılan bilgiler ışığında haccın hükümleri ile ilgili seçtiği dinî kaynakları değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 27,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "6-12 Nisan",
+    "ünite": "3. İBADETLER",
+    "konu": "Cihat",
+    "öğrenme çıktıları": "FKH.10.3.5. Cihatla ilgili bilgilere ulaşmak için temel kaynakları kullanabilme",
+    "süreç bileşenleri": "a) Cihat ile ilgili ayetlere ulaşmak için Kur’an-ı Kerim meallerine başvurur. b) Cihat ile ilgili hadislere ulaşmak için hadis kaynaklarına başvurur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 28,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "13-19 Nisan",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Aile Hayatı",
+    "öğrenme çıktıları": "FKH.10.4.1. Aile hayatı ile ilgili konuları müşahede edebilme",
+    "süreç bileşenleri": "a) Aile hayatı ile ilgili konuları belirler.  b) Aile hayatı ile ilgili belirlenen konular hakkında soru sorar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 29,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "20-26 Nisan",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Aile Hayatı",
+    "öğrenme çıktıları": "FKH.10.4.1. Aile hayatı ile ilgili konuları müşahede edebilme",
+    "süreç bileşenleri": "c) Aile hayatı ile ilgili merak ettiği konuları inceler.  ç) Aile hayatı ile ilgili yaptığı inceleme sonuçları hakkında çıkarım yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 30,
+    "ay": "MAYIS",
+    "hafta_tarihi": "30. Hafta: 27 Nisan-3 Mayıs",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Ekonomik Hayat",
+    "öğrenme çıktıları": "FKH.10.4.2. Ekonomik hayat ile ilgili dinî görüş/argümanları irdeleyebilme",
+    "süreç bileşenleri": "a) Ekonomik hayat ile ilgili konular hakkında görüş/argümanları tespit eder.  b) Ekonomik hayat ile ilgili konular hakkında görüş/argümanları karşılaştırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 31,
+    "ay": "MAYIS",
+    "hafta_tarihi": "4-10 Mayıs",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Ekonomik Hayat",
+    "öğrenme çıktıları": "FKH.10.4.2. Ekonomik hayat ile ilgili dinî görüş/argümanları irdeleyebilme",
+    "süreç bileşenleri": "c) Ekonomik hayat ile ilgili konular hakkında görüş/argümanları temel dinî bilgi kaynaklarını ölçüt alarak inceler.  ç) Ekonomik hayat ile ilgili konular hakkında tercih edilebilir görüş/argümanları gerekçeleriyle belirler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 32,
+    "ay": "MAYIS",
+    "hafta_tarihi": "11-17 Mayıs",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Helaller ve Haramlar",
+    "öğrenme çıktıları": "FKH.10.4.3. Helaller ve haramlarla ilgili dinî meseleleri anlayabilme",
+    "süreç bileşenleri": "a) Helaller ve haramlarla ilgili dinî meseleleri fark eder.  b) Helaller ve haramlarla ilgili dinî meseleleri tanımlar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 33,
+    "ay": "MAYIS",
+    "hafta_tarihi": "18-24 Mayıs",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Helaller ve Haramlar",
+    "öğrenme çıktıları": "FKH.10.4.3. Helaller ve haramlarla ilgili dinî meseleleri anlayabilme",
+    "süreç bileşenleri": "c) Helaller ve haramlarla ilgili dinî meselelerin ortaya çıkış sebeplerini açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 34,
+    "ay": "MAYIS",
+    "hafta_tarihi": "25-29 Mayıs",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "Helaller ve Haramlar",
+    "öğrenme çıktıları": "FKH.10.4.3. Helaller ve haramlarla ilgili dinî meseleleri anlayabilme",
+    "süreç bileşenleri": "ç) Helaller ve haramlarla ilgili dinî meselelerin özelliklerini belirler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 35,
+    "ay": "MAYIS",
+    "hafta_tarihi": "1-5 Haziran",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "İslam Ceza Hukuku (Ukubat)",
+    "öğrenme çıktıları": "FKH.10.4.4. İslam ceza hukuku ile ilgili konuları özetleyebilme",
+    "süreç bileşenleri": "a) İslam ceza hukukunun konuları ile ilgili çözümleme yapar. b) İslam ceza hukukunun konuları ile ilgili sınıflandırma yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 36,
+    "ay": "MAYIS",
+    "hafta_tarihi": "8-12 Haziran",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "İslam Ceza Hukuku (Ukubat)",
+    "öğrenme çıktıları": "FKH.10.4.4. İslam ceza hukuku ile ilgili konuları özetleyebilme",
+    "süreç bileşenleri": "c) İslam ceza hukukunun konuları ile ilgili yorumlama yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 37,
+    "ay": "MAYIS",
+    "hafta_tarihi": "15-21 Haziran",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "İslam Ceza Hukuku (Ukubat)",
+    "öğrenme çıktıları": "FKH.10.4.4. İslam ceza hukuku ile ilgili konuları özetleyebilme",
+    "süreç bileşenleri": "c) İslam ceza hukukunun konuları ile ilgili yorumlama yapar.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 38,
+    "ay": "MAYIS",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "İslam Ceza Hukuku (Ukubat)",
+    "öğrenme çıktıları": "FKH.10.4.4. İslam ceza hukuku ile ilgili konuları özetleyebilme",
+    "süreç bileşenleri": "c) İslam ceza hukukunun konuları ile ilgili yorumlama yapar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "FARKLILAŞTIRMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "İslam Ceza Hukuku (Ukubat)",
+    "öğrenme çıktıları": "FKH.10.4.4. İslam ceza hukuku ile ilgili konuları özetleyebilme",
+    "süreç bileşenleri": "c) İslam ceza hukukunun konuları ile ilgili yorumlama yapar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "OKUL TEMELLİ PLANLAMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "4. SOSYAL VE EKONOMIK HAYAT",
+    "konu": "İslam Ceza Hukuku (Ukubat)",
+    "öğrenme çıktıları": "FKH.10.4.4. İslam ceza hukuku ile ilgili konuları özetleyebilme",
+    "süreç bileşenleri": "c) İslam ceza hukukunun konuları ile ilgili yorumlama yapar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  }
+]

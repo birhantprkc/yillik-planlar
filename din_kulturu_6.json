@@ -1,0 +1,432 @@
+[
+  {
+    "hafta": 1,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "8-14 Eylül",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "İnsanlara Rehber: Peygamber",
+    "öğrenme çıktıları": "DKAB.6.1.1. Peygamberlerin insanlara rehber olarak gönderilmesi hakkında bilgi toplayabilme",
+    "süreç bileşenleri": "a) Peygamber inancı konusunu araştırır. b) Peygamber inancıyla ilgili bilgileri bulur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "15-21 Eylül",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "İnsanlara Rehber: Peygamber",
+    "öğrenme çıktıları": "DKAB.6.1.1. Peygamberlerin insanlara rehber olarak gönderilmesi hakkında bilgi toplayabilme",
+    "süreç bileşenleri": "c) Peygamber inancıyla ilgili ulaştığı bilgileri öğretmen rehberliğinde doğrular. ç) Peygamber inancıyla ilgili ulaştığı bilgileri kaydeder.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 3,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "22-28 Eylül",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "Peygamberlerin İlettiği Mesaj: Vahiy",
+    "öğrenme çıktıları": "DKAB.6.1.2. Vahiylerin insanlara ilettiği mesajları yapılandırabilme",
+    "süreç bileşenleri": "a) Vahyin gönderiliş amacıyla ilgili nedensel ilişkiler ortaya koyar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 4,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "4. Hafta:  29 Eylül-5 Ekim",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "Peygamberlerin İlettiği Mesaj: Vahiy",
+    "öğrenme çıktıları": "DKAB.6.1.2. Vahiylerin insanlara ilettiği mesajları yapılandırabilme",
+    "süreç bileşenleri": "b) Vahyin gönderiliş amacıyla ilgili nedensel ilişkilere dayalı unsurlardan hareketle uyumlu bir bakış açısı geliştirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 5,
+    "ay": "EKİM",
+    "hafta_tarihi": "6-12 Ekim",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "İlahi Kitaplar",
+    "öğrenme çıktıları": "DKAB.6.1.3. İlahi kitaplarla ilgili bilgileri çözümleyebilme",
+    "süreç bileşenleri": "a) Temel İslam kaynaklarından hareketle ilahi kitapların Tevrat, Zebur, İncil ve Kur’an-ı Kerim olduğunu öğretmen rehberliğinde açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 6,
+    "ay": "EKİM",
+    "hafta_tarihi": "13-19 Ekim",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "İlahi Kitaplar",
+    "öğrenme çıktıları": "DKAB.6.1.3. İlahi kitaplarla ilgili bilgileri çözümleyebilme",
+    "süreç bileşenleri": "b) İlahi kitaplar arasındaki kronolojik ilişkiyi inceler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 7,
+    "ay": "EKİM",
+    "hafta_tarihi": "20-26 Ekim",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "Bir Sure Öğreniyorum: Felak Suresi",
+    "öğrenme çıktıları": "DKAB.6.1.4. Felak suresini ve bu surenin anlamını okuyarak yorumlayabilme",
+    "süreç bileşenleri": "a) Felak suresini ve bu surenin anlamını okur. b) Felak suresinin anlamını kendi hayatı için anlamlı hâle getirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "EKİM",
+    "hafta_tarihi": "2",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "DKAB.6.1.4. Felak suresini ve bu surenin anlamını okuyarak yorumlayabilme",
+    "öğrenme çıktıları": "c) Felak suresinin anlamını değiştirmeyecek şekilde özetler.",
+    "süreç bileşenleri": "a) Felak suresini ve bu surenin anlamını okur. b) Felak suresinin anlamını kendi hayatı için anlamlı hâle getirir.",
+    "ders_saati": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI"
+  },
+  {
+    "hafta": 9,
+    "ay": "KASIM",
+    "hafta_tarihi": "3-9 Kasım",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "Oruç ve Kur’an Ayı Ramazan",
+    "öğrenme çıktıları": "DKAB.6.2.1. Ramazan ayının oruç ve Kur’an ayı olduğunu çözümleyebilme",
+    "süreç bileşenleri": "a) Temel İslam kaynaklarından hareketle ramazan ayını oruç ve Kur’an ayı olarak öğretmen rehberliğinde açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 1,
+    "ay": "KASIM",
+    "hafta_tarihi": "10-16 Kasım",
+    "ünite": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+    "konu": "Oruç ve Kur’an Ayı Ramazan",
+    "öğrenme çıktıları": "DKAB.6.2.1. Ramazan ayının oruç ve Kur’an ayı olduğunu çözümleyebilme",
+    "süreç bileşenleri": "a) Temel İslam kaynaklarından hareketle ramazan ayını oruç ve Kur’an ayı olarak öğretmen rehberliğinde açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 10,
+    "ay": "KASIM",
+    "hafta_tarihi": "17-23 Kasım",
+    "ünite": "2. RAMAZAN VE ORUÇ",
+    "konu": "Oruç ve Kur’an Ayı Ramazan",
+    "öğrenme çıktıları": "DKAB.6.2.1. Ramazan ayının oruç ve Kur’an ayı olduğunu çözümleyebilme",
+    "süreç bileşenleri": "b) Ramazan ayı ile oruç ve Kur’an okuma ibadeti arasındaki ilişkiyi inceler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 11,
+    "ay": "KASIM",
+    "hafta_tarihi": "24-30 Kasım",
+    "ünite": "2. RAMAZAN VE ORUÇ",
+    "konu": "Oruç İbadeti",
+    "öğrenme çıktıları": "DKAB.6.2.2. Oruç ibadeti hakkında bilgi toplayabilme",
+    "süreç bileşenleri": "a) Oruç ibadeti konusunu araştırır. b) Oruç ibadeti hakkında bilgiler bulur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 12,
+    "ay": "ARALIK",
+    "hafta_tarihi": "1-7 Aralık",
+    "ünite": "2. RAMAZAN VE ORUÇ",
+    "konu": "Oruç İbadeti",
+    "öğrenme çıktıları": "DKAB.6.2.2. Oruç ibadeti hakkında bilgi toplayabilme",
+    "süreç bileşenleri": "c) Oruç ibadeti hakkında elde ettiği bilgileri öğretmen rehberliğinde doğrular. ç) Oruç ibadeti hakkında elde ettiği bilgileri kaydeder.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 13,
+    "ay": "ARALIK",
+    "hafta_tarihi": "8-14 Aralık",
+    "ünite": "2. RAMAZAN VE ORUÇ",
+    "konu": "Oruç İbadetinin İnsana Kazandırdıkları",
+    "öğrenme çıktıları": "DKAB.6.2.3. Oruç ibadetinin insana kazandırdıklarını yapılandırabilme",
+    "süreç bileşenleri": "b) Oruç ibadetinin insana kazandırdıkları hakkında kendi elde ettiği bilgilerden hareketle uyumlu bir bakış açısı geliştirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 14,
+    "ay": "ARALIK",
+    "hafta_tarihi": "15-21 Aralık",
+    "ünite": "2. RAMAZAN VE ORUÇ",
+    "konu": "Oruç İbadetinin İnsana Kazandırdıkları",
+    "öğrenme çıktıları": "DKAB.6.2.4. İftar duasını ve bu duanın anlamını okuyarak yorumlayabilme",
+    "süreç bileşenleri": "a) İftar duasını ve bu duanın anlamını okur.  b) İftar duasının anlamını kendi hayatı için anlamlı hâle getirir.  c) İftar duasının anlamını değiştirmeyecek şekilde özetler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 15,
+    "ay": "ARALIK",
+    "hafta_tarihi": "22-28 Aralık",
+    "ünite": "2. RAMAZAN VE ORUÇ",
+    "konu": "Bir Dua Öğreniyorum: İftar Duası",
+    "öğrenme çıktıları": "DKAB.6.2.4. İftar duasını ve bu duanın anlamını okuyarak yorumlayabilme",
+    "süreç bileşenleri": "a) İftar duasını ve bu duanın anlamını okur. b) İftar duasının anlamını kendi hayatı için anlamlı hâle getirir. c) İftar duasının anlamını değiştirmeyecek şekilde özetler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 16,
+    "ay": "OCAK",
+    "hafta_tarihi": "16. Hafta:  29 Aralık-2 Ocak",
+    "ünite": "3. AHLAKİ DAVRANIŞLAR",
+    "konu": "Doğru Sözlü Olmak",
+    "öğrenme çıktıları": "DKAB.6.3.1. Doğru sözlü olmayı kendi hayatına yansıtabilme",
+    "süreç bileşenleri": "a) Doğru sözlü olmanın önemini kendisinden ve çevresinden hareketle gözden geçirir. b) Doğru sözlü olmanın bireysel ve toplumsal açıdan önemine dair çıkarımda bulunur. c) Doğru sözlü olmanın önemiyle ilgili ulaştığı çıkarımları değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 17,
+    "ay": "OCAK",
+    "hafta_tarihi": "5-11 Ocak",
+    "ünite": "OKUL TEMELLİ PLANLAMA\\",
+    "konu": "Doğru Sözlü Olmak",
+    "öğrenme çıktıları": "DKAB.6.3.1. Doğru sözlü olmayı kendi hayatına yansıtabilme",
+    "süreç bileşenleri": "a) Doğru sözlü olmanın önemini kendisinden ve çevresinden hareketle gözden geçirir. b) Doğru sözlü olmanın bireysel ve toplumsal açıdan önemine dair çıkarımda bulunur. c) Doğru sözlü olmanın önemiyle ilgili ulaştığı çıkarımları değerlendirir.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 18,
+    "ay": "OCAK",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "OKUL TEMELLİ PLANLAMA\\",
+    "konu": "Doğru Sözlü Olmak",
+    "öğrenme çıktıları": "DKAB.6.3.1. Doğru sözlü olmayı kendi hayatına yansıtabilme",
+    "süreç bileşenleri": "a) Doğru sözlü olmanın önemini kendisinden ve çevresinden hareketle gözden geçirir. b) Doğru sözlü olmanın bireysel ve toplumsal açıdan önemine dair çıkarımda bulunur. c) Doğru sözlü olmanın önemiyle ilgili ulaştığı çıkarımları değerlendirir.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 18,
+    "ay": "YARIYIL TATİLİ: 19 Ocak – 1 Şubat 2026",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "OKUL TEMELLİ PLANLAMA\\",
+    "konu": "Doğru Sözlü Olmak",
+    "öğrenme çıktıları": "DKAB.6.3.1. Doğru sözlü olmayı kendi hayatına yansıtabilme",
+    "süreç bileşenleri": "a) Doğru sözlü olmanın önemini kendisinden ve çevresinden hareketle gözden geçirir. b) Doğru sözlü olmanın bireysel ve toplumsal açıdan önemine dair çıkarımda bulunur. c) Doğru sözlü olmanın önemiyle ilgili ulaştığı çıkarımları değerlendirir.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 19,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "2-8 Şubat",
+    "ünite": "3. AHLAKİ DAVRANIŞLAR",
+    "konu": "Merhametli Olmak",
+    "öğrenme çıktıları": "DKAB.6.3.2. Merhametli olmayı yorumlayabilme",
+    "süreç bileşenleri": "a) Merhametli olmanın bireysel ve toplumsal boyutlarını inceler. b) Merhametli olmayı kendi hayatı için anlamlı hâle getirir. c) Merhametli olmanın önemini kendi cümleleriyle yeniden ifade eder.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 20,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "9-15 Şubat",
+    "ünite": "3. AHLAKİ DAVRANIŞLAR",
+    "konu": "Adap ve Nezaket Kurallarına Uymak",
+    "öğrenme çıktıları": "DKAB.6.3.3. Adap ve nezaket kurallarını özetleyebilme",
+    "süreç bileşenleri": "a) Adap ve nezaket kurallarını çözümler. b) Adap ve nezaket kurallarını sınıflandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 21,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "16-22 Şubat",
+    "ünite": "3. AHLAKİ DAVRANIŞLAR",
+    "konu": "Adap ve Nezaket Kurallarına Uymak",
+    "öğrenme çıktıları": "DKAB.6.3.3. Adap ve nezaket kurallarını özetleyebilme",
+    "süreç bileşenleri": "c) Adap ve nezaket kurallarını yorumlar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 22,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "22. Hafta: 23 Şubat-1 Mart",
+    "ünite": "3. AHLAKİ DAVRANIŞLAR",
+    "konu": "Vatanımızı Sevmek",
+    "öğrenme çıktıları": "DKAB.6.3.5. Kunut dualarını ve bu duaların anlamlarını okuyarak yorumlayabilme",
+    "süreç bileşenleri": "a) Vatanını sevmenin önemi hakkında mevcut bilgisi dâhilinde varsayımda bulunur.  b) Vatan sevgisiyle ilişkili kavramları listeler.  c) Vatan sevgisiyle ilişkili kavramları birbirleriyle ilişkisi açısından karşılaştırır.  ç) Vatan sevgisinin önemi hakkında önermeler sunar.  d) Vatan sevgisinin önemi hakkında önermelerle ilgili değerlendirmede bulunur.",
+    "ders_saati": "22"
+  },
+  {
+    "hafta": 23,
+    "ay": "MART",
+    "hafta_tarihi": "2-8 Mart",
+    "ünite": "3. AHLAKİ DAVRANIŞLAR",
+    "konu": "Bir Dua Öğreniyorum: Kunut Duaları",
+    "öğrenme çıktıları": "DKAB.6.3.5. Kunut dualarını ve bu duaların anlamlarını okuyarak yorumlayabilme",
+    "süreç bileşenleri": "a) Kunut dualarını ve bu duaların anlamlarını okur.  b) Kunut dualarının anlamlarını kendi hayatı için anlamlı hâle getirir.  c) Kunut dualarının anlamlarını değiştirmeyecek şekilde özetler.",
+    "ders_saati": "22"
+  },
+  {
+    "hafta": 24,
+    "ay": "MART",
+    "hafta_tarihi": "9-15 Mart",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Doğduğu Çevre",
+    "öğrenme çıktıları": "DKAB.6.4.1. Hz. Muhammed’in (sav) doğduğu çevreyi tarihsel bağlamda değerlendirebilme",
+    "süreç bileşenleri": "a) Hz. Muhammed’in (sav) doğduğu çevre hakkındaki bilgileri temel kaynaklardan hareketle farkeder. b) Hz. Muhammed’in (sav) doğduğu çevreyi koşulları içerisinde açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "MART",
+    "hafta_tarihi": "16-22 Mart",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Doğduğu Çevre",
+    "öğrenme çıktıları": "DKAB.6.4.1. Hz. Muhammed’in (sav) doğduğu çevreyi tarihsel bağlamda değerlendirebilme",
+    "süreç bileşenleri": "a) Hz. Muhammed’in (sav) doğduğu çevre hakkındaki bilgileri temel kaynaklardan hareketle farkeder. b) Hz. Muhammed’in (sav) doğduğu çevreyi koşulları içerisinde açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 25,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Doğduğu Çevre",
+    "öğrenme çıktıları": "DKAB.6.4.1. Hz. Muhammed’in (sav) doğduğu çevreyi tarihsel bağlamda değerlendirebilme",
+    "süreç bileşenleri": "c) Hz. Muhammed’in (sav) doğduğu çevrenin koşullarını analiz eder.  ç) Hz. Muhammed’in (sav) doğduğu çevrenin koşullarını günümüz koşullarıyla karşılaştırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 26,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "26. Hafta:  30 Mart-5 Nisan",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Ailesi ve Çocukluğu",
+    "öğrenme çıktıları": "DKAB.6.4.2. Hz. Muhammed’in (sav) çocukluk yılları hakkında verilen bilgileri yorumlayabilme",
+    "süreç bileşenleri": "a) Hz. Muhammed’in (sav) çocukluk yıllarında yaşadıklarını inceler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 27,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "6-12 Nisan",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Ailesi ve Çocukluğu",
+    "öğrenme çıktıları": "DKAB.6.4.2. Hz. Muhammed’in (sav) çocukluk yılları hakkında verilen bilgileri yorumlayabilme",
+    "süreç bileşenleri": "b) Hz. Muhammed’in (sav) çocukluk yıllarında yaşadıklarını kendi ifadeleriyle, doğru ve bilgiyi değiştirmeyecek şekilde yeniden ifade eder.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 28,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "13-19 Nisan",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Gençlik Yılları",
+    "öğrenme çıktıları": "DKAB.6.4.3. Hz. Muhammed’in (sav) gençlik yılları hakkında verilen bilgileri yapılandırabilme",
+    "süreç bileşenleri": "a) Hz. Muhammed’in (sav) gençlik yıllarında yaşadıklarından hareketle çıkarımda bulunur.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 29,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "20-26 Nisan",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Hz. Muhammed’in (sav) Gençlik Yılları",
+    "öğrenme çıktıları": "DKAB.6.4.3. Hz. Muhammed’in (sav) gençlik yılları hakkında verilen bilgileri yapılandırabilme",
+    "süreç bileşenleri": "b) Hz. Muhammed’in (sav) gençlik yıllarına dair öğrendikleri üzerine düşüncelerini ifade eder.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 30,
+    "ay": "MAYIS",
+    "hafta_tarihi": "30. Hafta: 27 Nisan-3 Mayıs",
+    "ünite": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+    "konu": "Bir Sure Öğreniyorum: Fil Suresi",
+    "öğrenme çıktıları": "DKAB.6.4.4. Fil suresini ve bu surenin anlamını okuyarak yorumlayabilme",
+    "süreç bileşenleri": "a) Fil suresini ve bu surenin anlamını okur.  b) Fil suresinin anlamını kendi hayatı için anlamlı hâle getirir.  c)Fil suresinin anlamını değiştirmeyecek şekilde özetler.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 31,
+    "ay": "MAYIS",
+    "hafta_tarihi": "4-10 Mayıs",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Geleneğimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "a) Geleneğimizde, edebiyatımızda ve musikimizde dinin izleriyle ilgili çözümleme yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 32,
+    "ay": "MAYIS",
+    "hafta_tarihi": "11-17 Mayıs",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Geleneğimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "a) Geleneğimizde, edebiyatımızda ve musikimizde dinin izleriyle ilgili çözümleme yapar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 33,
+    "ay": "MAYIS",
+    "hafta_tarihi": "18-24 Mayıs",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Edebiyatımızda Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "b) Din ve kültür ilişkisini gelenek, edebiyat ve musiki örneklerinden hareketle sınıflandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 34,
+    "ay": "MAYIS",
+    "hafta_tarihi": "25-29 Mayıs",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Edebiyatımızda Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "b) Din ve kültür ilişkisini gelenek, edebiyat ve musiki örneklerinden hareketle sınıflandırır.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 35,
+    "ay": "MAYIS",
+    "hafta_tarihi": "1-5 Haziran",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Musikimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "c) Dinin geleneğimiz, edebiyatımız ve musikimize etkisini yorumlar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 36,
+    "ay": "MAYIS",
+    "hafta_tarihi": "8-12 Haziran",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Musikimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "c) Dinin geleneğimiz, edebiyatımız ve musikimize etkisini yorumlar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 37,
+    "ay": "MAYIS",
+    "hafta_tarihi": "15-21 Haziran",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Musikimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "c) Dinin geleneğimiz, edebiyatımız ve musikimize etkisini yorumlar.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 38,
+    "ay": "MAYIS",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Musikimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "c) Dinin geleneğimiz, edebiyatımız ve musikimize etkisini yorumlar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "FARKLILAŞTIRMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Musikimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "c) Dinin geleneğimiz, edebiyatımız ve musikimize etkisini yorumlar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 38,
+    "ay": "OKUL TEMELLİ PLANLAMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+    "konu": "Musikimizde Dinin İzleri",
+    "öğrenme çıktıları": "DKAB.6.5.1. Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme",
+    "süreç bileşenleri": "c) Dinin geleneğimiz, edebiyatımız ve musikimize etkisini yorumlar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  }
+]
