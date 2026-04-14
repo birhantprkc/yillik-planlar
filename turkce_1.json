@@ -1,0 +1,522 @@
+[
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "1",
+    "ünite": "İlkokuma Yazma ve Hazırlık Çalışmaları",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3,5",
+    "ünite": "Güzel Davranışlarımız",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "35"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4,5",
+    "ünite": "Mustafa Kemal’den Atatürk’e",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "45"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3,5",
+    "ünite": "Çevremizdeki Yaşam",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "35"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4,5",
+    "ünite": "Yol Arkadaşım Kitaplar",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "45"
+  },
+  {
+    "hafta": 2,
+    "ay": "",
+    "hafta_tarihi": "2",
+    "ünite": "Pekiştirme ve Hatırlatma Haftası",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "20"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3,5",
+    "ünite": "Yeteneklerimizi Keşfediyoruz",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "35"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4,5",
+    "ünite": "Minik Kaşifler",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "45"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3,5",
+    "ünite": "Atalarımızın İzleri",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "35"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4,5",
+    "ünite": "Sorumluluklarımızın Farkındayız",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "45"
+  },
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "1",
+    "ünite": "Pekiştirme Haftası",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "36",
+    "ünite": "TOPLAM",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "360"
+  },
+  {
+    "hafta": 1,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "08-12 Eylül",
+    "ünite": "İLK OKUMA YAZMA HAZIRLIK ÇALIŞMALARI",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme",
+    "süreç bileşenleri": "b) Dinlediği sesin kaynağını tahmin eder.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 2,
+    "ay": "YAZMA",
+    "hafta_tarihi": "15-20 Eylül",
+    "ünite": "1.TEMA: GÜZEL DAVRANIŞLARIMIZ  (a-A sesi)  Küçük Lokomotif (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer.  c) Dinleme kurallarına uygun olarak dinler.  ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 3,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "22-26 Eylül",
+    "ünite": "1.TEMA: GÜZEL DAVRANIŞLARIMIZ (n-N sesi)  Adalet (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 4,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "4. Hafta:  29 Eylül-03 Ekim",
+    "ünite": "1.TEMA: GÜZEL DAVRANIŞLARIMIZ (e-E sesi)  Sevgi Nöbeti (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 5,
+    "ay": "EKİM",
+    "hafta_tarihi": "06-10 Ekim",
+    "ünite": "1. TEMA: GÜZEL DAVRANIŞLARIMIZ (t-T sesi)  Mahallenin En Tatlı Dondurmacısı (Dinleme  metni)  2. TEMA: MUSTAFA KEMAL'DEN ATATÜRK'E (i-İ sesi)  Atatürk (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "8+2"
+  },
+  {
+    "hafta": 6,
+    "ay": "EKİM",
+    "hafta_tarihi": "13-17 Ekim",
+    "ünite": "2. TEMA: MUSTAFA KEMAL'DEN ATATÜRK'E  (i-İ sesi)  Atatürk (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 7,
+    "ay": "EKİM",
+    "hafta_tarihi": "20-24 Ekim",
+    "ünite": "2. TEMA: MUSTAFA KEMAL'DEN ATATÜRK'E (l-L sesi)  En Güzel Hediye (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 8,
+    "ay": "EKİM",
+    "hafta_tarihi": "8. Hafta:  27 -31 Ekim",
+    "ünite": "2. TEMA: MUSTAFA KEMAL'DEN ATATÜRK'E (o-O sesi)  Cumhuriyet Bayramı (Dinleme metni)",
+    "konu": "OKUL TEMELLİ PLANLAMA\\",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "6+2\\"
+  },
+  {
+    "hafta": 1,
+    "ay": "DİNLEME",
+    "hafta_tarihi": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "ünite": "\\ Gözlem formu \\ Performans görevi \\ Dereceli puanlama anahtarı \\ Kontrol listesi \\ Öz değerlendirme formu \\ Çalışma kâğıdı \\ Öğrenci öğrenme dosyası",
+    "konu": "SDB2.1. İletişim",
+    "öğrenme çıktıları": "D3. Çalışkanlık D14. Saygı D19. Vatanseverlik",
+    "süreç bileşenleri": "OB4. Görsel Okuryazarlık",
+    "ders_saati": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır."
+  },
+  {
+    "hafta": 9,
+    "ay": "KASIM",
+    "hafta_tarihi": "03-07 Kasım",
+    "ünite": "2. TEMA: MUSTAFA KEMAL'DEN ATATÜRK'E (k-K sesi) (u-U sesi)  Atatürk'ün Küçük Kulübesi (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 10,
+    "ay": "KASIM",
+    "hafta_tarihi": "17-21 Kasım",
+    "ünite": "3. TEMA: ÇEVREMİZDEKİ YAŞAM  (r-R sesi)  (ı-I sesi)  Misafir Balıklar (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 11,
+    "ay": "KASIM",
+    "hafta_tarihi": "24-28 Kasım",
+    "ünite": "3. TEMA: ÇEVREMİZDEKİ YAŞAM (m-M sesi)  Pırıl Sıfır Atık ( İzleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 12,
+    "ay": "ARALIK",
+    "hafta_tarihi": "01-05 Aralık",
+    "ünite": "3. TEMA: ÇEVREMİZDEKİ YAŞAM (ü-Üsesi) (s-S sesi) (ö-Ö sesi)  Cesur Portakal (Dinleme metni)  Kıs Geldi (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 13,
+    "ay": "ARALIK",
+    "hafta_tarihi": "08-12 Aralık",
+    "ünite": "3. TEMA: ÇEVREMİZDEKİ YAŞAM (y-Y sesi) (d-D sesi) (z-Z sesi)  Kıs Geldi (Dinleme metni)  4. TEMA: YOL ARKADAŞIMIZ KİTAPLAR (ç-Ç sesi)  En Degerli Hazine (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "8+2"
+  },
+  {
+    "hafta": 14,
+    "ay": "ARALIK",
+    "hafta_tarihi": "15-19 Aralık",
+    "ünite": "4. TEMA: YOL ARKADAŞIMIZ KİTAPLAR (ç-Ç sesi) (b-B sesi) (g-G sesi)  En Degerli Hazine (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 15,
+    "ay": "ARALIK",
+    "hafta_tarihi": "22-26 Aralık",
+    "ünite": "4. TEMA: YOL ARKADAŞIMIZ KİTAPLAR (c-C sesi) (ş-Ş sesi)  Ege ile Gaga Güzel Bir Kitap (İzleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 16,
+    "ay": "ARALIK - OCAK",
+    "hafta_tarihi": "16. Hafta: 29 Aralık-02 Ocak",
+    "ünite": "4. TEMA: YOL ARKADAŞIMIZ KİTAPLAR (p-P sesi) (h-H sesi)  Bibliyo Fil (Dinleme metni)",
+    "konu": "OKUL TEMELLİ PLANLAMA\\",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "6+2\\"
+  },
+  {
+    "hafta": 1,
+    "ay": "DİNLEME",
+    "hafta_tarihi": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "ünite": "\\ Gözlem formu \\Perfomans görevi \\ Dereceli puanlama anahtarı \\ Kontrol listesi \\ Öz değerlendirme formu \\ Çalışma kâğıdı \\ Öğrenci öğrenme dosyası",
+    "konu": "SDB2.1. İletişim",
+    "öğrenme çıktıları": "D4. Dostluk D7. Estetik D14. Saygı D16. Sorumluluk",
+    "süreç bileşenleri": "OB4. Görsel Okuryazarlık",
+    "ders_saati": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır."
+  },
+  {
+    "hafta": 17,
+    "ay": "OCAK",
+    "hafta_tarihi": "05-09 Ocak",
+    "ünite": "4. TEMA: YOL ARKADAŞIMIZ KİTAPLAR (v-V sesi) (ğ-Ğ sesi) (f-F sesi) (j-J sesi)  Okuyorum (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 18,
+    "ay": "OCAK",
+    "hafta_tarihi": "12-16 Ocak",
+    "ünite": "PEKİŞTİRME HAFTASI",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 19,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "02-06 Şubat",
+    "ünite": "HATIRLATMA HAFTASI",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "a) Verilen görseller arasından öğrendiği sesin geçtiği görseli/görselleri seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 20,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "09-13 Şubat",
+    "ünite": "5. TEMA: YETENEKLERİMİZİ KEŞFEDİYORUZ  Çocuk Kalbim (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 21,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "16-20 Şubat",
+    "ünite": "5. TEMA: YETENEKLERİMİZİ KEŞFEDİYORUZ  Herkes Bir Şeyi İyi Yapar",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 22,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "23-27 Şubat",
+    "ünite": "5. TEMA: YETENEKLERİMİZİ KEŞFEDİYORUZ  Düş Gezgini  Uçurtma Nasıl Uçar",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 23,
+    "ay": "MART",
+    "hafta_tarihi": "02-06 Mart",
+    "ünite": "5. TEMA: YETENEKLERİMİZİ KEŞFEDİYORUZ  Şirin’in Kuş Resimleri Sergisi  6. TEMA: MİNİK KÂŞİFLER  Aslan: Bisiklet Festivali (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "8+2"
+  },
+  {
+    "hafta": 24,
+    "ay": "MART",
+    "hafta_tarihi": "09-13 Mart",
+    "ünite": "6. TEMA: MİNİK KÂŞİFLER  Astronot",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": "a) Anlamlı ve kurallı cümleler yazar. ç) Harf, sözcük ve cümleler arasında uygun boşluk bırakır. e) Anlamını bilmediği sözcüğün anlamını çevrim içi veya basılı kaynaklardan araştırarak yazar. f) Yazılarında sözcükleri yerinde ve anlamına uygun kullanır.",
+    "ay": "T.Y.1.3. Yazma kurallarını uygulayabilme",
+    "hafta_tarihi": "a) Anlamlı ve kurallı cümleler yazar. ç) Harf, sözcük ve cümleler arasında uygun boşluk bırakır. e) Anlamını bilmediği sözcüğün anlamını çevrim içi veya basılı kaynaklardan araştırarak yazar. f) Yazılarında sözcükleri yerinde ve anlamına uygun kullanır.",
+    "ünite": "2. DÖNEM ARA TATİLİ: 16 Mart -20 Mart (Ramazan Bayramı)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "c) Hece, sözcük ve cümleler yazar. ç) Kısa metinler yazar. e) Söylenen sözcük ve cümleleri yazar."
+  },
+  {
+    "hafta": 25,
+    "ay": "MART",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "6. TEMA: MİNİK KÂŞİFLER  Büyüleyici Büyüteç",
+    "konu": "OKUL TEMELLİ PLANLAMA\\",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "6+4\\"
+  },
+  {
+    "hafta": 1,
+    "ay": "DİNLEME",
+    "hafta_tarihi": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "ünite": "\\ Gözlem formu \\Performans görevi  \\ Dereceli puanlama anahtarı \\ Kontrol listesi \\ Öz değerlendirme formu \\ Çalışma kâğıdı \\ Öğrenci öğrenme dosyası",
+    "konu": "SDB1.1. Kendini Tanıma (Öz Farkındalık Becerisi) SDB2.1. İletişim SDB3.1. Uyum",
+    "öğrenme çıktıları": "D7. Estetik  D14. Saygı",
+    "süreç bileşenleri": "OB1. Bilgi Okuryazarlığı  OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık",
+    "ders_saati": "c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır."
+  },
+  {
+    "hafta": 26,
+    "ay": "MART-NİSAN",
+    "hafta_tarihi": "26. Hafta:  30 Mart - 03 Nisan",
+    "ünite": "6. TEMA: MİNİK KÂŞİFLER  TEKNOFEST’e Gidiyoruz",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 27,
+    "ay": "NİSAN",
+    "hafta_tarihi": "06-10 Nisan",
+    "ünite": "6. TEMA: MİNİK KÂŞİFLER  Gökyüzü Okulu",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.2. Dinledikleri/izledikleri ile ilgili anlam oluşturabilme",
+    "süreç bileşenleri": "f) Dinlediklerinde/izlediklerinde geçen olayların sonrası hakkında tahminde bulunur. ğ) Dinlediklerindeki/izlediklerindeki nesneleri fiziksel özelliklerine göre sınıflandırır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 28,
+    "ay": "NİSAN",
+    "hafta_tarihi": "13-17 Nisan",
+    "ünite": "7.TEMA: ATALARIMIZIN İZLERİ  Aybek: Cirit (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 29,
+    "ay": "NİSAN",
+    "hafta_tarihi": "20-23 Nisan",
+    "ünite": "7.TEMA: ATALARIMIZIN İZLERİ  Bayrak",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "08"
+  },
+  {
+    "hafta": 30,
+    "ay": "NİSAN",
+    "hafta_tarihi": "27-30 Nisan",
+    "ünite": "7.TEMA: ATALARIMIZIN İZLERİ  Babamın Oyuncak Sandığı  Bayramlaşma",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "8"
+  },
+  {
+    "hafta": 31,
+    "ay": "MAYIS",
+    "hafta_tarihi": "04-08 Mayıs",
+    "ünite": "7.TEMA: ATALARIMIZIN İZLERİ  23 Nisan  8. TEMA: SORUMLULUKLARIMIZIN FARKINDAYIZ  Tavuk Dedektifi Bilge (Dinleme metni)",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "8+2"
+  },
+  {
+    "hafta": 32,
+    "ay": "MAYIS",
+    "hafta_tarihi": "11-15 Mayıs",
+    "ünite": "8. TEMA: SORUMLULUKLARIMIZIN FARKINDAYIZ  Sorumluluklarım",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 33,
+    "ay": "MAYIS",
+    "hafta_tarihi": "18-22 Mayıs",
+    "ünite": "8. TEMA: SORUMLULUKLARIMIZIN FARKINDAYIZ  Çocuk Haklarım",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "8"
+  },
+  {
+    "hafta": 34,
+    "ay": "Haziran",
+    "hafta_tarihi": "01-05 Haziran",
+    "ünite": "8. TEMA: SORUMLULUKLARIMIZIN FARKINDAYIZ  Çalışkanların Güneşi Hep Parlar",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  },
+  {
+    "hafta": 35,
+    "ay": "HAZİRAN",
+    "hafta_tarihi": "08-12 Haziran",
+    "ünite": "8. TEMA: SORUMLULUKLARIMIZIN FARKINDAYIZ  Piknik Yeri",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "6+4\\"
+  },
+  {
+    "hafta": 36,
+    "ay": "HAZİRAN",
+    "hafta_tarihi": "15-19 Haziran",
+    "ünite": "PEKİŞTİRME HAFTASI",
+    "konu": "DİNLEME",
+    "öğrenme çıktıları": "T.D.1.1. Dinleme/izlemeyi yönetebilme",
+    "süreç bileşenleri": "b) Dinleyeceklerini/izleyeceklerini amacına uygun olarak seçer. c) Dinleme kurallarına uygun olarak dinler. ç) Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.",
+    "ders_saati": "10"
+  }
+]

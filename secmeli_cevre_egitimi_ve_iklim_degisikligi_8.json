@@ -1,0 +1,432 @@
+[
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "08-14 Eylül",
+    "ünite": "ÇEİD.1.İNSAN VE DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.1.1. Yaşadığı çevrenin bir parçası olduğunu gözlemlerine dayanarak fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 2,
+    "ay": "",
+    "hafta_tarihi": "15-21 Eylül",
+    "ünite": "ÇEİD.1.İNSAN VE DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.1.2. İnsan ve doğa arasındaki etkileşimin olumlu ve olumsuz yönlerini tartışır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "22-28 Eylül",
+    "ünite": "ÇEİD.1.İNSAN VE DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.1.3. Yaşadığı çevrede canlı ve cansız varlıklar arasındaki sürekli etkileşime örnekler verir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4. hafta  29 Eylül-05 Ekim",
+    "ünite": "ÇEİD.1.İNSAN VE DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.1.4. Doğanın hassas bir dengeye sahip olduğu ile ilgili çıkarım yapar. ÇEİD.1.5. Doğal dengenin korunmasına yönelik toplumsal farkındalık oluşturacak bir proje tasarlar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 5,
+    "ay": "",
+    "hafta_tarihi": "06-12 Ekim",
+    "ünite": "ÇEİD.1.İNSAN VE DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.1.6. Doğal dengeyi olumsuz etkileyecek davranışları güncel örnekler üzerinden tartışır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 6,
+    "ay": "",
+    "hafta_tarihi": "13-19 Ekim",
+    "ünite": "ÇEİD.2. DÖNGÜSEL DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.2.1. Yakın çevresindeki doğal kaynaklara gözlem sonuçlarından faydalanarak örnek verir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 7,
+    "ay": "",
+    "hafta_tarihi": "20-26 Ekim",
+    "ünite": "ÇEİD.2. DÖNGÜSEL DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.2.2. Yeryüzündeki doğal kaynakları yaptığı araştırma sonuçlarına dayanarak gruplandırır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 8,
+    "ay": "",
+    "hafta_tarihi": "8. hafta  27 Ekim-02 Kasım",
+    "ünite": "ÇEİD.2. DÖNGÜSEL DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.2.3. Doğal kaynakların madde döngüsü ve enerji akışı ile süreklilik kazandığını fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 9,
+    "ay": "",
+    "hafta_tarihi": "03-09 Kasım",
+    "ünite": "ÇEİD.2. DÖNGÜSEL DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.2.3. Doğal kaynakların madde döngüsü ve enerji akışı ile süreklilik kazandığını fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 10,
+    "ay": "",
+    "hafta_tarihi": "10-16 Kasım",
+    "ünite": "ÇEİD.2. DÖNGÜSEL DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.2.3. Doğal kaynakların madde döngüsü ve enerji akışı ile süreklilik kazandığını fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 11,
+    "ay": "",
+    "hafta_tarihi": "17-23 Kasım",
+    "ünite": "ÇEİD.2. DÖNGÜSEL DOĞA",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.2.4. Madde döngüsündeki ve enerji akışındaki aksamanın doğal yaşama etkisi ile ilgili çıkarımlar yapar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 12,
+    "ay": "",
+    "hafta_tarihi": "24-30 Kasım",
+    "ünite": "ÇEİD.3. ÇEVRE SORUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.3.1. Günlük hayattaki üretim ve tüketim arasındaki dengenin önemini fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 13,
+    "ay": "",
+    "hafta_tarihi": "01-07 Aralık",
+    "ünite": "ÇEİD.3. ÇEVRE SORUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.3.2. Atık, çöp ve kirlilik kavramlarını ayırt eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 14,
+    "ay": "",
+    "hafta_tarihi": "08-14 Aralık",
+    "ünite": "ÇEİD.3. ÇEVRE SORUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.3.3. Atık ve çöpün hava, su, toprak kirliliğine ve radyoaktif kirliliğe neden olduğunu fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 15,
+    "ay": "",
+    "hafta_tarihi": "15-21 Aralık",
+    "ünite": "ÇEİD.3. ÇEVRE SORUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.3.4. Ekolojik ayak izi kavramını örneklerle açıklar. ÇEİD.3.5. Yerel ve küresel çevre sorunlarını örneklerle açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 16,
+    "ay": "",
+    "hafta_tarihi": "22-28 Aralık",
+    "ünite": "ÇEİD.3. ÇEVRE SORUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.3.6. Çevre kirliliğine bağlı olarak ortaya çıkan sorunları ve bu sorunların insan hayatı üzerindeki etkilerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 17,
+    "ay": "",
+    "hafta_tarihi": "17. hafta  29 Aralık-04 Ocak",
+    "ünite": "ÇEİD.3. ÇEVRE SORUNLARI",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.3.6. Çevre kirliliğine bağlı olarak ortaya çıkan sorunları ve bu sorunların insan hayatı üzerindeki etkilerini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 18,
+    "ay": "",
+    "hafta_tarihi": "05-11 Ocak",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.1. Sera gazlarının artışına neden olan olayları sorgular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 19,
+    "ay": "",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.1. Sera gazlarının artışına neden olan olayları sorgular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 20,
+    "ay": "",
+    "hafta_tarihi": "19-25 Ocak",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.1. Sera gazlarının artışına neden olan olayları sorgular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 21,
+    "ay": "",
+    "hafta_tarihi": "21. hafta  26 Ocak-01 Şubat",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.1. Sera gazlarının artışına neden olan olayları sorgular.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 22,
+    "ay": "",
+    "hafta_tarihi": "02-08 Şubat",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.2. Küresel ısınmanın sera etkisinin bir sonucu olarak ortaya çıktığını fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 23,
+    "ay": "",
+    "hafta_tarihi": "09-15 Şubat",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.3. Küresel iklim değişikliği ile küresel ısınma arasındaki ilişkiyi açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 24,
+    "ay": "",
+    "hafta_tarihi": "16-22 Şubat",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.4. Küresel iklim değişikliğinin etkilerini örnek olaylar üzerinden yorumlar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 25,
+    "ay": "",
+    "hafta_tarihi": "25. hafta  23 Şubat-01 Mart",
+    "ünite": "ÇEİD.4. KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.4.5. Küresel iklim değişikliğinin doğrudan ya da dolaylı olarak neden olduğu afetleri etkileriyle birlikte açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 26,
+    "ay": "",
+    "hafta_tarihi": "02-08 Mart",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.1. İklim değişikliğinin Türkiye’deki mevcut ve olası etkilerini fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 27,
+    "ay": "",
+    "hafta_tarihi": "09-15 Mart",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.1. İklim değişikliğinin Türkiye’deki mevcut ve olası etkilerini fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 28,
+    "ay": "",
+    "hafta_tarihi": "23-29 Mart",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.2. Türkiye’de iklim değişikliği ile mücadeleye yönelik ulusal ve uluslararası çalışmaların önemini tartışır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 29,
+    "ay": "",
+    "hafta_tarihi": "29. hafta  30 Mart-05 Nisan",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.3. İklim değişikliğinin Türkiye’deki etkilerini azaltmaya yönelik önlemlere örnekler verir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 30,
+    "ay": "",
+    "hafta_tarihi": "16-22 Mart",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.3. İklim değişikliğinin Türkiye’deki etkilerini azaltmaya yönelik önlemlere örnekler verir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 31,
+    "ay": "",
+    "hafta_tarihi": "06-12 Nisan",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.4.Türkiye’de iklim değişikliğiyle mücadele ile ilgili, yakın çevresini bilgilendirme sürecindeki sorumluluklarının farkında olur.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 32,
+    "ay": "",
+    "hafta_tarihi": "13-19 Nisan",
+    "ünite": "ÇEİD.5. İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.5.5. İklim değişikliğinin Türkiye’deki etkilerini azaltmaya yönelik toplumsal farkındalık oluşturacak proje/projeler tasarlar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 33,
+    "ay": "",
+    "hafta_tarihi": "20-26 Nisan",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.1. Günlük hayatında istek ve ihtiyaçlarını karşılarken gelecek nesillerin de gereksinimlerini dikkate alarak hareket etmesi gerektiğini fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 34,
+    "ay": "",
+    "hafta_tarihi": "34. hafta  27 Nisan-03 Mayıs",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.2. Su kaynaklarının sürdürülebilir kullanımının önemini fark eder.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 35,
+    "ay": "",
+    "hafta_tarihi": "04-10 Mayıs",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.3. Kaynakların sürdürülebilir kullanımının kalkınmaya etkisini araştırma verilerine dayalı olarak tartışır.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "11-17 Mayıs",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.4. Sürdürülebilir kalkınma açısından geri dönüşümün ve geri kazanımın önemini açıklar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 37,
+    "ay": "",
+    "hafta_tarihi": "18-24 Mayıs",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.5. Atık malzemelerden yararlanarak bir ileri dönüşüm ürünü tasarlar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 38,
+    "ay": "",
+    "hafta_tarihi": "01-07 Haziran",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.6. Türkiye ve dünyadaki sürdürülebilir kalkınmayı destekleyen örnekler sunar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 39,
+    "ay": "",
+    "hafta_tarihi": "08-14 Haziran",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.7. Gerçek hayat sorununa yönelik sürdürülebilir kalkınma bilincine dayalı çözüm içeren bir proje tasarlar.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 40,
+    "ay": "",
+    "hafta_tarihi": "15-21 Haziran",
+    "ünite": "ÇEİD.6. SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+    "konu": "",
+    "öğrenme çıktıları": "ÇEİD.6.8. Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarına örnekler verir.",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 41,
+    "ay": "",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "SOSYAL ETKİNLİK",
+    "konu": "",
+    "öğrenme çıktıları": "SOSYAL ETKİNLİK",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 42,
+    "ay": "",
+    "hafta_tarihi": "25-31 Mayıs",
+    "ünite": "Kurban Bayramı Tatili",
+    "konu": "",
+    "öğrenme çıktıları": "Kurban Bayramı Tatili",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  },
+  {
+    "hafta": 2025,
+    "ay": "",
+    "hafta_tarihi": "2025/2026 Eğitim-Öğretim Yılı Sonu",
+    "ünite": "Kurban Bayramı Tatili",
+    "konu": "",
+    "öğrenme çıktıları": "Kurban Bayramı Tatili",
+    "süreç bileşenleri": "",
+    "ders_saati": "2 saat"
+  }
+]
