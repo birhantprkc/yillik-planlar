@@ -1,0 +1,512 @@
+[
+  {
+    "hafta": 1,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "8-14 Eylül",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Temel Geometrik Çizimler ve İnşalar",
+    "öğrenme çıktıları": "MAT.5.3.1. Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme",
+    "süreç bileşenleri": "a) Nokta, doğru, doğru parçası, ışın, açı, çember ve dikme çiziminde gerekli araç ve teknolojileri tanır. b) Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun olan araç ve teknolojileri belirler. c) Nokta, doğru, doğru parçası, ışın, açı, çember ve dikmeyi oluşturmak için uygun araç ve teknolojileri kullanır.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 2,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "15-21 Eylül",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Temel Geometrik Çizimler ve İnşalar",
+    "öğrenme çıktıları": "MAT.5.3.2. Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme",
+    "süreç bileşenleri": "a)Temel geometrik çizimlere dayalı deneyimlerini gözden geçirir. b)Temel geometrik çizimlerin özelliklerine yönelik çıkarım yapar. c)Çıkarımını farklı örnekler üzerinden değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 3,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "22-28 Eylül",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Açı Ölçme",
+    "öğrenme çıktıları": "MAT.5.3.3. Açıları ölçmek için matematiksel araç ve teknolojiden yararlanabilme",
+    "süreç bileşenleri": "a)Açı ölçmek için gerekli araç ve teknolojiyi tanır. b)Açı ölçmek için uygun araç ve teknolojiyi belirler. c)Açı ölçmek için uygun araç ve teknolojiyi kullanır.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 4,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "4. Hafta:  29 Eylül-5 Ekim",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Açı Ölçme",
+    "öğrenme çıktıları": "MAT.5.3.4. Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+    "süreç bileşenleri": "a) Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair varsayımlarda bulunur. b) Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşan açıları belirleyerek listeler. c) Belirlediği açıları varsayımlarıyla karşılaştırır. ç) Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşan açılara dair önerme sunar. d) Sunduğu önermelerin, doğruların oluşturduğu açıların incelenmesine yönelik katkısına dair gerekçe sunar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 5,
+    "ay": "EKİM",
+    "hafta_tarihi": "6-12 Ekim",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Çokgenler ve Çember",
+    "öğrenme çıktıları": "MAT.5.3.5. Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme",
+    "süreç bileşenleri": "a) Düzlemde en az üç doğrunun -son doğru ilk doğruyla kesişecek biçimde- ardışık kesişerek oluşturdukları durumları inceler. b) Düzlemde en az üç doğrunun - son doğru ilk doğruyla kesişecek biçimde - ardışık kesişimleri ile çeşitli çokgenler oluşturur. c) Çokgenlerin düzlemde en az üç doğrunun -son doğru ilk doğruyla kesişecek biçimde ardışık kesişimleri ile meydana geldiğini ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 6,
+    "ay": "EKİM",
+    "hafta_tarihi": "13-19 Ekim",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Çokgenler ve Çember",
+    "öğrenme çıktıları": "MAT.5.3.6. Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme",
+    "süreç bileşenleri": "a) Çokgenlerin özellikleri ile ilgili edindiği deneyimleri gözden geçirir. b) Çokgenlerin kenar ve açı özelliklerine dair çıkarım yapar. c) Çıkarımını farklı örnekler üzerinden değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 7,
+    "ay": "EKİM",
+    "hafta_tarihi": "20-26 Ekim",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Çokgenler ve Çember",
+    "öğrenme çıktıları": "MAT.5.3.7. Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme",
+    "süreç bileşenleri": "a) İki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilebilecek üçgenlerin kenar özelliklerine yönelik varsayımlarda bulunur. b) Örnek çizimler üzerinden, kesişen iki çemberin merkezleri ve kesişim noktalarından biri ile inşa edilen çeşitkenar, ikizkenar ve eşkenar üçgenleri belirler. c) Belirlediği üçgenlerin özelliklerini varsayımları ile karşılaştırır. ç) Varsayımlarını, inşa ettiği üçgenler ile karşılaştırarak doğrulayabileceği önermeler şeklinde ifade eder. d) Sunduğu önermelerin katkısını değerlendirir. e) Çemberin özelliklerini kullanarak önermelerini doğrulamaya yönelik matematiksel gerekçeler sunar. f) Çemberin özelliklerinin benzer inşa süreçlerindeki rolünü değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 8,
+    "ay": "EKİM",
+    "hafta_tarihi": "8. Hafta:  27 Ekim-2 Kasım",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Çokgenler ve Çember",
+    "öğrenme çıktıları": "MAT.5.3.7. Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme",
+    "süreç bileşenleri": "a) İki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilebilecek üçgenlerin kenar özelliklerine yönelik varsayımlarda bulunur. b) Örnek çizimler üzerinden, kesişen iki çemberin merkezleri ve kesişim noktalarından biri ile inşa edilen çeşitkenar, ikizkenar ve eşkenar üçgenleri belirler. c) Belirlediği üçgenlerin özelliklerini varsayımları ile karşılaştırır. ç) Varsayımlarını, inşa ettiği üçgenler ile karşılaştırarak doğrulayabileceği önermeler şeklinde ifade eder. d) Sunduğu önermelerin katkısını değerlendirir. e) Çemberin özelliklerini kullanarak önermelerini doğrulamaya yönelik matematiksel gerekçeler sunar. f) Çemberin özelliklerinin benzer inşa süreçlerindeki rolünü değerlendirir.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 8,
+    "ay": "OKUL TEMELLİ PLANLAMA\\",
+    "hafta_tarihi": "8. Hafta:  27 Ekim-2 Kasım",
+    "ünite": "GEOMETRİK ŞEKİLLER",
+    "konu": "Çokgenler ve Çember",
+    "öğrenme çıktıları": "MAT.5.3.7. Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme",
+    "süreç bileşenleri": "a) İki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilebilecek üçgenlerin kenar özelliklerine yönelik varsayımlarda bulunur. b) Örnek çizimler üzerinden, kesişen iki çemberin merkezleri ve kesişim noktalarından biri ile inşa edilen çeşitkenar, ikizkenar ve eşkenar üçgenleri belirler. c) Belirlediği üçgenlerin özelliklerini varsayımları ile karşılaştırır. ç) Varsayımlarını, inşa ettiği üçgenler ile karşılaştırarak doğrulayabileceği önermeler şeklinde ifade eder. d) Sunduğu önermelerin katkısını değerlendirir. e) Çemberin özelliklerini kullanarak önermelerini doğrulamaya yönelik matematiksel gerekçeler sunar. f) Çemberin özelliklerinin benzer inşa süreçlerindeki rolünü değerlendirir.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": "GEOMETRİK ŞEKİLLER",
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "GEOMETRİK ŞEKİLLER",
+    "ünite": "Çokgenler ve Çember",
+    "konu": "a) İki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilebilecek üçgenlerin kenar özelliklerine yönelik varsayımlarda bulunur. b) Örnek çizimler üzerinden, kesişen iki çemberin merkezleri ve kesişim noktalarından biri ile inşa edilen çeşitkenar, ikizkenar ve eşkenar üçgenleri belirler. c) Belirlediği üçgenlerin özelliklerini varsayımları ile karşılaştırır. ç) Varsayımlarını, inşa ettiği üçgenler ile karşılaştırarak doğrulayabileceği önermeler şeklinde ifade eder. d) Sunduğu önermelerin katkısını değerlendirir. e) Çemberin özelliklerini kullanarak önermelerini doğrulamaya yönelik matematiksel gerekçeler sunar. f) Çemberin özelliklerinin benzer inşa süreçlerindeki rolünü değerlendirir.",
+    "öğrenme çıktıları": "Gözlem formu Çalışma kâğıdı Kontrol listesi Performans görevi Öz değerlendirme  Akran değerlendirme formları  Öğrenme günlüğü Zihin haritası İzleme testi",
+    "süreç bileşenleri": "SDB1.1. Öz Farkındalık/Kendini Tanıma  SDB1.2. Öz Düzenleme/Kendini Düzenleme SDB1.3. Öz Yansıtma/Kendine Uyarlama SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 9,
+    "ay": "KASIM",
+    "hafta_tarihi": "3-9 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Çok Basamaklı Sayıları Okuma ve Yazma",
+    "öğrenme çıktıları": "MAT.5.1.1. Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme",
+    "süreç bileşenleri": "a) Günlük hayattaki farklı bağlamlardan yola çıkarak altıdan çok basamaklı sayılar hakkında bilgi toplar.  b) Sayıların bölükleri ile okunuşları arasındaki ortak özellikleri belirler.  c) Sayıların bölükleri ile okunuşları arasındaki örüntüler üzerinden basamak sayısı altıdan çok olan sayıların okunuş ve yazılışları hakkında önermelerde bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 1,
+    "ay": "KASIM",
+    "hafta_tarihi": "10-16 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Çok Basamaklı Sayıları Okuma ve Yazma",
+    "öğrenme çıktıları": "MAT.5.1.1. Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme",
+    "süreç bileşenleri": "a) Günlük hayattaki farklı bağlamlardan yola çıkarak altıdan çok basamaklı sayılar hakkında bilgi toplar.  b) Sayıların bölükleri ile okunuşları arasındaki ortak özellikleri belirler.  c) Sayıların bölükleri ile okunuşları arasındaki örüntüler üzerinden basamak sayısı altıdan çok olan sayıların okunuş ve yazılışları hakkında önermelerde bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 10,
+    "ay": "KASIM",
+    "hafta_tarihi": "17-23 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Çözümleme",
+    "öğrenme çıktıları": "MAT.5.1.1. Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme",
+    "süreç bileşenleri": "a) Günlük hayattaki farklı bağlamlardan yola çıkarak altıdan çok basamaklı sayılar hakkında bilgi toplar.  b) Sayıların bölükleri ile okunuşları arasındaki ortak özellikleri belirler.  c) Sayıların bölükleri ile okunuşları arasındaki örüntüler üzerinden basamak sayısı altıdan çok olan sayıların okunuş ve yazılışları hakkında önermelerde bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 11,
+    "ay": "KASIM",
+    "hafta_tarihi": "24-30 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
+    "öğrenme çıktıları": "MAT.5.1.2. Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+    "süreç bileşenleri": "MAT.5.1.2. a) Problemin içerdiği sayı ve işlem bileşenlerini belirler. b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler. c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür. ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlenen strateji veya stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir. ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 12,
+    "ay": "ARALIK",
+    "hafta_tarihi": "1-7 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
+    "öğrenme çıktıları": "MAT.5.1.2. Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+    "süreç bileşenleri": "a) Problemin içerdiği sayı ve işlem bileşenlerini belirler. b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler. c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür. ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlenen strateji veya stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir. ğ)  Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 13,
+    "ay": "ARALIK",
+    "hafta_tarihi": "8-14 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
+    "öğrenme çıktıları": "MAT.5.1.2. Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+    "süreç bileşenleri": "a) Problemin içerdiği sayı ve işlem bileşenlerini belirler. b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler. c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür. ç)  Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlenen strateji veya stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir. ğ)  Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 14,
+    "ay": "ARALIK",
+    "hafta_tarihi": "15-21 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)  GEOMETRİK NİCELİKLER",
+    "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.1.2. Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme  MAT.5.4.1. Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme",
+    "süreç bileşenleri": "MAT.5.1.2 a) Problemin içerdiği sayı ve işlem bileşenlerini belirler. b) Problemde verilenler ile istenenlerin gerektirdiği işlemler arasındaki ilişkiyi belirler. c) Problem bağlamıyla ilişkili verilenleri uygun matematiksel temsillere dönüştürür. ç) Problemi matematiksel temsiller kullanarak kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlenen strateji veya stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek kısa yolları değerlendirir. ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir. MAT.5.4.1.  a) Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde olası kenar uzunluklarını inceler. b) Verilen çevre uzunluğuna sahip ve kenar uzunlukları doğal sayı olan dikdörtgen oluşturur. c) Kenar uzunlukları doğal sayı olan farklı dikdörtgenlerin aynı çevre uzunluğuna sahip olabileceğini açıklar.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 15,
+    "ay": "ARALIK",
+    "hafta_tarihi": "22-28 Aralık",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.4.1. Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme MAT.5.4.2. Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme",
+    "süreç bileşenleri": "MAT.5.4.1.  a) Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde olası kenar uzunluklarını inceler. b) Verilen çevre uzunluğuna sahip ve kenar uzunlukları doğal sayı olan dikdörtgen oluşturur. c) Kenar uzunlukları doğal sayı olan farklı dikdörtgenlerin aynı çevre uzunluğuna sahip olabileceğini açıklar. MAT.5.4.2.  a) Dikdörtgenin alanını ölçmede, seçtiği birim kareleri ölçüt olarak belirler. b) Dikdörtgenin alanını seçilen birim karelerle ölçer. c) Birim kare sayısının dikdörtgenin iki ardışık kenar uzunluğu ile ilişkisini inceler. ç) Dikdörtgenin alan bağıntısına (iki ardışık kenarın uzunlukları çarpımı) ilişkin yargıda bulunur.",
+    "ders_saati": "1+4"
+  },
+  {
+    "hafta": 16,
+    "ay": "ARALIK",
+    "hafta_tarihi": "16. Hafta:  29 Aralık-4 Ocak",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.4.1. Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme MAT.5.4.2. Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme",
+    "süreç bileşenleri": "MAT.5.4.1.  a) Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde olası kenar uzunluklarını inceler. b) Verilen çevre uzunluğuna sahip ve kenar uzunlukları doğal sayı olan dikdörtgen oluşturur. c) Kenar uzunlukları doğal sayı olan farklı dikdörtgenlerin aynı çevre uzunluğuna sahip olabileceğini açıklar. MAT.5.4.2.  a) Dikdörtgenin alanını ölçmede, seçtiği birim kareleri ölçüt olarak belirler. b) Dikdörtgenin alanını seçilen birim karelerle ölçer. c) Birim kare sayısının dikdörtgenin iki ardışık kenar uzunluğu ile ilişkisini inceler. ç) Dikdörtgenin alan bağıntısına (iki ardışık kenarın uzunlukları çarpımı) ilişkin yargıda bulunur.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 16,
+    "ay": "OKUL TEMELLİ PLANLAMA\\",
+    "hafta_tarihi": "16. Hafta:  29 Aralık-4 Ocak",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.4.1. Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme MAT.5.4.2. Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme",
+    "süreç bileşenleri": "MAT.5.4.1.  a) Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde olası kenar uzunluklarını inceler. b) Verilen çevre uzunluğuna sahip ve kenar uzunlukları doğal sayı olan dikdörtgen oluşturur. c) Kenar uzunlukları doğal sayı olan farklı dikdörtgenlerin aynı çevre uzunluğuna sahip olabileceğini açıklar. MAT.5.4.2.  a) Dikdörtgenin alanını ölçmede, seçtiği birim kareleri ölçüt olarak belirler. b) Dikdörtgenin alanını seçilen birim karelerle ölçer. c) Birim kare sayısının dikdörtgenin iki ardışık kenar uzunluğu ile ilişkisini inceler. ç) Dikdörtgenin alan bağıntısına (iki ardışık kenarın uzunlukları çarpımı) ilişkin yargıda bulunur.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 3,
+    "ay": "OCAK",
+    "hafta_tarihi": "3+(2)\\",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "MAT.5.4.3. Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme",
+    "öğrenme çıktıları": "a) Alanının ölçüsü verilen bir dikdörtgenin çevre uzunluğunu, çevre uzunluğu verilen bir dikdörtgenin alanını inceler. b) Aynı alana sahip farklı dikdörtgenlerin çevre uzunluklarını ve aynı çevre uzunluğuna sahip farklı dikdörtgenlerin alanlarını belirler. c) Aynı çevre uzunluğuna sahip dikdörtgenlerin farklı alanlara ve aynı alana sahip dikdörtgenlerin farklı çevre uzunluklarına sahip olabileceğini ifade eder.",
+    "süreç bileşenleri": "İzleme testi  Açık uçlu sorular  Yapılandırılmış grid  Çalışma kağıdı  Performans görevi",
+    "ders_saati": "GEOMETRİK NİCELİKLER"
+  },
+  {
+    "hafta": 17,
+    "ay": "OCAK",
+    "hafta_tarihi": "5-11 Ocak",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.4.4. Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme",
+    "süreç bileşenleri": "a) Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemlerde ilgili matematiksel bileşenleri (şekil, uzunluk, alan ölçüleri gibi) belirler. b) Matematiksel bileşenler arasındaki ilişkileri belirler. c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür. ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlediği stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir. ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 18,
+    "ay": "OCAK",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.4.4. Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme",
+    "süreç bileşenleri": "a) Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemlerde ilgili matematiksel bileşenleri (şekil, uzunluk, alan ölçüleri gibi) belirler. b) Matematiksel bileşenler arasındaki ilişkileri belirler. c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür. ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlediği stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir. ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 18,
+    "ay": "YARIYIL TATİLİ: 19 Ocak – 1 Şubat 2025",
+    "hafta_tarihi": "12-18 Ocak",
+    "ünite": "GEOMETRİK NİCELİKLER",
+    "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+    "öğrenme çıktıları": "MAT.5.4.4. Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme",
+    "süreç bileşenleri": "a) Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemlerde ilgili matematiksel bileşenleri (şekil, uzunluk, alan ölçüleri gibi) belirler. b) Matematiksel bileşenler arasındaki ilişkileri belirler. c) Problem bağlamındaki temsilleri farklı temsillere dönüştürür. ç) Matematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar. d) Problemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir. e) Belirlediği stratejileri çözüm için uygular. f) Çözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir. g) Problemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir. ğ) Kullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller. h) Genellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 19,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "2-8 Şubat",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Farklı Gösterimleri",
+    "öğrenme çıktıları": "MAT.5.1.3. Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme",
+    "süreç bileşenleri": "a) Kesirlerin farklı gösterimlerinin (bileşik, tam sayılı, ondalık, yüzde) gerçek yaşam durumu içerisindeki kullanımını anlar. b) Gerçek yaşam durumlarında karşılaşılan kesirlerin farklı gösterimlerini ilişkilendirmek için farklı modelleri (yüzlük kart, somut modeller, sayı doğrusu gibi) seçer. c) Seçilen modelleri kullanır. ç)Kullanılan modelleri kesirlerin farklı gösterimleri ile yorumlar. d) Benzer durumlarda kullanılabilecek farklı modelleri kullanışlılık açısından karşılaştırır. e) Karşılaştırdığı modellerin kullanışlılığına ilişkin karar verir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 20,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "9-15 Şubat",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Farklı Gösterimleri",
+    "öğrenme çıktıları": "MAT.5.1.3. Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme",
+    "süreç bileşenleri": "a) Kesirlerin farklı gösterimlerinin (bileşik, tam sayılı, ondalık, yüzde) gerçek yaşam durumu içerisindeki kullanımını anlar. b) Gerçek yaşam durumlarında karşılaşılan kesirlerin farklı gösterimlerini ilişkilendirmek için farklı modelleri (yüzlük kart, somut modeller, sayı doğrusu gibi) seçer. c) Seçilen modelleri kullanır. ç) Kullanılan modelleri kesirlerin farklı gösterimleri ile yorumlar. d) Benzer durumlarda kullanılabilecek farklı modelleri kullanışlılık açısından karşılaştırır. e) Karşılaştırdığı modellerin kullanışlılığına ilişkin karar verir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 21,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "16-22 Şubat",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Farklı Gösterimleri",
+    "öğrenme çıktıları": "MAT.5.1.3. Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme",
+    "süreç bileşenleri": "a) Kesirlerin farklı gösterimlerinin (bileşik, tam sayılı, ondalık, yüzde) gerçek yaşam durumu içerisindeki kullanımını anlar. b) Gerçek yaşam durumlarında karşılaşılan kesirlerin farklı gösterimlerini ilişkilendirmek için farklı modelleri (yüzlük kart, somut modeller, sayı doğrusu gibi) seçer. c) Seçilen modelleri kullanır. ç)Kullanılan modelleri kesirlerin farklı gösterimleri ile yorumlar. d) Benzer durumlarda kullanılabilecek farklı modelleri kullanışlılık açısından karşılaştırır. e) Karşılaştırdığı modellerin kullanışlılığına ilişkin karar verir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 22,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "22. Hafta: 23 Şubat-1 Mart",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Farklı Gösterimleri  Kesirlerin Karşılaştırılması",
+    "öğrenme çıktıları": "MAT.5.1.3. Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme  MAT.5.1.4. Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme",
+    "süreç bileşenleri": "MAT.5.1.3.  a) Kesirlerin farklı gösterimlerinin (bileşik, tam sayılı, ondalık, yüzde) gerçek yaşam durumu içerisindeki kullanımını anlar. b) Gerçek yaşam durumlarında karşılaşılan kesirlerin farklı gösterimlerini ilişkilendirmek için farklı modelleri (yüzlük kart, somut modeller, sayı doğrusu gibi) seçer. c)Seçilen modelleri kullanır. ç)Kullanılan modelleri kesirlerin farklı gösterimleri ile yorumlar. d) Benzer durumlarda kullanılabilecek farklı modelleri kullanışlılık açısından karşılaştırır. e) Karşılaştırdığı modellerin kullanışlılığına ilişkin karar verir.  MAT.5.1.4 a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur. b)Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler. c)Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir. ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar. d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "ders_saati": "2+3"
+  },
+  {
+    "hafta": 23,
+    "ay": "MART",
+    "hafta_tarihi": "2-8 Mart",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Karşılaştırılması",
+    "öğrenme çıktıları": "MAT.5.1.4. Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım  yapabilme",
+    "süreç bileşenleri": "a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur.  b) Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir.  ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar.  d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 24,
+    "ay": "MART",
+    "hafta_tarihi": "9-15 Mart",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Karşılaştırılması",
+    "öğrenme çıktıları": "MAT.5.1.4. Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım  yapabilme",
+    "süreç bileşenleri": "a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur.  b) Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir.  ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar.  d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 2,
+    "ay": "MART",
+    "hafta_tarihi": "16-22 Mart",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Karşılaştırılması",
+    "öğrenme çıktıları": "MAT.5.1.4. Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım  yapabilme",
+    "süreç bileşenleri": "a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur.  b) Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir.  ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar.  d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "ders_saati": "2"
+  },
+  {
+    "hafta": 25,
+    "ay": "Şehitler Günü (18 Mart)  Türk Dünyası ve Toplulukları Haftası",
+    "hafta_tarihi": "23-29 Mart",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Karşılaştırılması",
+    "öğrenme çıktıları": "MAT.5.1.4. Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım  yapabilme",
+    "süreç bileşenleri": "a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur.  b) Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir.  ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar.  d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 25,
+    "ay": "OKUL TEMELLİ PLANLAMA\\",
+    "hafta_tarihi": "23-29 Mart",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Kesirlerin Karşılaştırılması",
+    "öğrenme çıktıları": "MAT.5.1.4. Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım  yapabilme",
+    "süreç bileşenleri": "a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur.  b) Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir.  ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar.  d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 2,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "SAYILAR VE NİCELİKLER (2)",
+    "ünite": "Kesirlerin Karşılaştırılması",
+    "konu": "a) Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik varsayımda bulunur. b) Varsayımındaki ilişkileri inceleyerek kesirlerin karşılaştırılmasına yönelik genellemeleri belirler. c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını sayı doğrusu, şekil gibi temsiller üzerinde gösterir. ç)Varsayımı ile ilgili ulaştığı sonuca yönelik matematiksel önermeleri sözel ya da sembolik temsil ile sunar. d) Sunduğu önermelerin tahmin etme becerisine katkısını gerekçelerle açıklar.",
+    "öğrenme çıktıları": "Açık uçlu ve kısa cevaplı sorulardan oluşan izleme testi  Açık uçlu sorulardan oluşan çalışma kâğıdı  Öz ve akran değerlendirme formları  Performans görevi",
+    "süreç bileşenleri": "SDB2.1. İletişim  SDB2.2. İş Birliği  SDB2.3. Sosyal Farkındalık  SDB3.3. Sorumlu Karar Verme",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 26,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "26. Hafta:  30 Mart-5 Nisan",
+    "ünite": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+    "konu": "Kategorik Veri Dağılımları",
+    "öğrenme çıktıları": "MAT.5.5.1. Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme",
+    "süreç bileşenleri": "a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.  b) Kategorik veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur. c) Kategorik veriye ulaşmak için plan yapar. ç)Kategorik veriye ve araştırma sorusuna uygun anket soruları hazırlar. d) Anketi kullanarak veri toplar veya hazır veriye ulaşır. e) Veri görselleştirme aracını (sıklık tablosu, sütun grafiği, daire grafiği, nokta grafiği gibi) seçme gerekçelerini belirtir. f) Toplanan veriyi uygun görselleştirme aracı ile analiz eder. g) Araştırma sonuçlarını elde eder. ğ) Araştırmada ulaştığı sonuçlara yönelik gerekçeler sunar. h) Araştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirir. ı)Araştırma süreci adımlarını değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 27,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "6-12 Nisan",
+    "ünite": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+    "konu": "Kategorik Veri Dağılımları",
+    "öğrenme çıktıları": "MAT.5.5.1. Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme",
+    "süreç bileşenleri": "a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.  b) Kategorik veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur. c) Kategorik veriye ulaşmak için plan yapar. ç) Kategorik veriye ve araştırma sorusuna uygun anket soruları hazırlar. d) Anketi kullanarak veri toplar veya hazır veriye ulaşır. e) Veri görselleştirme aracını (sıklık tablosu, sütun grafiği, daire grafiği, nokta grafiği gibi) seçme gerekçelerini belirtir. f) Toplanan veriyi uygun görselleştirme aracı ile analiz eder. g) Araştırma sonuçlarını elde eder. ğ) Araştırmada ulaştığı sonuçlara yönelik gerekçeler sunar. h) Araştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirir. ı) Araştırma süreci adımlarını değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 28,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "13-19 Nisan",
+    "ünite": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+    "konu": "Kategorik Veri Dağılımları",
+    "öğrenme çıktıları": "MAT.5.5.1. Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme",
+    "süreç bileşenleri": "a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.  b) Kategorik veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur. c) Kategorik veriye ulaşmak için plan yapar. ç)Kategorik veriye ve araştırma sorusuna uygun anket soruları hazırlar. d) Anketi kullanarak veri toplar veya hazır veriye ulaşır. e)Veri görselleştirme aracını (sıklık tablosu, sütun grafiği, daire grafiği, nokta grafiği gibi) seçme gerekçelerini belirtir. f) Toplanan veriyi uygun görselleştirme aracı ile analiz eder. g) Araştırma sonuçlarını elde eder. ğ)Araştırmada ulaştığı sonuçlara yönelik gerekçeler sunar. h Araştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirir. ı)Araştırma süreci adımlarını değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 29,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "20-26 Nisan",
+    "ünite": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+    "konu": "Kategorik Veri Dağılımları",
+    "öğrenme çıktıları": "MAT.5.5.1. Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme  MAT.5.5.2. Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç  veya yorumları tartışabilme",
+    "süreç bileşenleri": "MAT.5.5.1. a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.  b) Kategorik veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur. c) Kategorik veriye ulaşmak için plan yapar. ç)Kategorik veriye ve araştırma sorusuna uygun anket soruları hazırlar. d) Anketi kullanarak veri toplar veya hazır veriye ulaşır. e)Veri görselleştirme aracını (sıklık tablosu, sütun grafiği, daire grafiği, nokta grafiği gibi) seçme gerekçelerini belirtir. f) Toplanan veriyi uygun görselleştirme aracı ile analiz eder. g)Araştırma sonuçlarını elde eder. ğ)Araştırmada ulaştığı sonuçlara yönelik gerekçeler sunar. h)Araştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirir. ı)Araştırma süreci adımlarını değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar. MAT.5.5.2. a) Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar. b) Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder. c) Başkaları tarafından oluşturulan kategorik veriye dayalı sonuç veya yorumları  çürütür ya da kabul eder.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 30,
+    "ay": "MAYIS",
+    "hafta_tarihi": "30. Hafta: 27 Nisan-3 Mayıs",
+    "ünite": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "konu": "Kategorik Veri Dağılımları Eşitliğin Korunumu",
+    "öğrenme çıktıları": "MAT.5.5.2. Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç  veya yorumları tartışabilme MAT.5.2.1. Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme",
+    "süreç bileşenleri": "MAT.5.5.2. a) Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar. b) Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder. c) Başkaları tarafından oluşturulan kategorik veriye dayalı sonuç veya yorumları çürütür ya da kabul eder.  MAT.5.2.1.  a) Eşitliğin korunumuna, doğal sayılarla toplama ve çarpma işlemlerinin değişme, birleşme; çarpmanın toplama ve çıkarma işlemleri üzerine dağılma özelliklerine yönelik varsayımlarda bulunur. b) İncelediği örnekler üzerinden varsayımına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli örnekler üzerinden sınar. ç)Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel ve sembolik temsil ile sunar. d) Sunduğu önermenin katkısına yönelik gerekçe sunar.",
+    "ders_saati": "4+1"
+  },
+  {
+    "hafta": 31,
+    "ay": "MAYIS",
+    "hafta_tarihi": "4-10 Mayıs",
+    "ünite": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "konu": "Değişme-Birleşme ve Dağılma Özellikleri",
+    "öğrenme çıktıları": "MAT.5.2.1. Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme",
+    "süreç bileşenleri": "a) Eşitliğin korunumuna, doğal sayılarla toplama ve çarpma işlemlerinin değişme, birleşme; çarpmanın toplama ve çıkarma işlemleri üzerine dağılma  özelliklerine yönelik varsayımlarda bulunur. b) İncelediği örnekler üzerinden varsayımına yönelik genellemeleri belirler.  c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli ör nekler üzerinden sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel  bir önermeyi sözel ve sembolik temsil ile sunar. d) Sunduğu önermenin katkısına yönelik gerekçe sunar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 32,
+    "ay": "MAYIS",
+    "hafta_tarihi": "11-17 Mayıs",
+    "ünite": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "konu": "İşlem Önceliği  Örüntüler",
+    "öğrenme çıktıları": "MAT.5.2.2. Karşılaştığı günlük hayat ya da matematiksel durumlarda işlem önceliğini yorumlayabilme MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.2. a) Doğal sayılarla dört işlem içeren problemlerde ve sayı cümlelerinde işlem  önceliğini inceler.  b) Karşılaştığı doğal sayılarla dört işlem içeren problemlerde ve sayı cümlelerinde işlem önceliğini uygular. c) Karşılaştığı durumlarda işlem önceliğini açıklar.  MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç)Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "4+1"
+  },
+  {
+    "hafta": 33,
+    "ay": "MAYIS",
+    "hafta_tarihi": "18-24 Mayıs",
+    "ünite": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "konu": "Örüntüler",
+    "öğrenme çıktıları": "MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 26,
+    "ay": "MAYIS",
+    "hafta_tarihi": "28-29 VE",
+    "ünite": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "konu": "Örüntüler",
+    "öğrenme çıktıları": "MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 34,
+    "ay": "MAYIS",
+    "hafta_tarihi": "1-7 Haziran",
+    "ünite": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "konu": "Örüntüler",
+    "öğrenme çıktıları": "MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": "İŞLEMLERLE CEBİRSEL DÜŞÜNME  VERİDEN OLASILIĞA",
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "İŞLEMLERLE CEBİRSEL DÜŞÜNME  VERİDEN OLASILIĞA",
+    "ünite": "Temel Aritmetik İşlemler ve Algoritma Öznel Olasılık",
+    "konu": "MAT.5.2.4.  a) Temel aritmetik işlem içeren durumlardaki algoritmik yapıyı inceler. b) İncelediği durumlardaki algoritmik yapıyı tablo temsiline veya aritmetik işlemlere dönüştürür.  c) Dönüştürdüğü algoritmik yapının içerdiği matematiksel ilişkileri sözlü olarak  ifade eder.",
+    "öğrenme çıktıları": "MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 35,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "8-14 Haziran",
+    "ünite": "Temel Aritmetik İşlemler ve Algoritma Öznel Olasılık",
+    "konu": "MAT.5.2.4.  a) Temel aritmetik işlem içeren durumlardaki algoritmik yapıyı inceler. b) İncelediği durumlardaki algoritmik yapıyı tablo temsiline veya aritmetik işlemlere dönüştürür.  c) Dönüştürdüğü algoritmik yapının içerdiği matematiksel ilişkileri sözlü olarak  ifade eder.",
+    "öğrenme çıktıları": "MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": "VERİDEN OLASILIĞA",
+    "ay": "1+4",
+    "hafta_tarihi": "VERİDEN OLASILIĞA",
+    "ünite": "Öznel Olasılık",
+    "konu": "MAT.5.2.4.  a) Temel aritmetik işlem içeren durumlardaki algoritmik yapıyı inceler. b) İncelediği durumlardaki algoritmik yapıyı tablo temsiline veya aritmetik işlemlere dönüştürür.  c) Dönüştürdüğü algoritmik yapının içerdiği matematiksel ilişkileri sözlü olarak  ifade eder. MAT.5.6.1 a) Olayları ve olası durumları inceler.  b) Bir olayın olasılığına dair tahminlerini farklı sayı temsillerine dönüştürür. c) Kendi ifadeleriyle tahminde bulunduğu bir olayın olasılığının 0 ile 1 arasında (0  ve 1 dâhil) olduğunu ifade eder.",
+    "öğrenme çıktıları": "MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "süreç bileşenleri": "MAT.5.2.3.  a) Örüntülerdeki ilişkilere yönelik varsayımda bulunur. b) Varsayıma yönelik örüntüdeki terimleri inceleyerek örüntünün kuralına ilişkin genellemeleri belirler. c) Genellediği ilişkilerin varsayımını karşılayıp karşılamadığını sınar. ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği önermeyi sözel ve sembolik temsiller kullanarak sunar. d) Sunduğu önermenin kullanışlılığına yönelik gerekçeler sunar. e) Sunduğu önermenin geçerliliğini destekleyen kapsayıcı örnekler verir. f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.",
+    "ders_saati": "SINAV HAFTASI"
+  },
+  {
+    "hafta": 36,
+    "ay": "1+4",
+    "hafta_tarihi": "15-21 Haziran",
+    "ünite": "VERİDEN OLASILIĞA",
+    "konu": "Öznel Olasılık",
+    "öğrenme çıktıları": "MAT.5.6.2. Olayları az ya da çok olasılıklı şeklinde yapılandırabilme",
+    "süreç bileşenleri": "a) Olayların olasılıklarına ilişkin nedensel veya mantıksal ilişkiler ortaya koyar. b) Kendi öz bilgisi ile elde ettiği ilişkilere dayanarak olayların olasılıklarını az veya  çok olasılıklı şeklinde ortaya koyar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 37,
+    "ay": "1+4",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "VERİDEN OLASILIĞA",
+    "konu": "Öznel Olasılık",
+    "öğrenme çıktıları": "MAT.5.6.2. Olayları az ya da çok olasılıklı şeklinde yapılandırabilme",
+    "süreç bileşenleri": "a) Olayların olasılıklarına ilişkin nedensel veya mantıksal ilişkiler ortaya koyar. b) Kendi öz bilgisi ile elde ettiği ilişkilere dayanarak olayların olasılıklarını az veya  çok olasılıklı şeklinde ortaya koyar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 37,
+    "ay": "FARKLILAŞTIRMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "VERİDEN OLASILIĞA",
+    "konu": "Öznel Olasılık",
+    "öğrenme çıktıları": "MAT.5.6.2. Olayları az ya da çok olasılıklı şeklinde yapılandırabilme",
+    "süreç bileşenleri": "a) Olayların olasılıklarına ilişkin nedensel veya mantıksal ilişkiler ortaya koyar. b) Kendi öz bilgisi ile elde ettiği ilişkilere dayanarak olayların olasılıklarını az veya  çok olasılıklı şeklinde ortaya koyar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  },
+  {
+    "hafta": 37,
+    "ay": "OKUL TEMELLİ PLANLAMA",
+    "hafta_tarihi": "22-28 Haziran",
+    "ünite": "VERİDEN OLASILIĞA",
+    "konu": "Öznel Olasılık",
+    "öğrenme çıktıları": "MAT.5.6.2. Olayları az ya da çok olasılıklı şeklinde yapılandırabilme",
+    "süreç bileşenleri": "a) Olayların olasılıklarına ilişkin nedensel veya mantıksal ilişkiler ortaya koyar. b) Kendi öz bilgisi ile elde ettiği ilişkilere dayanarak olayların olasılıklarını az veya  çok olasılıklı şeklinde ortaya koyar.",
+    "ders_saati": "SOSYAL ETKİNLİK"
+  }
+]

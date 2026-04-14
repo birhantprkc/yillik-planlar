@@ -1,0 +1,512 @@
+[
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3",
+    "ünite": "NESNELERİN GEOMETRİSİ-1",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "15"
+  },
+  {
+    "hafta": 12,
+    "ay": "",
+    "hafta_tarihi": "12",
+    "ünite": "SAYILAR VE NİCELİKLER-1",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "60"
+  },
+  {
+    "hafta": 4,
+    "ay": "",
+    "hafta_tarihi": "4",
+    "ünite": "SAYILAR VE NİCELİKLER-2",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "20"
+  },
+  {
+    "hafta": 10,
+    "ay": "",
+    "hafta_tarihi": "10",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "50"
+  },
+  {
+    "hafta": 1,
+    "ay": "",
+    "hafta_tarihi": "1",
+    "ünite": "SAYILAR VE NİCELİKLER-3",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3",
+    "ünite": "NESNELERİN GEOMETRİSİ-2",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "15"
+  },
+  {
+    "hafta": 3,
+    "ay": "",
+    "hafta_tarihi": "3",
+    "ünite": "VERİYE DAYALI ARAŞTIRMA",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "15"
+  },
+  {
+    "hafta": 36,
+    "ay": "",
+    "hafta_tarihi": "36",
+    "ünite": "TOPLAM",
+    "konu": "",
+    "öğrenme çıktıları": "",
+    "süreç bileşenleri": "",
+    "ders_saati": "180"
+  },
+  {
+    "hafta": 1,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "8-12 Eylül",
+    "ünite": "NESNELERİN  GEOMETRİSİ (1)",
+    "konu": "Uzamsal İlişkiler",
+    "öğrenme çıktıları": "MAT.1.3.1. Hedefe ulaşmak için mesafeleri ve yönleri içeren yönergeleri çözümleyebilme",
+    "süreç bileşenleri": "a) Yönergede yer alan mesafe ve yönleri içeren kavramları belirler.  b) Yönergeleri kullanarak başlangıç noktası ve hedef arasında ilişki kurar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 2,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "15-19 Eylül",
+    "ünite": "NESNELERİN  GEOMETRİSİ (1)",
+    "konu": "Uzamsal İlişkiler  Eş Nesneler",
+    "öğrenme çıktıları": "MAT.1.3.1. Hedefe ulaşmak için mesafeleri ve yönleri içeren yönergeleri çözümleyebilme  MAT.1.3.2. Nesnelerin eşliğini değerlendirebilme",
+    "süreç bileşenleri": "a) Yönergede yer alan mesafe ve yönleri içeren kavramları belirler.  b) Yönergeleri kullanarak başlangıç noktası ve hedef arasında ilişki kurar.  a) Nesnelerin eşliği için bir ölçüt belirler.  b) Ölçüte uygun bilgileri kullanarak ölçme yapar.  c) Yapılan ölçmeye dayalı olarak elde ettiği sonuçları ölçüt ile karşılaştırır.  ç) Karşılaştırmalarına ilişkin olarak yargıda bulunur.",
+    "ders_saati": "2+3"
+  },
+  {
+    "hafta": 3,
+    "ay": "EYLÜL",
+    "hafta_tarihi": "22-26 Eylül",
+    "ünite": "NESNELERİN  GEOMETRİSİ (1)",
+    "konu": "Eş Nesneler",
+    "öğrenme çıktıları": "MAT.1.3.2. Nesnelerin eşliğini değerlendirebilme",
+    "süreç bileşenleri": "a) Nesnelerin eşliği için bir ölçüt belirler.  b) Ölçüte uygun bilgileri kullanarak ölçme yapar.  c) Yapılan ölçmeye dayalı olarak elde ettiği sonuçları ölçüt ile karşılaştırır.  ç) Karşılaştırmalarına ilişkin olarak yargıda bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 4,
+    "ay": "EKİM",
+    "hafta_tarihi": "4. Hafta:  29 Eylül-3 Ekim",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Nesne Sayısını Belirleme",
+    "öğrenme çıktıları": "MAT.1.1.1. Rakamları ve 20’ye kadar olan sayıları (20 dâhil), niceliklerin büyüklüklerini  temsil etmek için kullanabilme",
+    "süreç bileşenleri": "a) Niceliklerin büyüklüklerinin farklı temsillerini tanır.  b) Karşılaştığı niceliklerin büyüklüklerini, farklı temsilleri bağlamında belirler.  c) Karşılaştığı niceliklerin büyüklüklerini rakam ve sayılarla okur ve yazar.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 5,
+    "ay": "EKİM",
+    "hafta_tarihi": "6-10 Ekim",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Nesne Sayısını Belirleme  Nesne Sayısını Belirleme",
+    "öğrenme çıktıları": "MAT.1.1.1. Rakamları ve 20’ye kadar olan sayıları (20 dâhil), niceliklerin büyüklüklerini  temsil etmek için kullanabilme  MAT.1.1.2. Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken  parçalar arasında ilişkileri çözümleyebilme",
+    "süreç bileşenleri": "a) Niceliklerin büyüklüklerinin farklı temsillerini tanır.  b) Karşılaştığı niceliklerin büyüklüklerini, farklı temsilleri bağlamında belirler.  c) Karşılaştığı niceliklerin büyüklüklerini rakam ve sayılarla okur ve yazar.  a) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunun parçalarını belirler.  b) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasındaki ilişkileri belirler.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 6,
+    "ay": "EKİM",
+    "hafta_tarihi": "13-17 Ekim",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Nesne Sayısını Belirleme",
+    "öğrenme çıktıları": "MAT.1.1.2. Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasında ilişkileri çözümleyebilme",
+    "süreç bileşenleri": "a) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunun parçalarını belirler.  b) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasındaki ilişkileri belirler.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 7,
+    "ay": "EKİM",
+    "hafta_tarihi": "20-24 Ekim",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Nesne Sayısını Belirleme  Sıra Bildiren Sayılar",
+    "öğrenme çıktıları": "MAT.1.1.2. Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasında ilişkileri çözümleyebilme  MAT.1.1.3. Nesnelerin sıra sayısını gösterebilme",
+    "süreç bileşenleri": "a) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunun parçalarını belirler.  b) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasındaki ilişkileri belirler.",
+    "ders_saati": "1+4"
+  },
+  {
+    "hafta": 8,
+    "ay": "EKİM",
+    "hafta_tarihi": "27-31 Ekim",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Nesne Sayısını Belirleme  Sıra Bildiren Sayılar",
+    "öğrenme çıktıları": "MAT.1.1.2. Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasında ilişkileri çözümleyebilme  MAT.1.1.3. Nesnelerin sıra sayısını gösterebilme",
+    "süreç bileşenleri": "a) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunun parçalarını belirler.  b) Ögeleri dağınık veya düzenli bir şekilde bulunan bir nesne grubunu sayarken parçalar arasındaki ilişkileri belirler.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": 1,
+    "ay": "3+(1)\\",
+    "hafta_tarihi": "SAYILAR VE NİCELİKLER (1)",
+    "ünite": "MAT.1.1.3. Nesnelerin sıra sayısını gösterebilme",
+    "konu": "Nesne Sayısını Belirleme  Sıra Bildiren Sayılar",
+    "öğrenme çıktıları": "Eşleştirme  Boşluk doldurma Çalışma yaprağı Kontrol listesi İzleme testleri  Gözlem formu",
+    "süreç bileşenleri": "SDB1.1. Kendini Tanıma (Öz Farkındalık Becerisi)  SDB1.2. Kendini Düzenleme (Öz Düzenle me Becerisi) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. Sorumlu Karar Verme",
+    "ders_saati": "Sıra Bildiren Sayılar"
+  },
+  {
+    "hafta": 9,
+    "ay": "KASIM",
+    "hafta_tarihi": "3-7 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Sıra Bildiren Sayılar  Çok mu? Az mı? Eşit mi?",
+    "öğrenme çıktıları": "MAT.1.1.3. Nesnelerin sıra sayısını gösterebilme  MAT.1.1.4. İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimle-  riyle karşılaştırabilme",
+    "süreç bileşenleri": "a) İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimleriyle ifade eder.  b) İfade edilen büyüklüklere ilişkin benzerlikleri listeler.  c) İfade edilen büyüklüklere ilişkin farklılıkları listeler.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 9,
+    "ay": "1. DÖNEM ARA TATİLİ: 10 Kasım - 14 Kasım 2025",
+    "hafta_tarihi": "3-7 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Sıra Bildiren Sayılar  Çok mu? Az mı? Eşit mi?",
+    "öğrenme çıktıları": "MAT.1.1.3. Nesnelerin sıra sayısını gösterebilme  MAT.1.1.4. İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimle-  riyle karşılaştırabilme",
+    "süreç bileşenleri": "a) İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimleriyle ifade eder.  b) İfade edilen büyüklüklere ilişkin benzerlikleri listeler.  c) İfade edilen büyüklüklere ilişkin farklılıkları listeler.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 10,
+    "ay": "1. DÖNEM ARA TATİLİ: 10 Kasım - 14 Kasım 2025",
+    "hafta_tarihi": "17-21 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Çok mu? Az mı? Eşit mi?",
+    "öğrenme çıktıları": "MAT.1.1.4. İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimle- riyle karşılaştırabilme",
+    "süreç bileşenleri": "a) İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimle- riyle ifade eder. b) İfade edilen büyüklüklere ilişkin benzerlikleri listeler. c) İfade edilen büyüklüklere ilişkin farklılıkları listeler.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 11,
+    "ay": "1. DÖNEM ARA TATİLİ: 10 Kasım - 14 Kasım 2025",
+    "hafta_tarihi": "24-28 Kasım",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Ritmik Saymalar",
+    "öğrenme çıktıları": "MAT.1.1.5. 100’e kadar ileriye ve 20’den geriye doğru ritmik sayabilme",
+    "süreç bileşenleri": "a) İki niceliğin büyüklüğünü “çok”, “daha çok”, “az”, “daha az” veya “eşit” terimle- riyle ifade eder. b) İfade edilen büyüklüklere ilişkin benzerlikleri listeler. c) İfade edilen büyüklüklere ilişkin farklılıkları listeler.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 12,
+    "ay": "ARALIK",
+    "hafta_tarihi": "1-5 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Ritmik Saymalar  Sayı ve Şekil Örüntüleri",
+    "öğrenme çıktıları": "MAT.1.1.5. 100’e kadar ileriye ve 20’den geriye doğru ritmik sayabilme   MAT.1.1.6. Artan veya azalan sayı ve şekil örüntülerini çözümleyebilme",
+    "süreç bileşenleri": "a) Sayı ve şekil örüntülerinin ardışık ögelerini belirler. b) Sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 13,
+    "ay": "ARALIK",
+    "hafta_tarihi": "8-12 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Sayı ve Şekil Örüntüleri",
+    "öğrenme çıktıları": "MAT.1.1.6. Artan veya azalan sayı ve şekil örüntülerini çözümleyebilme",
+    "süreç bileşenleri": "a) Sayı ve şekil örüntülerinin ardışık ögelerini belirler. b) Sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 14,
+    "ay": "ARALIK",
+    "hafta_tarihi": "15-19 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)",
+    "konu": "Sayı ve Şekil Örüntüleri  Tahmin",
+    "öğrenme çıktıları": "MAT.1.1.6. Artan veya azalan sayı ve şekil örüntülerini çözümleyebilme    MAT.1.1.7. Verilen bir çokluktaki ilişkilerden yararlanarak 20’ye kadar (20 dâhil) olan nesnelerin sayısını tahmin edebilme",
+    "süreç bileşenleri": "a) Sayı ve şekil örüntülerinin ardışık ögelerini belirler. b) Sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler.    a) Verilen bir çokluktaki ilişkileri gözlem ve deneyimleri ile ilişkilendirir. b) Bir çokluğun büyüklüğünü stratejiye dayanarak tahmin eder. c) Tahmin edilen sonuç ile gerçek sonucu karşılaştırarak kendi tahminine yö- nelik bir yargıda bulunur.",
+    "ders_saati": "1+4"
+  },
+  {
+    "hafta": 15,
+    "ay": "ARALIK",
+    "hafta_tarihi": "22-26 Aralık",
+    "ünite": "SAYILAR VE NİCELİKLER (1)       SAYILAR VE NİCELİKLER (2)",
+    "konu": "Tahmin  Uzunluk Ölçme",
+    "öğrenme çıktıları": "MAT.1.1.7. Verilen bir çokluktaki ilişkilerden yararlanarak 20’ye kadar (20 dâhil) olan nes- nelerin sayısını tahmin edebilme   MAT.1.1.8.  Standart olmayan uygun ölçme araçları ile nesnelerin uzunluğunu ve  tartacağı kütlenin ölçüm sonuçlarını tahmin edebilme",
+    "süreç bileşenleri": "a) Verilen bir çokluktaki ilişkileri gözlem ve deneyimleri ile ilişkilendirir. b) Bir çokluğun büyüklüğünü stratejiye dayanarak tahmin eder. c) Tahmin edilen sonuç ile gerçek sonucu karşılaştırarak kendi tahminine yö- nelik bir yargıda bulunur.   a) Ölçeceği uzunluğa ve kütleye uygun standart olmayan ölçme aracını belirler. b) Ölçeceği uzunluğun ve tartacağı kütlenin ölçüm sonuçlarını belirlenen standart olmayan ölçü birimi cinsinden tahmin eder. c) Tahmininin doğruluğuna ilişkin yargıda bulunur.",
+    "ders_saati": "4+1"
+  },
+  {
+    "hafta": 2,
+    "ay": "3+(1)\\",
+    "hafta_tarihi": "SAYILAR VE NİCELİKLER (2)",
+    "ünite": "MAT.1.1.8.  Standart olmayan uygun ölçme araçları ile nesnelerin uzunluğunu ve  tartacağı kütlenin ölçüm sonuçlarını tahmin edebilme",
+    "konu": "a) Ölçeceği uzunluğa ve kütleye uygun standart olmayan ölçme aracını belirler. b) Ölçeceği uzunluğun ve tartacağı kütlenin ölçüm sonuçlarını belirlenen standart olmayan ölçü birimi cinsinden tahmin eder. c) Tahmininin doğruluğuna ilişkin yargıda bulunur.",
+    "öğrenme çıktıları": "Görüşme formu Performans görevi Açık uçlu sorular Eşleştirme  Doğru-yanlış soruları Çalışma kâğıtları Derecelendirme ölçeği",
+    "süreç bileşenleri": "SDB1.1. Kendini Tanıma (Öz Farkındalık Becerisi) SDB2.1. İletişim SDB3.3. Sorumlu Karar  Verme",
+    "ders_saati": "Uzunluk Ölçme"
+  },
+  {
+    "hafta": 17,
+    "ay": "3+(1)\\",
+    "hafta_tarihi": "5-09 Ocak",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Uzunluk Ölçme",
+    "öğrenme çıktıları": "MAT.1.1.8.  Standart olmayan uygun ölçme araçları ile nesnelerin uzunluğunu ve  tartacağı kütlenin ölçüm sonuçlarını tahmin edebilme",
+    "süreç bileşenleri": "a) Ölçeceği uzunluğa ve kütleye uygun standart olmayan ölçme aracını belirler. b) Ölçeceği uzunluğun ve tartacağı kütlenin ölçüm sonuçlarını belirlenen standart olmayan ölçü birimi cinsinden tahmin eder. c) Tahmininin doğruluğuna ilişkin yargıda bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 18,
+    "ay": "3+(1)\\",
+    "hafta_tarihi": "12-16 Ocak",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Tartma",
+    "öğrenme çıktıları": "MAT.1.1.8.  Standart olmayan uygun ölçme araçları ile nesnelerin uzunluğunu ve  tartacağı kütlenin ölçüm sonuçlarını tahmin edebilme",
+    "süreç bileşenleri": "a) Ölçeceği uzunluğa ve kütleye uygun standart olmayan ölçme aracını belirler. b) Ölçeceği uzunluğun ve tartacağı kütlenin ölçüm sonuçlarını belirlenen standart olmayan ölçü birimi cinsinden tahmin eder. c) Tahmininin doğruluğuna ilişkin yargıda bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 18,
+    "ay": "YARIYIL TATİLİ : 19 Ocak - 31 Ocak 2026",
+    "hafta_tarihi": "12-16 Ocak",
+    "ünite": "SAYILAR VE NİCELİKLER (2)",
+    "konu": "Tartma",
+    "öğrenme çıktıları": "MAT.1.1.8.  Standart olmayan uygun ölçme araçları ile nesnelerin uzunluğunu ve  tartacağı kütlenin ölçüm sonuçlarını tahmin edebilme",
+    "süreç bileşenleri": "a) Ölçeceği uzunluğa ve kütleye uygun standart olmayan ölçme aracını belirler. b) Ölçeceği uzunluğun ve tartacağı kütlenin ölçüm sonuçlarını belirlenen standart olmayan ölçü birimi cinsinden tahmin eder. c) Tahmininin doğruluğuna ilişkin yargıda bulunur.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 19,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "2-6 Şubat",
+    "ünite": "SAYILAR VE NİCELİKLER (2)    İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Tartma      Toplama ve Çıkarma",
+    "öğrenme çıktıları": "MAT.1.1.8.  Standart olmayan uygun ölçme araçları ile nesnelerin uzunluğunu ve  tartacağı kütlenin ölçüm sonuçlarını tahmin edebilme  MAT.1.2.1. Günlük yaşamın içerdiği toplama ve çıkarma işlemlerini çözümleyebilme",
+    "süreç bileşenleri": "a) Ölçeceği uzunluğa ve kütleye uygun standart olmayan ölçme aracını belirler. b) Ölçeceği uzunluğun ve tartacağı kütlenin ölçüm sonuçlarını belirlenen standart olmayan ölçü birimi cinsinden tahmin eder. c) Tahmininin doğruluğuna ilişkin yargıda bulunur.    a) Günlük yaşam durumunun toplama ve çıkarma işlemlerinden hangisini gerektirdiğini fark eder. b) Günlük yaşam durumuna karşılık gelen toplama ve çıkarma işlemlerini birbiri ile ilişkilendirir.",
+    "ders_saati": "4+1"
+  },
+  {
+    "hafta": 20,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "9-13 Şubat",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Toplama ve Çıkarma",
+    "öğrenme çıktıları": "MAT.1.2.1. Günlük yaşamın içerdiği toplama ve çıkarma işlemlerini çözümleyebilme",
+    "süreç bileşenleri": "a) Günlük yaşam durumunun toplama ve çıkarma işlemlerinden hangisini gerektirdiğini fark eder. b) Günlük yaşam durumuna karşılık gelen toplama ve çıkarma işlemlerini birbiri ile ilişkilendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 21,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "16-20 Şubat",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Birbirine Eşit İki Doğal Sayının Farkı",
+    "öğrenme çıktıları": "MAT.1.2.1. Günlük yaşamın içerdiği toplama ve çıkarma işlemlerini çözümleyebilme",
+    "süreç bileşenleri": "a) Günlük yaşam durumunun toplama ve çıkarma işlemlerinden hangisini gerektirdiğini fark eder. b) Günlük yaşam durumuna karşılık gelen toplama ve çıkarma işlemlerini birbiri ile ilişkilendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 22,
+    "ay": "ŞUBAT",
+    "hafta_tarihi": "23-27 Şubat",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Toplama ve Çıkarma İşleminde Sıfırın Etkisi  \\Toplama İşleminin Sonucunu Tahmin Etme  \\Zihinden Toplama İşlemi",
+    "öğrenme çıktıları": "MAT.1.2.1. Günlük yaşamın içerdiği toplama ve çıkarma işlemlerini çözümleyebilme  MAT.1.2.2. Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden  işlem yaparak muhakeme edebilme",
+    "süreç bileşenleri": "a) Günlük yaşam durumunun toplama ve çıkarma işlemlerinden hangisini gerektirdiğini fark eder. b) Günlük yaşam durumuna karşılık gelen toplama ve çıkarma işlemlerini birbiri ile ilişkilendirir.    a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler. b) Toplama ve çıkarma işlemlerine ilişkin ögeler arasındaki ilişkileri belirler. c) Toplama ve çıkarma işlemlerine yönelik tahmin ve zihinden işlem sonuçları  arasında ilişki kurar. ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 23,
+    "ay": "MART",
+    "hafta_tarihi": "2-6 Mart",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Çıkarma İşleminin Sonucunu Tahmin Etme",
+    "öğrenme çıktıları": "MAT.1.2.2. Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden  işlem yaparak muhakeme edebilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler. b) Toplama ve çıkarma işlemlerine ilişkin ögeler arasındaki ilişkileri belirler. c) Toplama ve çıkarma işlemlerine yönelik tahmin ve zihinden işlem sonuçları  arasında ilişki kurar. ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 24,
+    "ay": "MART",
+    "hafta_tarihi": "9-13 Mart",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Zihinden Çıkarma  İşlemi  Eşitlik Kavramı",
+    "öğrenme çıktıları": "MAT.1.2.2. Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden  işlem yaparak muhakeme edebilme    MAT.1.2.3. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler. b) Toplama ve çıkarma işlemlerine ilişkin ögeler arasındaki ilişkileri belirler. c) Toplama ve çıkarma işlemlerine yönelik tahmin ve zihinden işlem sonuçları  arasında ilişki kurar. ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder.    a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler. b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür. c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 25,
+    "ay": "MART",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Zihinden Çıkarma  İşlemi  Eşitlik Kavramı",
+    "öğrenme çıktıları": "MAT.1.2.2. Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden  işlem yaparak muhakeme edebilme    MAT.1.2.3. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler. b) Toplama ve çıkarma işlemlerine ilişkin ögeler arasındaki ilişkileri belirler. c) Toplama ve çıkarma işlemlerine yönelik tahmin ve zihinden işlem sonuçları  arasında ilişki kurar. ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder.    a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler. b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür. c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder.",
+    "ders_saati": "ARA TATİL 16-20 MART (Ramazan Bayramı)"
+  },
+  {
+    "hafta": 25,
+    "ay": "OKUL TEMELLİ PLANLAMA",
+    "hafta_tarihi": "23-27 Mart",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Zihinden Çıkarma  İşlemi  Eşitlik Kavramı",
+    "öğrenme çıktıları": "MAT.1.2.2. Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden  işlem yaparak muhakeme edebilme    MAT.1.2.3. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerine ilişkin ögeleri belirler. b) Toplama ve çıkarma işlemlerine ilişkin ögeler arasındaki ilişkileri belirler. c) Toplama ve çıkarma işlemlerine yönelik tahmin ve zihinden işlem sonuçları  arasında ilişki kurar. ç) Tahmin ve zihinden işlem sonuçlarının tutarlılığını ifade eder.    a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler. b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür. c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder.",
+    "ders_saati": "ARA TATİL 16-20 MART (Ramazan Bayramı)"
+  },
+  {
+    "hafta": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "ay": "5",
+    "hafta_tarihi": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "ünite": "MAT.1.2.3. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabil me",
+    "konu": "a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler. b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür. c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder.",
+    "öğrenme çıktıları": "Gözlem formu Açık uçlu sorular Boşluk doldurma  Eşleştirme soruları Çalışma kâğıtları  Kontrol listesi",
+    "süreç bileşenleri": "SDB1.2. Kendini Düzenleme (Öz Düzenleme Becerisi) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme",
+    "ders_saati": "Eşitlik Kavramı"
+  },
+  {
+    "hafta": 26,
+    "ay": "5",
+    "hafta_tarihi": "26. Hafta:  30 Mart-3 Nisan",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Eşitlik Kavramı",
+    "öğrenme çıktıları": "MAT.1.2.3. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler. b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür. c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 27,
+    "ay": "NİSAN",
+    "hafta_tarihi": "6-10 Nisan",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Eşitlik Kavramı  Toplama ve Çıkarma İşlemlerini Yorumlama",
+    "öğrenme çıktıları": "MAT.1.2.3. Eşit işaretinin anlamını toplama ve çıkarma işlemi bağlamında yorumlayabilme  MAT.1.2.4. Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerinde eşit işaretinin kullanımını inceler. b) Eşit işaretinin anlamını kullanarak bir toplama ya da çıkarma işlemini dönüştürür. c) Dönüştürdüğü toplama ve çıkarma işlemlerini kendi cümleleriyle ifade eder.   a) Toplama ve çıkarma işlemlerinin ilişkisini inceler. b) Toplama ve çıkarma işlemlerini tersine dönüştürür. c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 28,
+    "ay": "NİSAN",
+    "hafta_tarihi": "13-17 Nisan",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Toplama ve Çıkarma İşlemlerini Yorumlama",
+    "öğrenme çıktıları": "MAT.1.2.4. Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler. b) Toplama ve çıkarma işlemlerini tersine dönüştürür. c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 29,
+    "ay": "NİSAN",
+    "hafta_tarihi": "20-24 Nisan",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+    "konu": "Toplama ve Çıkarma İşlemlerini Yorumlama",
+    "öğrenme çıktıları": "MAT.1.2.4. Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler. b) Toplama ve çıkarma işlemlerini tersine dönüştürür. c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 30,
+    "ay": "NİSAN - MAYIS",
+    "hafta_tarihi": "27-30 Nisan",
+    "ünite": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE      SAYILAR VE NİCELİKLER (3)",
+    "konu": "Toplama ve Çıkarma İşlemlerini Yorumlama    Paralarımız",
+    "öğrenme çıktıları": "MAT.1.2.4. Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme  MAT.1.1.9.  Paraların (1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL) temsil ettiği  büyüklükleri tanıyabilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler. b) Toplama ve çıkarma işlemlerini tersine dönüştürür. c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder.",
+    "ders_saati": "4"
+  },
+  {
+    "hafta": 31,
+    "ay": "Zenginleştirme  Günlük yaşamda 1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL ile alınabilecek ürünleri  listelemeleri veya olanaklar dâhilinde fotoğraflamaları istenir.  Destekleme  Öğrencilerin bireysel öğrenme hızları da dikkate alınarak farklı öğretim yöntemleri kullanılır  (iş birlikli öğretim, oyunlaştırılarak öğretim vb.). 1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve  200 TL ile sınırlı kalmak kaydıyla para sayma oyunları oynanır.",
+    "hafta_tarihi": "4-8 Mayıs",
+    "ünite": "SAYILAR VE NİCELİKLER (3)       NESNELERİN GEOMETRİSİ (2)",
+    "konu": "Paralarımız      Nesneler ve Geometrik Şekiller",
+    "öğrenme çıktıları": "MAT.1.1.9.  Paraların (1 TL, 5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL) temsil ettiği büyüklükleri tanıyabilme    MAT. 1.3.3. Günlük yaşamdaki nesneleri biçimsel özelliklerine göre ayırt edebilme",
+    "süreç bileşenleri": "a) Toplama ve çıkarma işlemlerinin ilişkisini inceler. b) Toplama ve çıkarma işlemlerini tersine dönüştürür. c) Toplama ve çıkarma işlemlerinin ilişkisini yeniden ifade eder.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 32,
+    "ay": "MAYIS",
+    "hafta_tarihi": "11-15 Mayıs",
+    "ünite": "NESNELERİN GEOMETRİSİ (2)",
+    "konu": "Nesneler ve Geometrik Şekiller",
+    "öğrenme çıktıları": "MAT. 1.3.3. Günlük yaşamdaki nesneleri biçimsel özelliklerine göre ayırt edebilme  MAT. 1.3.4. Günlük yaşamda karşılaşılan geometrik yapılardaki geometrik şekilleri çözümleyebilme",
+    "süreç bileşenleri": "a) Geometrik yapılardaki şekilleri belirler. b) Şekiller arasında ilişki kurar.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 33,
+    "ay": "MAYIS",
+    "hafta_tarihi": "18-22 Mayıs",
+    "ünite": "NESNELERİN GEOMETRİSİ (2)",
+    "konu": "Nesneler ve Geometrik Şekiller",
+    "öğrenme çıktıları": "MAT. 1.3.4. Günlük yaşamda karşılaşılan geometrik yapılardaki geometrik şekilleri çözümleyebilme",
+    "süreç bileşenleri": "a) Geometrik yapılardaki şekilleri belirler. b) Şekiller arasında ilişki kurar.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 34,
+    "ay": "MAYIS",
+    "hafta_tarihi": "1-5 Haziran",
+    "ünite": "NESNELERİN GEOMETRİSİ (2)         VERİYE DAYALI ARAŞTIRMA",
+    "konu": "Nesneler ve Geometrik Şekiller       Veri Toplama ve Değerlendirme",
+    "öğrenme çıktıları": "MAT. 1.3.5. Biçimsel özelliklerine göre geometrik şekilleri sınıflandırabilme       MAT.1.4.1. Kategorik veriye dayalı temel veri grubu ile çalışabilme ve veriye dayalı karar  verebilme",
+    "süreç bileşenleri": "a) Geometrik şekillerin biçimsel özelliklerini belirler. b) Geometrik şekilleri biçimsel özelliklerine göre ayırır. c) Geometrik şekilleri tasnif eder. ç) Geometrik şekilleri adlandırır.     a) Kategorik veriye dayalı istatiksel araştırma gerektiren günlük yaşam durumu  belirler. b) Kategorik veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık  tablosu ve nesne grafini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+    "ders_saati": "3+2"
+  },
+  {
+    "hafta": 35,
+    "ay": "HAZİRAN",
+    "hafta_tarihi": "8-12 Haziran",
+    "ünite": "NESNELERİN GEOMETRİSİ (2)         VERİYE DAYALI ARAŞTIRMA",
+    "konu": "Nesneler ve Geometrik Şekiller       Veri Toplama ve Değerlendirme",
+    "öğrenme çıktıları": "MAT. 1.3.5. Biçimsel özelliklerine göre geometrik şekilleri sınıflandırabilme       MAT.1.4.1. Kategorik veriye dayalı temel veri grubu ile çalışabilme ve veriye dayalı karar  verebilme",
+    "süreç bileşenleri": "a) Geometrik şekillerin biçimsel özelliklerini belirler. b) Geometrik şekilleri biçimsel özelliklerine göre ayırır. c) Geometrik şekilleri tasnif eder. ç) Geometrik şekilleri adlandırır.     a) Kategorik veriye dayalı istatiksel araştırma gerektiren günlük yaşam durumu  belirler. b) Kategorik veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık  tablosu ve nesne grafini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+    "ders_saati": "OKUL TEMELLİ PLANLAMA\\"
+  },
+  {
+    "hafta": "VERİYE DAYALI ARAŞTIRMA",
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "VERİYE DAYALI ARAŞTIRMA",
+    "ünite": "MAT.1.4.1. Kategorik veriye dayalı temel veri grubu ile çalışabilme ve veriye dayalı karar  verebilme",
+    "konu": "a) Kategorik veriye dayalı istatiksel araştırma gerektiren günlük yaşam durumu  belirler. b) Kategorik veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık  tablosu ve nesne grafini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+    "öğrenme çıktıları": "Performans görevi Açık uçlu ve eşleştirme sorularından oluşan çalışma kâğıdı  Kontrol listesi",
+    "süreç bileşenleri": "SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. Sorumlu Karar Verme",
+    "ders_saati": "Veri Toplama ve Değerlendirme"
+  },
+  {
+    "hafta": 36,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "15-19 Haziran",
+    "ünite": "VERİYE DAYALI ARAŞTIRMA",
+    "konu": "Veri Toplama ve Değerlendirme",
+    "öğrenme çıktıları": "MAT.1.4.1. Kategorik veriye dayalı temel veri grubu ile çalışabilme ve veriye dayalı karar  verebilme",
+    "süreç bileşenleri": "a) Kategorik veriye dayalı istatiksel araştırma gerektiren günlük yaşam durumu  belirler. b) Kategorik veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık  tablosu ve nesne grafini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+    "ders_saati": "5"
+  },
+  {
+    "hafta": 37,
+    "ay": "3+(2)\\",
+    "hafta_tarihi": "22-26 Haziran",
+    "ünite": "VERİYE DAYALI ARAŞTIRMA",
+    "konu": "Veri Toplama ve Değerlendirme",
+    "öğrenme çıktıları": "MAT.1.4.1. Kategorik veriye dayalı temel veri grubu ile çalışabilme ve veriye dayalı karar  verebilme",
+    "süreç bileşenleri": "a) Kategorik veriye dayalı istatiksel araştırma gerektiren günlük yaşam durumu  belirler. b) Kategorik veriye dayalı betimleme gerektirebilecek araştırma soruları oluşturur. c) Kategorik verileri toplamak için plan yapar. ç) Kategorik verileri toplar. d) Toplanan verileri analiz etmek için görselleştirme araçlarından çetele, sıklık  tablosu ve nesne grafini seçer. e) Seçtiği araçlarla verileri görselleştirerek analiz eder. f) Araştırma sonuçlarını yorumlar. g) Araştırma sonuçlarını araştırma sorularına göre değerlendirir.",
+    "ders_saati": "SOSYAL ETKİNLİK HAFTASI"
+  }
+]
